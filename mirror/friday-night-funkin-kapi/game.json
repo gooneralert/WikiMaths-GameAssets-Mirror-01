@@ -1,0 +1,306 @@
+{
+  "slug": "friday-night-funkin-kapi",
+  "title": "Friday Night Funkin Kapi",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnf/kapi.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnf/kapi.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/kapi.webp",
+  "baseUrl": "https://truffled.lol/games/fnf/",
+  "entry": "/kapi.html",
+  "entryUrl": "https://truffled.lol/games/fnf/kapi.html",
+  "status": "done",
+  "sizeBytes": 6087740,
+  "assetCount": 37,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/pixel.woff",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/vcr.woff",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/pixel.otf",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/pixel.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/vcr.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/nokiafc22.woff",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/nokiafc22.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/nokiafc22.ttf",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/monsterrat.woff",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/monsterrat.ttf",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/monsterrat.svg#Monsterrat",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.png",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.xml",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.json",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.txt",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/manifest/week3.json",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/manifest/week4.json",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/images/funkay.png",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.bundle",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/manifest/week5.json",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/manifest/week6.json",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/images/gfDanceTitle.json",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/events.json",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/weeks/weekList.txt",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.ttf",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.jpg",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.stitch.txt",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.ogg",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/haxe.io.Bytes",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/haxe.Resource",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.otf",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime._internal.format.BMP",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime._internal.format.PNG",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime._internal.format.JPEG",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.gif",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.webp",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/library.json",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/openfl.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime.utils.AssetBundle",
+    "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime.utils.Assets"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/pixel.woff",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/pixel.woff",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/vcr.woff",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/vcr.woff",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/pixel.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/pixel.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/pixel.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/pixel.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/vcr.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/vcr.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/nokiafc22.woff",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/nokiafc22.woff",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/nokiafc22.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/nokiafc22.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/nokiafc22.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/nokiafc22.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/monsterrat.woff",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/monsterrat.woff",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/monsterrat.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/monsterrat.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/monsterrat.svg#Monsterrat",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/monsterrat.svg#Monsterrat",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/monsterrat.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/flixel/fonts/monsterrat.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/library.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/library.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/manifest/week3.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/manifest/week3.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/manifest/week4.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/manifest/week4.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/images/funkay.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/images/funkay.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.bundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.bundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/manifest/week5.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/manifest/week5.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/manifest/week6.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/manifest/week6.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/images/gfDanceTitle.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/images/gfDanceTitle.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/events.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/events.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/weeks/weekList.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/weeks/weekList.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.stitch.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.stitch.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/haxe.io.Bytes",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/haxe.io.Bytes",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/haxe.Resource",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/haxe.Resource",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime._internal.format.BMP",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime._internal.format.BMP",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime._internal.format.PNG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime._internal.format.PNG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime._internal.format.JPEG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime._internal.format.JPEG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.gif",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.gif",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.webp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/.webp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/library.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/openfl.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/openfl.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/kapi/lime.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnf/kapi.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:12:50.150Z"
+}

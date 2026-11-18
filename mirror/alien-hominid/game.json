@@ -1,0 +1,49 @@
+{
+  "slug": "alien-hominid",
+  "title": "Alien Hominid",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/alien/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/alien/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/alien.webp",
+  "baseUrl": "https://truffled.lol/games/alien/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/alien/index.html",
+  "status": "done",
+  "sizeBytes": 15664616,
+  "assetCount": 20,
+  "known404": [
+    "https://truffled.lol/games/alien/ruffle_web_bg.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/alien/ruffle_web_bg.js",
+      "error": "HTTP 404 for https://truffled.lol/games/alien/ruffle_web_bg.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T10:53:33.167Z",
+  "verifiedAt": "2026-11-16T12:50:08.877Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Alien Hominid",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.6564,
+    "rendered": true
+  }
+}

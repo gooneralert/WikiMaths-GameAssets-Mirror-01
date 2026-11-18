@@ -1,0 +1,38 @@
+{
+  "slug": "gorilla-tag",
+  "title": "Gorilla Tag",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/gtag/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/gtag/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/gtag.webp",
+  "baseUrl": "https://truffled.lol/games/gtag/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/gtag/index.html",
+  "status": "done",
+  "sizeBytes": 14473,
+  "assetCount": 4,
+  "known404": [
+    "https://truffled.lol/games/gtag/TemplateData/favicon.ico"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/gtag/TemplateData/favicon.ico",
+      "error": "HTTP 404 for https://truffled.lol/games/gtag/TemplateData/favicon.ico",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gtag/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:21:20.489Z"
+}

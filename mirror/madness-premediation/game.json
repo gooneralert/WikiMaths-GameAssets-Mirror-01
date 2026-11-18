@@ -1,0 +1,49 @@
+{
+  "slug": "madness-premediation",
+  "title": "Madness Premediation",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/madnesspremediation.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/madnesspremediation.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/madnesspremediation.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/madnesspremediation.html",
+  "entryUrl": "https://truffled.lol/gamefile/madnesspremediation.html",
+  "status": "done",
+  "sizeBytes": 13776478,
+  "assetCount": 14,
+  "known404": [
+    "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T13:20:47.182Z",
+  "verifiedAt": "2026-11-17T13:20:57.570Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "really cool flash game",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.9051,
+    "rendered": true
+  }
+}

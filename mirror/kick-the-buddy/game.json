@@ -1,0 +1,98 @@
+{
+  "slug": "kick-the-buddy",
+  "title": "Kick The Buddy",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/kickthebuddy/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/kickthebuddy/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/ktb.webp",
+  "baseUrl": "https://truffled.lol/games/kickthebuddy/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/kickthebuddy/index.html",
+  "status": "done",
+  "sizeBytes": 178581,
+  "assetCount": 21,
+  "known404": [
+    "https://truffled.lol/games/kickthebuddy/28b3d1e66bd62209d17eda502289c7a4.loader.js",
+    "https://truffled.lol/games/kickthebuddy/57f01ad15ff5308aa4cf52709941de32.data",
+    "https://truffled.lol/games/kickthebuddy/ce98e22b32ee0b3ac40e99c9eeb6b1aa.framework.js",
+    "https://truffled.lol/games/kickthebuddy/f8d0a9b6d8d08e138ce5cac7d62b5286.wasm",
+    "https://truffled.lol/games/kickthebuddy/97e023a6c108e067d148cf5c5b57128e.jpg",
+    "https://truffled.lol/games/kickthebuddy/unity.js",
+    "https://truffled.lol/unity/dist/unity.js",
+    "https://truffled.lol/games/kickthebuddy/UnityLoader.2019.2.js",
+    "https://truffled.lol/unity-2020/dist/unity-2020.js",
+    "https://truffled.lol/games/kickthebuddy/UnityLoader.2019.1.js",
+    "https://truffled.lol/games/kickthebuddy/UnityLoader.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/kickthebuddy/28b3d1e66bd62209d17eda502289c7a4.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/games/kickthebuddy/28b3d1e66bd62209d17eda502289c7a4.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kickthebuddy/57f01ad15ff5308aa4cf52709941de32.data",
+      "error": "HTTP 404 for https://truffled.lol/games/kickthebuddy/57f01ad15ff5308aa4cf52709941de32.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kickthebuddy/ce98e22b32ee0b3ac40e99c9eeb6b1aa.framework.js",
+      "error": "HTTP 404 for https://truffled.lol/games/kickthebuddy/ce98e22b32ee0b3ac40e99c9eeb6b1aa.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kickthebuddy/f8d0a9b6d8d08e138ce5cac7d62b5286.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/kickthebuddy/f8d0a9b6d8d08e138ce5cac7d62b5286.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kickthebuddy/97e023a6c108e067d148cf5c5b57128e.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/kickthebuddy/97e023a6c108e067d148cf5c5b57128e.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kickthebuddy/unity.js",
+      "error": "HTTP 404 for https://truffled.lol/games/kickthebuddy/unity.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/unity/dist/unity.js",
+      "error": "HTTP 404 for https://truffled.lol/unity/dist/unity.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kickthebuddy/UnityLoader.2019.2.js",
+      "error": "HTTP 404 for https://truffled.lol/games/kickthebuddy/UnityLoader.2019.2.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/unity-2020/dist/unity-2020.js",
+      "error": "HTTP 404 for https://truffled.lol/unity-2020/dist/unity-2020.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kickthebuddy/UnityLoader.2019.1.js",
+      "error": "HTTP 404 for https://truffled.lol/games/kickthebuddy/UnityLoader.2019.1.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kickthebuddy/UnityLoader.js",
+      "error": "HTTP 404 for https://truffled.lol/games/kickthebuddy/UnityLoader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kickthebuddy/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:51:02.653Z"
+}

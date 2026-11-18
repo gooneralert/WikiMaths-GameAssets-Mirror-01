@@ -1,0 +1,51 @@
+{
+  "slug": "kindergarten-2",
+  "title": "Kindergarten 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/kindergarten/2/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/kindergarten/2/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/kind2.webp",
+  "baseUrl": "https://truffled.lol/games/kindergarten/2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/kindergarten/2/index.html",
+  "status": "done",
+  "sizeBytes": 26370,
+  "assetCount": 16,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/Build.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Build.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Build.framework.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Build.framework.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/kindergarten/2/Build/Build.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/kindergarten/2/Build/Build.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/kindergarten/2/Build/Build.data",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/kindergarten/2/Build/Build.data",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/games/kindergarten/2/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:51:06.832Z"
+}

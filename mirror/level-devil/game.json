@@ -1,0 +1,223 @@
+{
+  "slug": "level-devil",
+  "title": "Level Devil",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/lvldevil/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/lvldevil/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/level.webp",
+  "baseUrl": "https://truffled.lol/games/lvldevil/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/lvldevil/index.html",
+  "status": "done",
+  "sizeBytes": 4059907,
+  "assetCount": 82,
+  "known404": [
+    "https://truffled.lol/games/lvldevil/com.stencyl.Data",
+    "https://truffled.lol/games/lvldevil/assets/graphics/default-font.png",
+    "https://truffled.lol/games/lvldevil/config/game-config.json",
+    "https://truffled.lol/games/lvldevil/lime._internal.format.JPEG",
+    "https://truffled.lol/games/lvldevil/lime._internal.format.PNG",
+    "https://truffled.lol/games/lvldevil/library.json",
+    "https://truffled.lol/library.json",
+    "https://truffled.lol/games/lvldevil/FileSaver.js",
+    "https://truffled.lol/games/lvldevil/polygonal.ds.Map",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://t.poki.io/game-cookies",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://t.poki.io/adserver",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://api.poki.com/ads/houseads/video/vast",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://aax.amazon-adsystem.com/e/dtb/vast?b=",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://prebid-server.rubiconproject.com/cache?uuid=",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://onetag-sys.com/invocation/?key=",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://search.spotxchange.com/ad/vast.html?key=",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache?uuid=",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://devs-api.poki.com/gameinfo/@sdk?href=",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://t.poki.io/l",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://geo.poki.io/",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://api.poki.com/ads/settings",
+    "https://truffled.lol/games/lvldevil/patch/touchControllerConfig.json",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?patch/google/ima3.js?imasdk.googleapis.com/js/sdkloader/ima3.js",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?/__offline__/disabled-telemetry",
+    "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://t.poki.io/ge"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/lvldevil/com.stencyl.Data",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/com.stencyl.Data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/assets/graphics/default-font.png",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/assets/graphics/default-font.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/config/game-config.json",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/config/game-config.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/lime._internal.format.JPEG",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/lime._internal.format.JPEG",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/lime._internal.format.PNG",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/lime._internal.format.PNG",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/library.json",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/library.json",
+      "error": "HTTP 404 for https://truffled.lol/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/FileSaver.js",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/FileSaver.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/polygonal.ds.Map",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/polygonal.ds.Map",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://t.poki.io/game-cookies",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://t.poki.io/game-cookies",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://t.poki.io/adserver",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://t.poki.io/adserver",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://api.poki.com/ads/houseads/video/vast",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://api.poki.com/ads/houseads/video/vast",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://aax.amazon-adsystem.com/e/dtb/vast?b=",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://aax.amazon-adsystem.com/e/dtb/vast?b=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://prebid-server.rubiconproject.com/cache?uuid=",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://prebid-server.rubiconproject.com/cache?uuid=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://onetag-sys.com/invocation/?key=",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://onetag-sys.com/invocation/?key=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://search.spotxchange.com/ad/vast.html?key=",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://search.spotxchange.com/ad/vast.html?key=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache?uuid=",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache?uuid=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://devs-api.poki.com/gameinfo/@sdk?href=",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://devs-api.poki.com/gameinfo/@sdk?href=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://t.poki.io/l",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://t.poki.io/l",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://geo.poki.io/",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://geo.poki.io/",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://api.poki.com/ads/settings",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://api.poki.com/ads/settings",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/touchControllerConfig.json",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/touchControllerConfig.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?patch/google/ima3.js?imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?patch/google/ima3.js?imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?/__offline__/disabled-telemetry",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?/__offline__/disabled-telemetry",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://t.poki.io/ge",
+      "error": "HTTP 404 for https://truffled.lol/games/lvldevil/patch/patch/json/null.json?https://t.poki.io/ge",
+      "status": 404
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/dpad.png",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/dpad.png",
+      "status": 403
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/_down.png",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/_down.png",
+      "status": 403
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/.png",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/.png",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T12:39:44.856Z",
+  "verifiedAt": "2026-11-17T12:39:55.582Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Level Devil Unblocked - ClassRoom6x",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 854,
+      "height": 480
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9996,
+    "rendered": true
+  }
+}

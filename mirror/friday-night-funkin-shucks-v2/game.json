@@ -1,0 +1,381 @@
+{
+  "slug": "friday-night-funkin-shucks-v2",
+  "title": "Friday Night Funkin Shucks V2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnf/shucksv2.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnf/shucksv2.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/shucksv2.webp",
+  "baseUrl": "https://truffled.lol/games/fnf/",
+  "entry": "/shucksv2.html",
+  "entryUrl": "https://truffled.lol/games/fnf/shucksv2.html",
+  "status": "done",
+  "sizeBytes": 4655942,
+  "assetCount": 27,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/vcr.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/pixel.otf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/pixel.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/pixel.woff",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/vcr.woff",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/nokiafc22.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/nokiafc22.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/monsterrat.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/monsterrat.woff",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/monsterrat.svg#Monsterrat",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/limo/limoDancer.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/monsterrat.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/checkboxanim.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/data/credits.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/pixelUI/dialogueBox-senpaiMad.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/speech_bubble.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.bundle",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/funkay.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/senpaiCrazy.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/campaign_menu_UI_assets.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/bfPortrait.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/titleEnter.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/gfDanceTitle.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/characters/marmvipsRTX.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/data/introText.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/logoBumpin.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/weebTrees.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/dialogue.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.stitch.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/haxe.io.Bytes",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/data/characterList.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/lime.utils.AssetBundle",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.wav",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/NOTE_assets.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/lime.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/openfl.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/shared/music/tea-time.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/FileSaver.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/shared/music/breakfast.mp3"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/vcr.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/vcr.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/pixel.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/pixel.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/pixel.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/pixel.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/pixel.woff",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/pixel.woff",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/vcr.woff",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/vcr.woff",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/nokiafc22.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/nokiafc22.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/nokiafc22.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/nokiafc22.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/monsterrat.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/monsterrat.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/monsterrat.woff",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/monsterrat.woff",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/monsterrat.svg#Monsterrat",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/monsterrat.svg#Monsterrat",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/nokiafc22.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/nokiafc22.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Animation.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Animation.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/limo/limoDancer.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/limo/limoDancer.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/monsterrat.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/flixel/fonts/monsterrat.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/checkboxanim.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/checkboxanim.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/data/credits.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/data/credits.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/pixelUI/dialogueBox-senpaiMad.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/pixelUI/dialogueBox-senpaiMad.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/bgFreaks.xml",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/bgFreaks.xml",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/speech_bubble.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/speech_bubble.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/library.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/library.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/dialogue.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/dialogue.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.bundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.bundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/funkay.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/funkay.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/senpaiCrazy.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/senpaiCrazy.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/campaign_menu_UI_assets.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/campaign_menu_UI_assets.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/bfPortrait.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/bfPortrait.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/titleEnter.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/titleEnter.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/gfDanceTitle.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/gfDanceTitle.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/spritemap1.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/spritemap1.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/spritemap.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/spritemap.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/characters/marmvipsRTX.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/characters/marmvipsRTX.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/data/introText.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/data/introText.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/logoBumpin.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/logoBumpin.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/weebTrees.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/weeb/weebTrees.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/tankmanKilled1.xml",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/tankmanKilled1.xml",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/dialogue.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/dialogue.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.stitch.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.stitch.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/haxe.io.Bytes",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/haxe.io.Bytes",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/data/characterList.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/data/characterList.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.otf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.otf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/NOTE_assets.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/images/NOTE_assets.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/lime.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/lime.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/openfl.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/openfl.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.webp",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/.webp",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/library.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/library.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/shared/music/tea-time.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/shared/music/tea-time.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/FileSaver.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/FileSaver.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/shared/music/breakfast.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shucks-v2/assets/shared/music/breakfast.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnf/shucksv2.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:15:24.234Z"
+}

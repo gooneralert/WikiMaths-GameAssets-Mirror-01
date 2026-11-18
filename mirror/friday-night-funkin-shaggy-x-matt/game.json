@@ -1,0 +1,1153 @@
+{
+  "slug": "friday-night-funkin-shaggy-x-matt",
+  "title": "Friday Night Funkin Shaggy X Matt",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnf/shaggyxmatt.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnf/shaggyxmatt.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/sxm.webp",
+  "baseUrl": "https://truffled.lol/games/fnf/",
+  "entry": "/shaggyxmatt.html",
+  "entryUrl": "https://truffled.lol/games/fnf/shaggyxmatt.html",
+  "status": "done",
+  "sizeBytes": 2526176,
+  "assetCount": 28,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/vcr.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/pixel.otf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/pixel.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/nokiafc22.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/monsterrat.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/monsterrat.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/alphabet.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/alphabet.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/monsterrat.svg#Monsterrat",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoDancer.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/BOYFRIEND.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bgFreaks.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoDancer.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bfCar.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bfCar.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bfChristmas.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPixel.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPixelsDEAD.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPixelsDEAD.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_shaggy.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_shaggy.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/gfCar.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/GF_assets.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/shaggy.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/shaggy.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/gfCar.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/gfPixel.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/gfPixel.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/gfChristmas.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/matt.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/matt_lost.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_matt.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_matt.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/matt_lost.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Mom_Assets.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Monster_Assets.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/momCar.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Monster_Assets.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Mom_Assets.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/monsterChristmas.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/momCar.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/mom_dad_christmas_assets.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Pico_FNF_assetss.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/mom_dad_christmas_assets.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Pico_FNF_assetss.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/scooby.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/senpai.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pshaggy.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/senpai.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pshaggy.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/scooby.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/spirit.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/spirit.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/spooky_kids_assets.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/data/characterList.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/spooky_kids_assets.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/music/LunchboxScary.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/dialogueBox-pixel.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/dialogueBox-pixel.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/dialogueBox-senpaiMad.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/dialogueBox-evil.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/senpaiPortrait.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPortrait.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/senpaiPortrait.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/hand_textbox.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPortrait.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/wii_cursor.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_bg.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/letterbomb.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_text_small.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/hb_sc_bg.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/hb_big_border.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/hb_big_bg.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/water_back.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/menuColor.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/menuBG.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/pauseBG.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/hb_big_text.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/pauseUI.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/pauseUI.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/iconGrid.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.bundle",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/logoBumpin.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/bfLol.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/logoBumpin.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/gfDanceTitle.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/menuChars.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/menuDesat.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/FNF_main_menu_assets.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/music/freakyMenu.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/campaign_menu_UI_characters.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/FNF_main_menu_assets.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_bg.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/campaign_menu_UI_characters.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/arrows-pixels.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_bg.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/NOTE_assets.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/optGear.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/music/breakfast.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/halloween_bg.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/arrowEnds.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/halloween_bg.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/sky.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/NOTE_assets.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win2.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win0.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win1.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win3.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win4.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/train.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/behindTrain.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/street.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoSunset.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/bgLimo.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoDrive.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoDrive.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/fastCarLol.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/bgLimo.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoOverlay.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/upperBop.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/christmasTree.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bgEscalator.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bottomBop.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bottomBop.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/upperBop.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/fgSnow.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/santa.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/santa.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/evilTree.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/evilSnow.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/evilBG.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebSchool.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebSky.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebTreesBack.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebTrees.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebTrees.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/petals.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/petals.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/animatedEvilSchool.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/animatedEvilSchool.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bg_boxn.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bg_boxr.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bg_lemon.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/stageback.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/stagefront.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/stagecurtains.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/doorframe.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/healthBar.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bshaggy.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/cs_bg.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/cs_bg.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bshaggy.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/music/expo.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/sh_title.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/sounds/beep.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/library.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/lime.utils.AssetBundle",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/haxe.Resource",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/lime.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/openfl.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.otf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/FileSaver.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/haxe.io.Bytes",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/_polymod_pack.txt"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/vcr.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/vcr.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/pixel.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/pixel.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/pixel.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/assets/fonts/pixel.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/nokiafc22.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/nokiafc22.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/monsterrat.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/monsterrat.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/monsterrat.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/monsterrat.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/alphabet.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/alphabet.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/alphabet.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/alphabet.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/monsterrat.svg#Monsterrat",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/monsterrat.svg#Monsterrat",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoDancer.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoDancer.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/nokiafc22.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/fonts/nokiafc22.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/BOYFRIEND.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/BOYFRIEND.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bgFreaks.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bgFreaks.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoDancer.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoDancer.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bfCar.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bfCar.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bfCar.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bfCar.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bfChristmas.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bfChristmas.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPixel.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPixel.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/BOYFRIEND.xml",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/BOYFRIEND.xml",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPixelsDEAD.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPixelsDEAD.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bfChristmas.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bfChristmas.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPixelsDEAD.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPixelsDEAD.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPixel.xml",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPixel.xml",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_shaggy.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_shaggy.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_shaggy.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_shaggy.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/gfCar.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/gfCar.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/GF_assets.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/GF_assets.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/shaggy.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/shaggy.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/shaggy.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/shaggy.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/gfCar.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/gfCar.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/gfPixel.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/gfPixel.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/gfPixel.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/gfPixel.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/gfChristmas.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/gfChristmas.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/GF_assets.xml",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/GF_assets.xml",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/matt.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/matt.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/matt_lost.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/matt_lost.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_matt.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_matt.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_matt.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_matt.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/matt_lost.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/matt_lost.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Mom_Assets.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Mom_Assets.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Monster_Assets.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Monster_Assets.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/momCar.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/momCar.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Monster_Assets.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Monster_Assets.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Mom_Assets.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Mom_Assets.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/monsterChristmas.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/monsterChristmas.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/momCar.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/momCar.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/mom_dad_christmas_assets.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/mom_dad_christmas_assets.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Pico_FNF_assetss.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Pico_FNF_assetss.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/mom_dad_christmas_assets.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/mom_dad_christmas_assets.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Pico_FNF_assetss.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/Pico_FNF_assetss.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/scooby.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/scooby.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/monsterChristmas.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/monsterChristmas.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/senpai.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/senpai.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pshaggy.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pshaggy.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/senpai.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/senpai.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pshaggy.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pshaggy.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/scooby.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/scooby.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/spirit.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/spirit.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Inst.mp3",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Inst.mp3",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/spirit.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/spirit.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Voices.mp3",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Voices.mp3",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Fuck.mp3",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Fuck.mp3",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/spooky_kids_assets.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/spooky_kids_assets.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/data/characterList.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/data/characterList.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/spooky_kids_assets.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/spooky_kids_assets.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/music/LunchboxScary.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/music/LunchboxScary.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/GodVoice.mp3",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/GodVoice.mp3",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/dialogueBox-pixel.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/dialogueBox-pixel.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/dialogueBox-pixel.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/dialogueBox-pixel.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/dialogueBox-senpaiMad.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/dialogueBox-senpaiMad.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/dialogueBox-evil.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/dialogueBox-evil.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/senpaiPortrait.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/senpaiPortrait.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPortrait.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPortrait.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/senpaiPortrait.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/senpaiPortrait.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/hand_textbox.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/hand_textbox.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPortrait.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/bfPortrait.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/wii_cursor.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/wii_cursor.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_bg.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_bg.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/letterbomb.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/letterbomb.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_text_small.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_text_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/hb_sc_bg.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/hb_sc_bg.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/hb_big_border.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/hb_big_border.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/hb_big_bg.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/hb_big_bg.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/water_back.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/water_back.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/menuColor.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/menuColor.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/menuBG.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/menuBG.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/pauseBG.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/pauseBG.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/water.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/water.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/hb_big_text.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/hb_files/hb_big_text.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/pauseUI.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/pauseUI.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/library.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/library.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/pauseUI.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/pauseUI.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/iconGrid.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/iconGrid.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.bundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.bundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/logoBumpin.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/logoBumpin.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/bfLol.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/bfLol.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/logoBumpin.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/logoBumpin.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/bfLol.xml",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/pauseAlt/bfLol.xml",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/gfDanceTitle.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/gfDanceTitle.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/menuChars.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/menuChars.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/menuDesat.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/menuDesat.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/FNF_main_menu_assets.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/FNF_main_menu_assets.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/music/freakyMenu.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/music/freakyMenu.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/campaign_menu_UI_characters.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/campaign_menu_UI_characters.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/FNF_main_menu_assets.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/FNF_main_menu_assets.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_bg.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_bg.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/gfDanceTitle.xml",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/gfDanceTitle.xml",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/campaign_menu_UI_characters.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/campaign_menu_UI_characters.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/arrows-pixels.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/arrows-pixels.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_bg.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/god_bg.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/NOTE_assets.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/NOTE_assets.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/optGear.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/optGear.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/music/breakfast.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/music/breakfast.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/halloween_bg.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/halloween_bg.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/arrowEnds.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/pixelUI/arrowEnds.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/halloween_bg.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/halloween_bg.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/sky.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/sky.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/NOTE_assets.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/NOTE_assets.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win2.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win2.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win0.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win0.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win1.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win1.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win3.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win3.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win4.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/win4.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/city.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/city.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/train.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/train.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/behindTrain.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/behindTrain.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/street.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/philly/street.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoSunset.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoSunset.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/bgLimo.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/bgLimo.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoDrive.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoDrive.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoDrive.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoDrive.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/fastCarLol.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/fastCarLol.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/bgLimo.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/bgLimo.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoOverlay.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/limo/limoOverlay.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/upperBop.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/upperBop.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/christmasTree.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/christmasTree.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bgEscalator.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bgEscalator.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bottomBop.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bottomBop.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bgWalls.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bgWalls.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bottomBop.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/bottomBop.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/upperBop.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/upperBop.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/fgSnow.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/fgSnow.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/santa.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/santa.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/santa.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/santa.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/evilTree.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/evilTree.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/evilSnow.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/evilSnow.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/evilBG.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/christmas/evilBG.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebSchool.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebSchool.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebSky.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebSky.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebTreesBack.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebTreesBack.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebTrees.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebTrees.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebTrees.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebTrees.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/petals.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/petals.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/petals.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/petals.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebStreet.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/weebStreet.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/animatedEvilSchool.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/animatedEvilSchool.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/animatedEvilSchool.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/weeb/animatedEvilSchool.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bg_boxn.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bg_boxn.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bg_boxr.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bg_boxr.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bg_lemon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bg_lemon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/stageback.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/stageback.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/stagefront.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/stagefront.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/stagecurtains.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/stagecurtains.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/doorframe.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/doorframe.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/healthBar.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/healthBar.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/shadows.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/shadows.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bshaggy.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bshaggy.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/cs_bg.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/cs_bg.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/cs_bg.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/cs_bg.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bshaggy.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/bshaggy.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/music/expo.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/music/expo.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/sh_title.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/images/sh_title.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/sounds/beep.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/sounds/beep.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/library.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/haxe.Resource",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/haxe.Resource",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/lime.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/lime.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/openfl.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/openfl.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/FileSaver.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/FileSaver.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/haxe.io.Bytes",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/haxe.io.Bytes",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/_polymod_pack.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/_polymod_pack.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/sounds/flixel.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/flixel/sounds/flixel.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/games/fnf/shaggyxmatt.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:15:09.196Z"
+}

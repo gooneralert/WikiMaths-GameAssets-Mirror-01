@@ -1,0 +1,22 @@
+{
+  "/games/gangbeasts/Build/data-manifest.json": "/Build/data-manifest.json",
+  "/games/gangbeasts/TemplateData/favicon.ico": "/TemplateData/favicon.ico",
+  "/games/gangbeasts/TemplateData/fullscreen-button.png": "/TemplateData/fullscreen-button.png",
+  "/games/gangbeasts/TemplateData/progress-bar-empty-light.png": "/TemplateData/progress-bar-empty-light.png",
+  "/games/gangbeasts/TemplateData/progress-bar-full-light.png": "/TemplateData/progress-bar-full-light.png",
+  "/games/gangbeasts/TemplateData/style.css": "/TemplateData/style.css",
+  "/games/gangbeasts/TemplateData/unity-logo-light.png": "/TemplateData/unity-logo-light.png",
+  "/games/gangbeasts/TemplateData/webgl-logo.png": "/TemplateData/webgl-logo.png",
+  "/games/gangbeasts/game-data.js": "/game-data.js",
+  "/games/gangbeasts/index.html": "/index.html",
+  "https://truffled.lol/games/gangbeasts/Build/data-manifest.json": "/Build/data-manifest.json",
+  "https://truffled.lol/games/gangbeasts/TemplateData/favicon.ico": "/TemplateData/favicon.ico",
+  "https://truffled.lol/games/gangbeasts/TemplateData/fullscreen-button.png": "/TemplateData/fullscreen-button.png",
+  "https://truffled.lol/games/gangbeasts/TemplateData/progress-bar-empty-light.png": "/TemplateData/progress-bar-empty-light.png",
+  "https://truffled.lol/games/gangbeasts/TemplateData/progress-bar-full-light.png": "/TemplateData/progress-bar-full-light.png",
+  "https://truffled.lol/games/gangbeasts/TemplateData/style.css": "/TemplateData/style.css",
+  "https://truffled.lol/games/gangbeasts/TemplateData/unity-logo-light.png": "/TemplateData/unity-logo-light.png",
+  "https://truffled.lol/games/gangbeasts/TemplateData/webgl-logo.png": "/TemplateData/webgl-logo.png",
+  "https://truffled.lol/games/gangbeasts/game-data.js": "/game-data.js",
+  "https://truffled.lol/games/gangbeasts/index.html": "/index.html"
+}

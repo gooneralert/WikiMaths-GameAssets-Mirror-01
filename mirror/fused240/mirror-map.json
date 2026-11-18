@@ -1,0 +1,22 @@
+{
+  "/404": "/.js.html",
+  "/css/404.css": "/__site__/css/404.css",
+  "/games/fused240/.js": "/.js.html",
+  "/games/fused240/.wasm": "/.wasm.html",
+  "/games/fused240/Fused%20240.apple-touch-icon.png": "/Fused 240.apple-touch-icon.png",
+  "/games/fused240/Fused%20240.icon.png": "/Fused 240.icon.png",
+  "/games/fused240/Fused%20240.js": "/Fused 240.js",
+  "/games/fused240/Fused%20240.png": "/Fused 240.png",
+  "/games/fused240/index.html": "/index.html",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://truffled.lol/404": "/.js.html",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/games/fused240/.js": "/.js.html",
+  "https://truffled.lol/games/fused240/.wasm": "/.wasm.html",
+  "https://truffled.lol/games/fused240/Fused%20240.apple-touch-icon.png": "/Fused 240.apple-touch-icon.png",
+  "https://truffled.lol/games/fused240/Fused%20240.icon.png": "/Fused 240.icon.png",
+  "https://truffled.lol/games/fused240/Fused%20240.js": "/Fused 240.js",
+  "https://truffled.lol/games/fused240/Fused%20240.png": "/Fused 240.png",
+  "https://truffled.lol/games/fused240/index.html": "/index.html",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

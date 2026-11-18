@@ -1,0 +1,84 @@
+{
+  "slug": "fnaw",
+  "title": "FNAW",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/fnaw.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/fnaw.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/fnaw.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/fnaw.html",
+  "entryUrl": "https://truffled.lol/gamefile/fnaw.html",
+  "status": "done",
+  "sizeBytes": 6022,
+  "assetCount": 2,
+  "known404": [
+    "https://cdn.jsdelivr.net/js/main.js",
+    "https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/favicon.ico",
+    "https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/smile.jpg",
+    "https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/fnaw3.js",
+    "https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/untar.js",
+    "https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/font.woff2",
+    "https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/font.woff"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/js/main.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/js/main.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/runtime.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/runtime.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/favicon.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/favicon.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/smile.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/smile.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/fnaw3.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/fnaw3.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/untar.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/untar.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/font.woff2",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/font.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/font.woff",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/WhoIsEv/relivedassets@main/fnaw/font.woff",
+      "status": 404
+    },
+    {
+      "url": "https://eags.us/darvystare.png",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://truffled.lol/gamefile/fnaw.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:09:54.630Z"
+}

@@ -1,0 +1,1082 @@
+{
+  "slug": "drift-boss",
+  "title": "Drift Boss",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/drift-boss/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/drift-boss/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/driftboss.webp",
+  "baseUrl": "https://truffled.lol/games/drift-boss/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/drift-boss/index.html",
+  "status": "done",
+  "sizeBytes": 16103976,
+  "assetCount": 171,
+  "known404": [
+    "https://truffled.lol/media/graphics/misc/favicon.ico",
+    "https://truffled.lol/games/drift-boss/_pz.jpg",
+    "https://truffled.lol/games/drift-boss/_py.jpg",
+    "https://truffled.lol/games/drift-boss/_nx.jpg",
+    "https://truffled.lol/games/drift-boss/_ny.jpg",
+    "https://truffled.lol/games/drift-boss/_nz.jpg",
+    "https://truffled.lol/games/drift-boss/babylon.js",
+    "https://truffled.lol/games/drift-boss/cannon.js",
+    "https://truffled.lol/games/drift-boss/build/cannon.js",
+    "https://truffled.lol/games/drift-boss/media/graphics/splash/loading.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/back-button.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/next-button.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/prev-button.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/simple-button.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/watch-ad-button.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/box-free-open.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/box-premium-closed.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/box-free-closed.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/box-premium-open.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-1.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-2.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-5.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-3.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-4.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-6.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-7.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-8.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-10.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-9.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-11.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-12.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-13.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-14.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-17.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-15.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-16.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-18.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-19.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-20.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/dot.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/slider.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/bg-popup.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-home.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-bgm.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-continue.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-sfx.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/left.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/lock.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/special-locked.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-buy.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-settings.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-more-games.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-play-smushed.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/title.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/coin.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-assembly.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-loot.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-collection.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-maximize.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-minimize.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-play.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-pause.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/tutorial-bg.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/game-over.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-restart.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/gameover-bg.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-double.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/booster-popup.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-buy-booster.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-booster-3.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-booster-1.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-booster-2.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/booster-selected.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/buy-disable.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/booster-disable.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-start-drift.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-check.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/select-boosters.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-exit.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/dailyreward-popup.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-reward.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-reward-collect.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/reward-box.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-booster-1.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-booster-2.png",
+    "https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-booster-3.png",
+    "https://truffled.lol/games/drift-boss/hotmail.com.br",
+    "https://truffled.lol/games/drift-boss/outlook.com.br",
+    "https://truffled.lol/games/drift-boss/adv.br",
+    "https://truffled.lol/games/drift-boss/adm.br",
+    "https://truffled.lol/games/drift-boss/agr.br",
+    "https://truffled.lol/games/drift-boss/am.br",
+    "https://truffled.lol/games/drift-boss/arq.br",
+    "https://truffled.lol/games/drift-boss/art.br",
+    "https://truffled.lol/games/drift-boss/b.br",
+    "https://truffled.lol/games/drift-boss/ato.br",
+    "https://truffled.lol/games/drift-boss/blog.br",
+    "https://truffled.lol/games/drift-boss/bio.br",
+    "https://truffled.lol/games/drift-boss/bmd.br",
+    "https://truffled.lol/games/drift-boss/cim.br",
+    "https://truffled.lol/games/drift-boss/cng.br",
+    "https://truffled.lol/games/drift-boss/cnt.br",
+    "https://truffled.lol/games/drift-boss/com.br",
+    "https://truffled.lol/games/drift-boss/coop.br",
+    "https://truffled.lol/games/drift-boss/edu.br",
+    "https://truffled.lol/games/drift-boss/ecn.br",
+    "https://truffled.lol/games/drift-boss/esp.br",
+    "https://truffled.lol/games/drift-boss/eng.br",
+    "https://truffled.lol/games/drift-boss/etc.br",
+    "https://truffled.lol/games/drift-boss/eti.br",
+    "https://truffled.lol/games/drift-boss/far.br",
+    "https://truffled.lol/games/drift-boss/flog.br",
+    "https://truffled.lol/games/drift-boss/fm.br",
+    "https://truffled.lol/games/drift-boss/fnd.br",
+    "https://truffled.lol/games/drift-boss/fot.br",
+    "https://truffled.lol/games/drift-boss/fst.br",
+    "https://truffled.lol/games/drift-boss/g12.br",
+    "https://truffled.lol/games/drift-boss/ggf.br",
+    "https://truffled.lol/games/drift-boss/gov.br",
+    "https://truffled.lol/games/drift-boss/imb.br",
+    "https://truffled.lol/games/drift-boss/ind.br",
+    "https://truffled.lol/games/drift-boss/jor.br",
+    "https://truffled.lol/games/drift-boss/inf.br",
+    "https://truffled.lol/games/drift-boss/jus.br",
+    "https://truffled.lol/games/drift-boss/lel.br",
+    "https://truffled.lol/games/drift-boss/mat.br",
+    "https://truffled.lol/games/drift-boss/med.br",
+    "https://truffled.lol/games/drift-boss/mil.br",
+    "https://truffled.lol/games/drift-boss/mus.br",
+    "https://truffled.lol/games/drift-boss/net.br",
+    "https://truffled.lol/games/drift-boss/not.br",
+    "https://truffled.lol/games/drift-boss/nom.br",
+    "https://truffled.lol/games/drift-boss/ntr.br",
+    "https://truffled.lol/games/drift-boss/odo.br",
+    "https://truffled.lol/games/drift-boss/org.br",
+    "https://truffled.lol/games/drift-boss/ppg.br",
+    "https://truffled.lol/games/drift-boss/psc.br",
+    "https://truffled.lol/games/drift-boss/pro.br",
+    "https://truffled.lol/games/drift-boss/psi.br",
+    "https://truffled.lol/games/drift-boss/qsl.br",
+    "https://truffled.lol/games/drift-boss/rec.br",
+    "https://truffled.lol/games/drift-boss/slg.br",
+    "https://truffled.lol/games/drift-boss/tmp.br",
+    "https://truffled.lol/games/drift-boss/srv.br",
+    "https://truffled.lol/games/drift-boss/trd.br",
+    "https://truffled.lol/games/drift-boss/tur.br",
+    "https://truffled.lol/games/drift-boss/tv.br",
+    "https://truffled.lol/games/drift-boss/vet.br",
+    "https://truffled.lol/games/drift-boss/vlog.br",
+    "https://truffled.lol/games/drift-boss/wiki.br",
+    "https://truffled.lol/games/drift-boss/zlg.br",
+    "https://truffled.lol/OtAutoBlock.js",
+    "https://truffled.lol/games/drift-boss/logo.svg",
+    "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "http://imasdk.googleapis.com/js/sdkloader/.js",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://cookie-cdn.cookiepro.com/scripttemplates/otBannerSdk.js",
+    "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://cookie-cdn.cookiepro.com/scripttemplates/.json",
+    "https://cookie-cdn.cookiepro.com/scripttemplates/.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/media/graphics/misc/favicon.ico",
+      "error": "HTTP 404 for https://truffled.lol/media/graphics/misc/favicon.ico",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/_pz.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/_pz.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/_py.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/_py.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/_nx.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/_nx.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/_ny.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/_ny.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/_nz.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/_nz.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/babylon.js",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/babylon.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/cannon.js",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/cannon.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/build/cannon.js",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/build/cannon.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/splash/loading.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/splash/loading.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/back-button.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/back-button.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/next-button.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/next-button.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/prev-button.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/prev-button.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/simple-button.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/simple-button.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/watch-ad-button.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/watch-ad-button.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/box-free-open.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/box-free-open.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/box-premium-closed.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/box-premium-closed.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/box-free-closed.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/box-free-closed.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/box-premium-open.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/box-premium-open.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-1.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-1.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-2.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-2.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-5.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-5.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-3.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-3.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-4.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-4.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-6.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-6.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-7.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-7.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-8.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-8.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-10.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-10.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-9.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-9.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-11.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-11.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-12.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-12.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-13.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-13.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-14.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-14.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-17.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-17.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-15.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-15.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-16.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-16.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-18.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-18.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-19.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-19.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-20.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lootbox/icon-20.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/dot.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/dot.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/slider.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/slider.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/bg-popup.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/bg-popup.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-home.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-home.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-bgm.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-bgm.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-continue.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-continue.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-sfx.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-sfx.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/left.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/left.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/lock.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/lock.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/special-locked.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/special-locked.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-buy.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-buy.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-settings.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-settings.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-more-games.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-more-games.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-play-smushed.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-play-smushed.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/title.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/title.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/coin.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/coin.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-assembly.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-assembly.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-loot.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-loot.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-collection.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-collection.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-maximize.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-maximize.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-minimize.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-minimize.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-play.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-play.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-pause.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-pause.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/tutorial-bg.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/tutorial-bg.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/game-over.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/game-over.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-restart.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-restart.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/gameover-bg.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/gameover-bg.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-double.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-double.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/booster-popup.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/booster-popup.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-buy-booster.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-buy-booster.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-booster-3.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-booster-3.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-booster-1.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-booster-1.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-booster-2.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-booster-2.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/booster-selected.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/booster-selected.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/buy-disable.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/buy-disable.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/booster-disable.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/booster-disable.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-start-drift.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-start-drift.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-check.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-check.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/select-boosters.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/select-boosters.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-exit.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-exit.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/dailyreward-popup.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/dailyreward-popup.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-reward.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-reward.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/button-reward-collect.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/button-reward-collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/reward-box.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/reward-box.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-booster-1.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-booster-1.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-booster-2.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-booster-2.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-booster-3.png",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/media/graphics/sprites/icon-booster-3.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/hotmail.com.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/hotmail.com.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/outlook.com.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/outlook.com.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/adv.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/adv.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/adm.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/adm.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/agr.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/agr.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/am.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/am.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/arq.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/arq.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/art.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/art.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/b.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/b.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/ato.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/ato.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/blog.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/blog.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/bio.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/bio.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/bmd.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/bmd.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/cim.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/cim.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/cng.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/cng.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/cnt.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/cnt.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/com.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/com.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/coop.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/coop.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/edu.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/edu.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/ecn.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/ecn.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/esp.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/esp.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/eng.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/eng.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/etc.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/etc.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/eti.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/eti.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/far.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/far.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/flog.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/flog.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/fm.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/fm.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/fnd.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/fnd.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/fot.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/fot.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/fst.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/fst.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/g12.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/g12.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/ggf.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/ggf.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/gov.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/gov.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/imb.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/imb.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/ind.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/ind.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/jor.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/jor.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/inf.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/inf.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/jus.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/jus.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/lel.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/lel.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/mat.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/mat.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/med.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/med.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/mil.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/mil.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/mus.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/mus.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/net.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/net.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/not.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/not.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/nom.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/nom.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/ntr.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/ntr.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/odo.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/odo.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/org.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/org.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/ppg.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/ppg.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/psc.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/psc.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/pro.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/pro.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/psi.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/psi.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/qsl.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/qsl.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/rec.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/rec.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/slg.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/slg.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/tmp.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/tmp.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/srv.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/srv.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/trd.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/trd.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/tur.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/tur.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/tv.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/tv.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/vet.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/vet.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/vlog.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/vlog.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/wiki.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/wiki.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/zlg.br",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/zlg.br",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.cookielaw.org/consent/tcf.stub.js",
+      "error": "HTTP 403 for https://cdn.cookielaw.org/consent/tcf.stub.js",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/OtAutoBlock.js",
+      "error": "HTTP 404 for https://truffled.lol/OtAutoBlock.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/drift-boss/logo.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/drift-boss/logo.svg",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/scripttemplates/otBannerSdk.js",
+      "error": "HTTP 404 for https://cookie-cdn.cookiepro.com/scripttemplates/otBannerSdk.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/scripttemplates/.json",
+      "error": "HTTP 404 for https://cookie-cdn.cookiepro.com/scripttemplates/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/scripttemplates/.js",
+      "error": "HTTP 404 for https://cookie-cdn.cookiepro.com/scripttemplates/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/sri-hashes.json",
+      "error": "HTTP 400 for https://cookie-cdn.cookiepro.com/sri-hashes.json",
+      "status": 400
+    },
+    {
+      "url": "http://hb.improvedigital.com/pbw/prebid-idhb-v11.13b.min.js",
+      "error": "HTTP 403 for http://hb.improvedigital.com/pbw/prebid-idhb-v11.13b.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://hb.improvedigital.com/pbw/prebid-idhb-v11.13b.min.js",
+      "error": "HTTP 403 for https://hb.improvedigital.com/pbw/prebid-idhb-v11.13b.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/wrap.js",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/wrap.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/gecal.com.br",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/gecal.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/ojogos.com.br",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/ojogos.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/Prebid.js",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/Prebid.js",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T08:42:41.410Z",
+  "verifiedAt": "2026-11-17T08:42:52.670Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 4,
+    "title": "Drift Boss",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1941,
+      "height": 960
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9925,
+    "rendered": true
+  }
+}

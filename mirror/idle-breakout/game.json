@@ -1,0 +1,50 @@
+{
+  "slug": "idle-breakout",
+  "title": "Idle Breakout",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/idle-breakout/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/idle-breakout/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/idle.webp",
+  "baseUrl": "https://truffled.lol/games/idle-breakout/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/idle-breakout/index.html",
+  "status": "done",
+  "sizeBytes": 2397647,
+  "assetCount": 22,
+  "known404": [
+    "https://truffled.lol/inlineDelivery/delivery.min.gz.js",
+    "https://truffled.lol/games/idle-breakout/html5game/Coding_BreakOut1_texture_0.png",
+    "https://truffled.lol/games/idle-breakout/html5game/Coding_BreakOut1_texture_1.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/inlineDelivery/delivery.min.gz.js",
+      "error": "HTTP 404 for https://truffled.lol/inlineDelivery/delivery.min.gz.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/idle-breakout/html5game/Coding_BreakOut1_texture_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/idle-breakout/html5game/Coding_BreakOut1_texture_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/idle-breakout/html5game/Coding_BreakOut1_texture_1.png",
+      "error": "HTTP 404 for https://truffled.lol/games/idle-breakout/html5game/Coding_BreakOut1_texture_1.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/idle-breakout/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:50:31.076Z"
+}

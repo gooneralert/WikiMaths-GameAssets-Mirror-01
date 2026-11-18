@@ -1,0 +1,416 @@
+{
+  "slug": "fnf-friday-night-funkin",
+  "title": "FNF, Friday Night Funkin",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnf/fnfog.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnf/fnfog.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/fnf.webp",
+  "baseUrl": "https://truffled.lol/games/fnf/",
+  "entry": "/fnfog.html",
+  "entryUrl": "https://truffled.lol/games/fnf/fnfog.html",
+  "status": "done",
+  "sizeBytes": 13390,
+  "assetCount": 2,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/Funkin.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/Funkin.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/favicon.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/favicon.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7_b.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7_b.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7_b.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7_b.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7.svg#5by7",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7.svg#5by7",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7_b.svg#5by7%20Bold",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7_b.svg#5by7%20Bold",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGI.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGI.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7_b.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/5by7_b.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGIB.TTF",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGIB.TTF",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGI.TTF",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGI.TTF",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGIB.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGIB.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGII.TTF",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGII.TTF",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGII.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGII.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGIT.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGIT.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Black.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Black.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGIT.TTF",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/DS-DIGIT.TTF",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Black.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Black.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Black.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Black.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Black.svg#Inconsolata%20Black",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Black.svg#Inconsolata%20Black",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Bold.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Bold.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraBold.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraBold.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Bold.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Bold.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraBold.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraBold.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Bold.svg#Inconsolata%20Bold",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Bold.svg#Inconsolata%20Bold",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Bold.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Bold.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraBold.svg#Inconsolata%20ExtraBold",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraBold.svg#Inconsolata%20ExtraBold",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraLight.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraLight.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraBold.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraBold.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraLight.svg#Inconsolata%20ExtraLight",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraLight.svg#Inconsolata%20ExtraLight",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraLight.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraLight.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraLight.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-ExtraLight.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Medium.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Medium.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Medium.svg#Inconsolata%20Medium",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Medium.svg#Inconsolata%20Medium",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Medium.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Medium.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Medium.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Medium.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Regular.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Regular.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-SemiBold.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-SemiBold.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Regular.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Regular.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Regular.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Regular.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-SemiBold.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-SemiBold.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Regular.svg#Inconsolata%20Regular",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-Regular.svg#Inconsolata%20Regular",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-SemiBold.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-SemiBold.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/pixel.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/pixel.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-SemiBold.svg#Inconsolata%20SemiBold",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Inconsolata-SemiBold.svg#Inconsolata%20SemiBold",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Bold.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Bold.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/pixel.otf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/pixel.otf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Bold.svg#Quantico-Bold",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Bold.svg#Quantico-Bold",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/pixel.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/pixel.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Bold.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Bold.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Bold.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Bold.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-BoldItalic.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-BoldItalic.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-BoldItalic.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-BoldItalic.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-BoldItalic.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-BoldItalic.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Italic.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Italic.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-BoldItalic.svg#Quantico-BoldItalic",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-BoldItalic.svg#Quantico-BoldItalic",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Italic.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Italic.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Italic.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Italic.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Regular.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Regular.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Regular.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Regular.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Italic.svg#Quantico-Italic",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Italic.svg#Quantico-Italic",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Regular.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Regular.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Regular.svg#Quantico",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/Quantico-Regular.svg#Quantico",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/vcr.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/vcr.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/vcr.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/vcr.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/vcr.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/assets/fonts/vcr.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/nokiafc22.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/nokiafc22.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/nokiafc22.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/nokiafc22.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/monsterrat.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/monsterrat.woff",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/monsterrat.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/monsterrat.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/nokiafc22.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/nokiafc22.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/monsterrat.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/monsterrat.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/monsterrat.svg#Monsterrat",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/fridayfunk/flixel/fonts/monsterrat.svg#Monsterrat",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/games/fnf/fnfog.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:10:02.179Z"
+}

@@ -1,0 +1,16 @@
+{
+  "/404": "/idc about this one.html",
+  "/css/404.css": "/__site__/css/404.css",
+  "/gamefile/idc%20about%20this%20one": "/idc about this one.html",
+  "/gamefile/madnesspremediation.html": "/madnesspremediation.html",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/core.ruffle.ae1054522f49580946c0.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/core.ruffle.ae1054522f49580946c0.js",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/f7f28eb60b84863611ca.wasm": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/f7f28eb60b84863611ca.wasm",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.js",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.min.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.min.js",
+  "https://truffled.lol/404": "/idc about this one.html",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/gamefile/idc%20about%20this%20one": "/idc about this one.html",
+  "https://truffled.lol/gamefile/madnesspremediation.html": "/madnesspremediation.html",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

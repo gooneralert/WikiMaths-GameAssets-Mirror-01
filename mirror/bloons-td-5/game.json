@@ -1,0 +1,47 @@
+{
+  "slug": "bloons-td-5",
+  "title": "Bloons TD 5",
+  "type": "Flash",
+  "developer": "Ninja Kiwi",
+  "description": "Play Bloons TD 5 online for free and join the fun with your monkey pals! In this exciting game, youâll help them pop colorful balloons before they escape. Build strong towers, unlock cool upgrades, and use amazing powers to stop every last balloon. It's a super fun adventure that will keep you entertained for hours. So, are you ready to become a hero and save the day? Letâs get popping!",
+  "tags": [
+    "Tower Defense",
+    "Top-Down",
+    "Casual",
+    "Resource Management",
+    "Strategy"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "924818d5-dcf1-4dd5-bbf3-7e5265e31ef5",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/924818d5-dcf1-4dd5-bbf3-7e5265e31ef5/1/924818d5-dcf1-4dd5-bbf3-7e5265e31ef5.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 11095124,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:49:57.345Z",
+  "verifiedAt": "2026-11-16T13:55:21.117Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Bloons TD 5",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.4711,
+    "rendered": true
+  },
+  "assetCount": 0
+}

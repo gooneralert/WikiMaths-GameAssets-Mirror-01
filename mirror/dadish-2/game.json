@@ -1,0 +1,217 @@
+{
+  "slug": "dadish-2",
+  "title": "Dadish 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/dadish2.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/dadish2.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/dadish2.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/dadish2.html",
+  "entryUrl": "https://truffled.lol/gamefile/dadish2.html",
+  "status": "done",
+  "sizeBytes": 8204476,
+  "assetCount": 130,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/favicon.png",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/.js",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/config/game-config.json",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/.fnt",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/assets/graphics/default-font.png",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/com.stencyl.Data",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/assets/graphics/default-font.fnt",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/com.stencyl.models.Atlas",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/@2x.png",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/@1.5x.png",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/.txt",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/@4x.png",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/.png",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime._internal.format.BMP",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime._internal.format.PNG",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/haxe.io.Bytes",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime.utils.AssetBundle",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime._internal.format.JPEG",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/polygonal.ds.Map",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/FileSaver.js",
+    "https://www.googletagservices.com/pubads_impl.js",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/favicon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/favicon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/config/game-config.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/config/game-config.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/assets/graphics/default-font.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/assets/graphics/default-font.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/com.stencyl.Data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/com.stencyl.Data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/assets/graphics/default-font.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/assets/graphics/default-font.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/com.stencyl.models.Atlas",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/com.stencyl.models.Atlas",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/@2x.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/@2x.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/@1.5x.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/@1.5x.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/@4x.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/@4x.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime._internal.format.BMP",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime._internal.format.BMP",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime._internal.format.PNG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime._internal.format.PNG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/haxe.io.Bytes",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/haxe.io.Bytes",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime._internal.format.JPEG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime._internal.format.JPEG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/polygonal.ds.Map",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/polygonal.ds.Map",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/lime.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/FileSaver.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/FileSaver.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/library.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/library.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/openfl.utils.Assets",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-2/openfl.utils.Assets",
+      "status": 403
+    },
+    {
+      "url": "https://www.googletagservices.com/pubads_impl.js",
+      "error": "HTTP 404 for https://www.googletagservices.com/pubads_impl.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://service.pokigame.io/sdk/v1/track",
+      "error": "fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-10-30T16:16:15.763Z",
+  "verifiedAt": "2026-11-16T15:05:05.494Z",
+  "verification": {
+    "external": 4,
+    "blocking": 0,
+    "ignoredExternal": 4,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Dadish 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 768,
+      "height": 432
+    },
+    "nonBlack": 1032,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

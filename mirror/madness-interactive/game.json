@@ -1,0 +1,49 @@
+{
+  "slug": "madness-interactive",
+  "title": "Madness Interactive",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/madnessinteractive.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/madnessinteractive.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/madnessinteractive.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/madnessinteractive.html",
+  "entryUrl": "https://truffled.lol/gamefile/madnessinteractive.html",
+  "status": "done",
+  "sizeBytes": 16536025,
+  "assetCount": 10,
+  "known404": [
+    "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T13:11:58.518Z",
+  "verifiedAt": "2026-11-17T13:12:08.875Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "really cool flash game",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.8941,
+    "rendered": true
+  }
+}

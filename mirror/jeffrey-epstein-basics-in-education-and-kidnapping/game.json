@@ -1,0 +1,76 @@
+{
+  "slug": "jeffrey-epstein-basics-in-education-and-kidnapping",
+  "title": "Jeffrey Epstein Basics In Education And Kidnapping",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/jeb.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/jeb.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/jeb.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/jeb.html",
+  "entryUrl": "https://truffled.lol/gamefile/jeb.html",
+  "status": "done",
+  "sizeBytes": 28070,
+  "assetCount": 10,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/ports@main/jeffrey-epsteins-basics-in-education-and-kidnapping/diddy.wasm",
+    "https://cdn.jsdelivr.net/gh/bubbls/ports@main/jeffrey-epsteins-basics-in-education-and-kidnapping/diddy.data",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.br",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/diddy.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/diddy.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/diddy.data",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/diddy.data",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/diddy.framework.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/diddy.framework.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/diddy.wasm",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/diddy.wasm",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/ports@main/jeffrey-epsteins-basics-in-education-and-kidnapping/diddy.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/ports@main/jeffrey-epsteins-basics-in-education-and-kidnapping/diddy.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/ports@main/jeffrey-epsteins-basics-in-education-and-kidnapping/diddy.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/ports@main/jeffrey-epsteins-basics-in-education-and-kidnapping/diddy.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.br",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.br",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/gamefile/jeb.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:50:40.907Z"
+}

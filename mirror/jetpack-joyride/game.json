@@ -1,0 +1,38 @@
+{
+  "slug": "jetpack-joyride",
+  "title": "Jetpack Joyride",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/jetpackjoyride/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/jetpackjoyride/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/jet.webp",
+  "baseUrl": "https://truffled.lol/games/jetpackjoyride/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/jetpackjoyride/index.html",
+  "status": "done",
+  "sizeBytes": 2120033,
+  "assetCount": 16,
+  "known404": [
+    "https://truffled.lol/games/jetpackjoyride/engine/file.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/jetpackjoyride/engine/file.json",
+      "error": "HTTP 404 for https://truffled.lol/games/jetpackjoyride/engine/file.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/jetpackjoyride/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:50:54.158Z"
+}

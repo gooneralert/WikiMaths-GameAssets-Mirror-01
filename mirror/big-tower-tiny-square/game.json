@@ -1,0 +1,58 @@
+{
+  "slug": "big-tower-tiny-square",
+  "title": "Big Tower Tiny Square",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/btts/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/btts/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/btt.webp",
+  "baseUrl": "https://truffled.lol/games/btts/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/btts/index.html",
+  "status": "done",
+  "sizeBytes": 4060809,
+  "assetCount": 246,
+  "known404": [
+    "https://truffled.lol/games/btts/sw.js",
+    "https://truffled.lol/games/btts/data.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/btts/sw.js",
+      "error": "HTTP 404 for https://truffled.lol/games/btts/sw.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/btts/data.json",
+      "error": "HTTP 404 for https://truffled.lol/games/btts/data.json",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T12:15:00.230Z",
+  "verifiedAt": "2026-11-16T13:44:44.714Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Big Tower Tiny Square | 3kh0",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1111,
+      "height": 625
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

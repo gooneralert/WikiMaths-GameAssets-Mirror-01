@@ -1,0 +1,206 @@
+{
+  "slug": "cave-story",
+  "title": "Cave Story",
+  "type": "HTML",
+  "developer": "Daisuke Amaya",
+  "description": "Cave Story takes you into a rare world where a curious race of innocent rabbit-like creatures, called Mimigas, run free.\nYou wake up in a dark cave with no memory of who you are, where you came from or why you're in such a place. Uncovering Mimiga Village you discover that the once-carefree Mimigas are in danger at the hands of a maniacal scientist. The Mimigasâ only hope rest squarely on the shoulders of a quiet, amnesiac boy who can't remember his own name.",
+  "tags": [
+    "Action",
+    "Action-Adventure",
+    "Adventure",
+    "2D Platformer",
+    "Exploration",
+    "Pixel Graphics"
+  ],
+  "controls": [
+    {
+      "action": "Right",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        }
+      ]
+    },
+    {
+      "action": "Left",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "keys": [
+        {
+          "key": "KeyZ",
+          "keyCode": 90
+        }
+      ]
+    },
+    {
+      "action": "Shoot",
+      "keys": [
+        {
+          "key": "KeyX",
+          "keyCode": 88
+        }
+      ]
+    },
+    {
+      "action": "Look Up",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        }
+      ]
+    },
+    {
+      "action": "Enter",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        }
+      ]
+    },
+    {
+      "action": "Pause",
+      "keys": [
+        {
+          "key": "Escape",
+          "keyCode": 27
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Right",
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Left",
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "buttons": [
+        0
+      ]
+    },
+    {
+      "action": "Shoot",
+      "buttons": [
+        2
+      ]
+    },
+    {
+      "action": "Look Up",
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Enter",
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Pause",
+      "buttons": [
+        9
+      ]
+    }
+  ],
+  "controllerSupport": false,
+  "sourceId": "2c6ddad5-06f8-4603-854e-ba4058442056",
+  "sourceVersion": "1.0.0.6",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/index.html",
+  "status": "done",
+  "sizeBytes": 5905898,
+  "assetCount": 8,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAApUlEQVR4AezU0QqAIAwFUOv//7m4D8KmKyfcLYgVgyHoPe7Bs338acDVrmyPBiA9GTEDkhE2IBHxDEhCvAMSEGtAMMIHCET4AUGIPUAAYh9ARvgBR9M/IITyA4KeaBvQ70q44eqIGYDwvkv2WAuYggaMgQgNLg2wwkYUeQprgIUirvkAcgqyJ0B8AAQhGIWeWH4AMVQeVYCaQE2gJvD/CchXz+pvAAAA//8WbTtdAAAABklEQVQDAFMrHEG8bk54AAAAAElFTkSuQmCC&quot;",
+    "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/.ogg",
+    "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/game/CSE2.data",
+    "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/.wav",
+    "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/datafile_game/CSE2.data",
+    "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/.mp3"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAApUlEQVR4AezU0QqAIAwFUOv//7m4D8KmKyfcLYgVgyHoPe7Bs338acDVrmyPBiA9GTEDkhE2IBHxDEhCvAMSEGtAMMIHCET4AUGIPUAAYh9ARvgBR9M/IITyA4KeaBvQ70q44eqIGYDwvkv2WAuYggaMgQgNLg2wwkYUeQprgIUirvkAcgqyJ0B8AAQhGIWeWH4AMVQeVYCaQE2gJvD/CchXz+pvAAAA//8WbTtdAAAABklEQVQDAFMrHEG8bk54AAAAAElFTkSuQmCC&quot;",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAApUlEQVR4AezU0QqAIAwFUOv//7m4D8KmKyfcLYgVgyHoPe7Bs338acDVrmyPBiA9GTEDkhE2IBHxDEhCvAMSEGtAMMIHCET4AUGIPUAAYh9ARvgBR9M/IITyA4KeaBvQ70q44eqIGYDwvkv2WAuYggaMgQgNLg2wwkYUeQprgIUirvkAcgqyJ0B8AAQhGIWeWH4AMVQeVYCaQE2gJvD/CchXz+pvAAAA//8WbTtdAAAABklEQVQDAFMrHEG8bk54AAAAAElFTkSuQmCC&quot;",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/game/CSE2.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/game/CSE2.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/.wav",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/datafile_game/CSE2.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/datafile_game/CSE2.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2c6ddad5-06f8-4603-854e-ba4058442056/1.0.0.6/.mp3",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:12:59.557Z",
+  "verifiedAt": "2026-11-16T14:14:06.835Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Cave Story Engine 2 ~ Doukutsu Monogatari Enjin 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 640,
+      "height": 480
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.3079,
+    "rendered": true
+  }
+}

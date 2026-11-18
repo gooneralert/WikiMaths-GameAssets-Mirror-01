@@ -1,0 +1,9 @@
+{
+  "/gamefile/gash.html": "/gash.html",
+  "https://cdn.jsdelivr.net/gh/web-ports/gash@latest/TemplateData/favicon.ico": "/__external__/cdn.jsdelivr.net/gh/web-ports/gash@latest/TemplateData/favicon.ico",
+  "https://cdn.jsdelivr.net/gh/web-ports/gash@latest/TemplateData/progress-bar-empty-dark.png": "/__external__/cdn.jsdelivr.net/gh/web-ports/gash@latest/TemplateData/progress-bar-empty-dark.png",
+  "https://cdn.jsdelivr.net/gh/web-ports/gash@latest/TemplateData/progress-bar-full-dark.png": "/__external__/cdn.jsdelivr.net/gh/web-ports/gash@latest/TemplateData/progress-bar-full-dark.png",
+  "https://cdn.jsdelivr.net/gh/web-ports/gash@latest/TemplateData/style.css": "/__external__/cdn.jsdelivr.net/gh/web-ports/gash@latest/TemplateData/style.css",
+  "https://cdn.jsdelivr.net/gh/web-ports/gash@latest/TemplateData/unity-logo-dark.png": "/__external__/cdn.jsdelivr.net/gh/web-ports/gash@latest/TemplateData/unity-logo-dark.png",
+  "https://truffled.lol/gamefile/gash.html": "/gash.html"
+}

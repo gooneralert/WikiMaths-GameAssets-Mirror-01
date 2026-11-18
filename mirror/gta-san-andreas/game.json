@@ -1,0 +1,56 @@
+{
+  "slug": "gta-san-andreas",
+  "title": "GTA San Andreas",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/gtasan/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/gtasan/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/gtasan.webp",
+  "baseUrl": "https://truffled.lol/games/gtasan/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/gtasan/index.html",
+  "status": "done",
+  "sizeBytes": 353709,
+  "assetCount": 8,
+  "known404": [
+    "https://truffled.lol/logo192.png",
+    "https://truffled.lol/manifest.json",
+    "https://truffled.lol/games/gtasan/static/js/.43d6cf5f.chunk.js",
+    "https://truffled.lol/games/gtasan/static/js/Play.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/logo192.png",
+      "error": "HTTP 404 for https://truffled.lol/logo192.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/manifest.json",
+      "error": "HTTP 404 for https://truffled.lol/manifest.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gtasan/static/js/.43d6cf5f.chunk.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gtasan/static/js/.43d6cf5f.chunk.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gtasan/static/js/Play.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gtasan/static/js/Play.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gtasan/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:34:10.925Z"
+}

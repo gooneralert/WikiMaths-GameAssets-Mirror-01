@@ -1,0 +1,21 @@
+{
+  "/404": "/among.html",
+  "/css/404.css": "/__site__/css/404.css",
+  "/games/fnaf/.js": "/.js.html",
+  "/games/fnaf/among": "/among.html",
+  "/games/fnaf/assets/project.json": "/assets/project.json",
+  "/games/fnaf/index.html": "/index.html",
+  "/games/fnaf/script.js": "/script.js",
+  "/js/all.js": "/__site__/js/all.js",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://extensions.turbowarp.org/lab/text.js": "/__external__/extensions.turbowarp.org/lab/text.js",
+  "https://truffled.lol/404": "/among.html",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/games/fnaf/.js": "/.js.html",
+  "https://truffled.lol/games/fnaf/among": "/among.html",
+  "https://truffled.lol/games/fnaf/assets/project.json": "/assets/project.json",
+  "https://truffled.lol/games/fnaf/index.html": "/index.html",
+  "https://truffled.lol/games/fnaf/script.js": "/script.js",
+  "https://truffled.lol/js/all.js": "/__site__/js/all.js",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

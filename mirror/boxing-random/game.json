@@ -1,0 +1,139 @@
+{
+  "slug": "boxing-random",
+  "title": "Boxing Random",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/boxing.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/boxing.html",
+  "entryUrl": "https://truffled.lol/gamefile/boxing.html",
+  "status": "done",
+  "sizeBytes": 3413469,
+  "assetCount": 75,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/opus.wasm.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/Box2D_v2.3.1_min.wasm.temp.asm.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/workermain.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/Box2D_v2.3.1_min.wasm.wasm",
+    "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/scriptsInEvents.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/Box2D_v2.3.1_min.wasm.js.mem",
+    "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/opus.wasm.wasm",
+    "https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/NW.js",
+    "https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/splash-images/splash-logo.svg",
+    "https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/splash-images/splash-poweredby-512.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/sw.js",
+    "https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/splash-images/splash-website-512.png",
+    "https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/loading-logo.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/previewworker.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/workermain.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/workermain.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/opus.wasm.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/opus.wasm.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/Box2D_v2.3.1_min.wasm.temp.asm.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/Box2D_v2.3.1_min.wasm.temp.asm.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/workermain.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/workermain.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/Box2D_v2.3.1_min.wasm.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/Box2D_v2.3.1_min.wasm.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/scriptsInEvents.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/scriptsInEvents.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/scriptsInEvents.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/scriptsInEvents.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/Box2D_v2.3.1_min.wasm.js.mem",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/Box2D_v2.3.1_min.wasm.js.mem",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/opus.wasm.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/opus.wasm.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/NW.js",
+      "error": "HTTP 404 for https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/NW.js",
+      "status": 404
+    },
+    {
+      "url": "https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/splash-images/splash-logo.svg",
+      "error": "HTTP 404 for https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/splash-images/splash-logo.svg",
+      "status": 404
+    },
+    {
+      "url": "https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/splash-images/splash-poweredby-512.png",
+      "error": "HTTP 404 for https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/splash-images/splash-poweredby-512.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/sw.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/sw.js",
+      "status": 404
+    },
+    {
+      "url": "https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/splash-images/splash-website-512.png",
+      "error": "HTTP 404 for https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/splash-images/splash-website-512.png",
+      "status": 404
+    },
+    {
+      "url": "https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/loading-logo.png",
+      "error": "HTTP 404 for https://375982749-284635496716539273.preview.editmysite.com/uploads/b/139890129-344703883907678684/files/scripts/loading-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/previewworker.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/ruffle@25f6152ab54ec5409c832c904ed3e5e482600d6a/previewworker.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-16T14:02:16.156Z",
+  "verifiedAt": "2026-11-16T14:03:37.710Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Boxing Random",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

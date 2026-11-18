@@ -1,0 +1,46 @@
+{
+  "slug": "gladihoppers",
+  "title": "Gladihoppers",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/Gladihoppers.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/Gladihoppers.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/glad.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/Gladihoppers.html",
+  "entryUrl": "https://truffled.lol/gamefile/Gladihoppers.html",
+  "status": "done",
+  "sizeBytes": 62390,
+  "assetCount": 14,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/gh/patch/js/poki-master-loader.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/gh/patch/js/poki-master-loader.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/gh/patch/png/null.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/gh/patch/png/null.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/gh/Build/Gladihoppers.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/gh/Build/Gladihoppers.json",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/gamefile/Gladihoppers.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:20:07.965Z"
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "fnaf2",
+  "title": "FNAF2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/2/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/2/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/fnaf2.webp",
+  "baseUrl": "https://truffled.lol/games/2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/2/index.html",
+  "status": "done",
+  "sizeBytes": 701397,
+  "assetCount": 6,
+  "known404": [
+    "https://truffled.lol/games/2/src/Preloader.png",
+    "https://truffled.lol/games/2/src/joyback.png",
+    "https://truffled.lol/games/2/src/joyfront.png",
+    "https://truffled.lol/games/2/src/joyupd.png",
+    "https://truffled.lol/games/2/src/joyup.png",
+    "https://truffled.lol/games/2/src/joydown.png",
+    "https://truffled.lol/games/2/src/joydownd.png",
+    "https://truffled.lol/games/2/src/joyleft.png",
+    "https://truffled.lol/games/2/src/joyright.png",
+    "https://truffled.lol/games/2/src/joyleftd.png",
+    "https://truffled.lol/games/2/src/joyrightd.png",
+    "https://truffled.lol/games/2/src/fire1U.png",
+    "https://truffled.lol/games/2/src/fire2U.png",
+    "https://truffled.lol/games/2/src/fire1D.png",
+    "https://truffled.lol/games/2/src/fire2D.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/2/src/Preloader.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/Preloader.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/joyback.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/joyback.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/joyfront.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/joyfront.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/joyupd.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/joyupd.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/joyup.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/joyup.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/joydown.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/joydown.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/joydownd.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/joydownd.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/joyleft.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/joyleft.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/joyright.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/joyright.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/joyleftd.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/joyleftd.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/joyrightd.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/joyrightd.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/fire1U.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/fire1U.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/fire2U.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/fire2U.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/fire1D.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/fire1D.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/src/fire2D.png",
+      "error": "HTTP 404 for https://truffled.lol/games/2/src/fire2D.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/2/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:09:45.374Z"
+}

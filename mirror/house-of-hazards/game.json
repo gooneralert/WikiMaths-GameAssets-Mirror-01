@@ -1,0 +1,98 @@
+{
+  "slug": "house-of-hazards",
+  "title": "House Of Hazards",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/houseofhazards/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/houseofhazards/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/house.webp",
+  "baseUrl": "https://truffled.lol/games/houseofhazards/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/houseofhazards/index.html",
+  "status": "done",
+  "sizeBytes": 73557,
+  "assetCount": 23,
+  "known404": [
+    "https://truffled.lol/games/houseofhazards/patch/js/master-loader.js",
+    "https://truffled.lol/games/houseofhazards/patch/js/unity.js",
+    "https://truffled.lol/games/houseofhazards/patch/js/unity-beta.js",
+    "https://truffled.lol/unity/dist/unity.js",
+    "https://truffled.lol/games/houseofhazards/patch/js/unity-2020.js",
+    "https://truffled.lol/unity-beta/dist/unity-beta.js",
+    "https://truffled.lol/unity-2020/dist/unity-2020.js",
+    "https://truffled.lol/games/houseofhazards/patch/js/patch/js/UnityLoader.2019.1.js",
+    "https://truffled.lol/games/houseofhazards/patch/js/patch/js/UnityLoader.js",
+    "https://truffled.lol/games/houseofhazards/patch/js/patch/js/UnityLoader.2019.2.js",
+    "https://truffled.lol/games/houseofhazards/patch/js/patch/js/poki-sdk.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/houseofhazards/patch/js/master-loader.js",
+      "error": "HTTP 404 for https://truffled.lol/games/houseofhazards/patch/js/master-loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/houseofhazards/patch/js/unity.js",
+      "error": "HTTP 404 for https://truffled.lol/games/houseofhazards/patch/js/unity.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/houseofhazards/patch/js/unity-beta.js",
+      "error": "HTTP 404 for https://truffled.lol/games/houseofhazards/patch/js/unity-beta.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/unity/dist/unity.js",
+      "error": "HTTP 404 for https://truffled.lol/unity/dist/unity.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/houseofhazards/patch/js/unity-2020.js",
+      "error": "HTTP 404 for https://truffled.lol/games/houseofhazards/patch/js/unity-2020.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/unity-beta/dist/unity-beta.js",
+      "error": "HTTP 404 for https://truffled.lol/unity-beta/dist/unity-beta.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/unity-2020/dist/unity-2020.js",
+      "error": "HTTP 404 for https://truffled.lol/unity-2020/dist/unity-2020.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/houseofhazards/patch/js/patch/js/UnityLoader.2019.1.js",
+      "error": "HTTP 404 for https://truffled.lol/games/houseofhazards/patch/js/patch/js/UnityLoader.2019.1.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/houseofhazards/patch/js/patch/js/UnityLoader.js",
+      "error": "HTTP 404 for https://truffled.lol/games/houseofhazards/patch/js/patch/js/UnityLoader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/houseofhazards/patch/js/patch/js/UnityLoader.2019.2.js",
+      "error": "HTTP 404 for https://truffled.lol/games/houseofhazards/patch/js/patch/js/UnityLoader.2019.2.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/houseofhazards/patch/js/patch/js/poki-sdk.js",
+      "error": "HTTP 404 for https://truffled.lol/games/houseofhazards/patch/js/patch/js/poki-sdk.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/houseofhazards/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:50:13.585Z"
+}

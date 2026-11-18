@@ -1,0 +1,204 @@
+{
+  "slug": "friday-night-funkin-vs-tord",
+  "title": "Friday Night Funkin Vs. Tord",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnf/tord.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnf/tord.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/tord.webp",
+  "baseUrl": "https://truffled.lol/games/fnf/",
+  "entry": "/tord.html",
+  "entryUrl": "https://truffled.lol/games/fnf/tord.html",
+  "status": "done",
+  "sizeBytes": 5694143,
+  "assetCount": 64,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.bundle",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.jpg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.otf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.ogg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.stitch.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/haxe.Resource",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime._internal.format.BMP",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime._internal.format.JPEG",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.gif",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime._internal.format.PNG",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/haxe.io.Bytes",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.webp",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/library.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/_polymod_pack.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/openfl.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/_polymod_meta.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/ASSET_LICENSE.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime.utils.AssetBundle",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/CODE_LICENSE.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/LICENSE.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/_polymod_icon.png"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/library.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/library.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.bundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.bundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.stitch.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.stitch.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/haxe.Resource",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/haxe.Resource",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime._internal.format.BMP",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime._internal.format.BMP",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime._internal.format.JPEG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime._internal.format.JPEG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.gif",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.gif",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime._internal.format.PNG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime._internal.format.PNG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/haxe.io.Bytes",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/haxe.io.Bytes",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.webp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/.webp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/library.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/_polymod_pack.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/_polymod_pack.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/openfl.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/openfl.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/_polymod_meta.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/_polymod_meta.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/ASSET_LICENSE.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/ASSET_LICENSE.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/CODE_LICENSE.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/CODE_LICENSE.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/LICENSE.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/LICENSE.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/_polymod_icon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/tord/_polymod_icon.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnf/tord.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:15:58.781Z"
+}

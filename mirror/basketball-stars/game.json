@@ -1,0 +1,379 @@
+{
+  "slug": "basketball-stars",
+  "title": "Basketball stars",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/basketballstars/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/basketballstars/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/basketstars.webp",
+  "baseUrl": "https://truffled.lol/games/basketballstars/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/basketballstars/index.html",
+  "status": "done",
+  "sizeBytes": 9211676,
+  "assetCount": 133,
+  "known404": [
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://truffled.lol/games/basketballstars/assets/images/rotate.png",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/Promise.map",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/map.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/using.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/timers.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/generators.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/nodeify.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/props.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/call_get.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/race.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/reduce.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/settle.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/some.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/promisify.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/any.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/filter.js",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/each.js",
+    "https://truffled.lol/games/basketballstars/package.json",
+    "https://truffled.lol/games/basketballstars/assets/ojogos.com.br",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/sprites.jpg",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/path/to/image2.png",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/imagePath.png",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/imagePath.jpg",
+    "https://truffled.lol/games/basketballstars/assets/box2dweb/path/to/image.jpg",
+    "https://truffled.lol/games/basketballstars/assets/assets/box2dweb/dragonBones.min.js",
+    "https://truffled.lol/games/basketballstars/assets/assets/css/CfCrackBold.css",
+    "https://truffled.lol/games/basketballstars/assets/assets/css/AllerDisplay.css",
+    "https://truffled.lol/games/basketballstars/assets/assets/css/impact2.css",
+    "https://truffled.lol/games/basketballstars/assets/assets/css/impact.css",
+    "https://truffled.lol/games/basketballstars/assets/assets/css/impact3.css",
+    "https://truffled.lol/games/basketballstars/assets/p2.js",
+    "https://truffled.lol/games/basketballstars/assets/src/p2.js",
+    "https://truffled.lol/games/package.json",
+    "https://www.googletagservices.com/pubads_impl.js",
+    "https://truffled.lol/games/basketballstars/assets/fonts/Impact/impact.eot?",
+    "https://truffled.lol/games/basketballstars/assets/fonts/Impact/impact.ttf",
+    "https://truffled.lol/games/basketballstars/assets/fonts/Impact/impact.svg#impact",
+    "https://truffled.lol/games/basketballstars/assets/fonts/AllerDisplay/AllerDisplay.eot?",
+    "https://truffled.lol/games/basketballstars/assets/fonts/AllerDisplay/AllerDisplay.ttf",
+    "https://truffled.lol/games/basketballstars/assets/fonts/AllerDisplay/AllerDisplay.svg#AllerDisplay",
+    "https://truffled.lol/games/basketballstars/assets/fonts/CfCrackBold/cfcrackandbold.eot?",
+    "https://truffled.lol/games/basketballstars/assets/fonts/CfCrackBold/cfcrackandbold.ttf",
+    "https://truffled.lol/games/basketballstars/assets/fonts/CfCrackBold/cfcrackandbold.svg#cfcrackandbold",
+    "https://truffled.lol/games/basketballstars/assets/fonts/Impact2/impact.eot?",
+    "https://truffled.lol/games/basketballstars/assets/fonts/Impact2/impact.ttf",
+    "https://truffled.lol/games/basketballstars/assets/fonts/Impact2/impact.svg#impact",
+    "https://truffled.lol/games/basketballstars/assets/fonts/Impact3/impact.eot?",
+    "https://truffled.lol/games/basketballstars/assets/fonts/Impact3/impact.ttf",
+    "https://truffled.lol/games/basketballstars/assets/fonts/Impact3/impact.svg#impact"
+  ],
+  "failed": [
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/images/rotate.png",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/images/rotate.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/Promise.map",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/Promise.map",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/map.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/map.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/using.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/using.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/timers.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/timers.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/generators.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/generators.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/nodeify.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/nodeify.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/props.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/props.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/call_get.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/call_get.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/race.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/race.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/reduce.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/reduce.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/settle.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/settle.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/some.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/some.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/promisify.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/promisify.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/any.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/any.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/filter.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/filter.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/each.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/each.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/package.json",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/ojogos.com.br",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/ojogos.com.br",
+      "status": 404
+    },
+    {
+      "url": "https://hb.improvedigital.com/pbw/gameDistribution.min.js",
+      "error": "HTTP 403 for https://hb.improvedigital.com/pbw/gameDistribution.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/sprites.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/sprites.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/path/to/image2.png",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/path/to/image2.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/imagePath.png",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/imagePath.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/imagePath.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/imagePath.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/box2dweb/path/to/image.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/box2dweb/path/to/image.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://tags.crwdcntrl.net/c/13998/cc.js?ns=_cc13998",
+      "error": "HTTP 403 for https://tags.crwdcntrl.net/c/13998/cc.js?ns=_cc13998",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/assets/box2dweb/dragonBones.min.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/assets/box2dweb/dragonBones.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/assets/css/CfCrackBold.css",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/assets/css/CfCrackBold.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/assets/css/AllerDisplay.css",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/assets/css/AllerDisplay.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/assets/css/impact2.css",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/assets/css/impact2.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/assets/css/impact.css",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/assets/css/impact.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/assets/css/impact3.css",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/assets/css/impact3.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/p2.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/src/p2.js",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/src/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/package.json",
+      "error": "HTTP 404 for https://truffled.lol/games/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://www.googletagservices.com/pubads_impl.js",
+      "error": "HTTP 404 for https://www.googletagservices.com/pubads_impl.js",
+      "status": 404
+    },
+    {
+      "url": "http://server-with-cors-support.com/path/to/image.jpg",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/Impact/impact.eot?",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/Impact/impact.eot?",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/Impact/impact.ttf",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/Impact/impact.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/Impact/impact.svg#impact",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/Impact/impact.svg#impact",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/AllerDisplay/AllerDisplay.eot?",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/AllerDisplay/AllerDisplay.eot?",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/AllerDisplay/AllerDisplay.ttf",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/AllerDisplay/AllerDisplay.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/AllerDisplay/AllerDisplay.svg#AllerDisplay",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/AllerDisplay/AllerDisplay.svg#AllerDisplay",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/CfCrackBold/cfcrackandbold.eot?",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/CfCrackBold/cfcrackandbold.eot?",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/CfCrackBold/cfcrackandbold.ttf",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/CfCrackBold/cfcrackandbold.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/CfCrackBold/cfcrackandbold.svg#cfcrackandbold",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/CfCrackBold/cfcrackandbold.svg#cfcrackandbold",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/Impact2/impact.eot?",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/Impact2/impact.eot?",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/Impact2/impact.ttf",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/Impact2/impact.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/Impact2/impact.svg#impact",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/Impact2/impact.svg#impact",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/Impact3/impact.eot?",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/Impact3/impact.eot?",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/Impact3/impact.ttf",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/Impact3/impact.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/basketballstars/assets/fonts/Impact3/impact.svg#impact",
+      "error": "HTTP 404 for https://truffled.lol/games/basketballstars/assets/fonts/Impact3/impact.svg#impact",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T14:57:26.267Z",
+  "verifiedAt": "2026-11-16T13:41:52.500Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Basketball Stars",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1295,
+      "height": 640
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9893,
+    "rendered": true
+  }
+}

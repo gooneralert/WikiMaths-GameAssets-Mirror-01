@@ -1,0 +1,964 @@
+{
+  "slug": "football-bros",
+  "title": "Football Bros",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/footballbros/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/footballbros/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/footbros.webp",
+  "baseUrl": "https://truffled.lol/games/footballbros/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/footballbros/index.html",
+  "status": "done",
+  "sizeBytes": 10580015,
+  "assetCount": 66,
+  "known404": [
+    "https://truffled.lol/games/footballbros/assets/bw_logo.gif",
+    "https://truffled.lol/games/footballbros/gtm.js",
+    "https://truffled.lol/games/footballbros/assets/turnoff.jpg",
+    "https://footballbros.io/sbros_364x180.png",
+    "https://truffled.lol/ss3.jpg",
+    "https://truffled.lol/ss2.jpg",
+    "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://truffled.lol/games/footballbros/assets/audio/theme.mp3",
+    "https://truffled.lol/games/footballbros/assets/audio/announcer_slide.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/theme_arena.mp3",
+    "https://truffled.lol/games/footballbros/assets/audio/theme_select.mp3",
+    "https://truffled.lol/games/footballbros/assets/audio/ball_hit_2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/ball_hit.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/bounce.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/buzzer.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/chirp.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/catch.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/countdown.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/crowd_boo.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/crowd_cpu_score.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/crowd_human_score.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/crowd_clapping.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/crowd_roar.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/firework_explode.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/foot1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/foot2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/intro_ramp.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/jump.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/land.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/organic_whoosh_07.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/play_picked.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/pop.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/punch.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/select.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/shoots.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/smash.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/theme_arena.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/theme_select.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/tip.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/touchdown.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_biggain1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_biggain2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_biggain3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_biggain4.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_biggain5.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_biggain6.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_caught1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_caught2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_caught3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_doink1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_doink2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_drop1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_drop2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_fake1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_fake2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_fgkick1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_fgkick2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_firstdown.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_firstdown1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_firstdown2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_firstdown3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_fumble1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_fumble2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_firstdown4.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_fumble3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_gameover1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_gameover3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_gameover2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_gameover4.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_half1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_half2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_hit1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_hit2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_hit4.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_hit3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_hit5.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_hit8.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_hit7.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_hit6.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_hit9.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_hurdle1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_hurdle3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_hurdle2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_incomplete1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_incomplete2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_int1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_int2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_intro1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_intro2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_intro3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_intro4.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_kickoff1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_kicknogood1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_kickoff2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_kickgood1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_kickwideleft.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_kickwideright.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_onside1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_onsiderecovered.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_pass1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_overtime.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_pass2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_pass3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_pi2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_pi1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_pi4.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_pi3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_pi5.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_qb1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_qb2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_qb3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_qb4.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_qb5.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_running1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_qb6.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_running3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_running2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_running4.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_sacked1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_sacked3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_sacked2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_snap1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_safety1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_snap2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_safety2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_td1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_snap3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_td5.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_td2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_td3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_td4.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_tipped1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_td6.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_touchback2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_touchback1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_turnoverondowns2.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_turnoverondowns1.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_turnoverondowns3.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/vo_turnoverondowns4.wav",
+    "https://truffled.lol/games/footballbros/assets/audio/whistle.wav",
+    "https://truffled.lol/games/footballbros/_MASK.jpg",
+    "https://truffled.lol/games/footballbros/hxjson2.JSON",
+    "https://truffled.lol/games/footballbros/library.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/bw_logo.gif",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/bw_logo.gif",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/gtm.js",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/gtm.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/turnoff.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/turnoff.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/SSK/footballbros.io/AdInPlay/a9_display_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/SSK/footballbros.io/AdInPlay/a9_display_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://footballbros.io/sbros_364x180.png",
+      "error": "HTTP 404 for https://footballbros.io/sbros_364x180.png",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/SSK/footballbros.io/cdn-ihb.33across.com/ihbloader.js",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/SSK/footballbros.io/cdn-ihb.33across.com/ihbloader.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/SSK/footballbros.io/AdInPlay/a9_video_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/SSK/footballbros.io/AdInPlay/a9_video_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/ss3.jpg",
+      "error": "HTTP 404 for https://truffled.lol/ss3.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/ss2.jpg",
+      "error": "HTTP 404 for https://truffled.lol/ss2.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/===e.data?.type&&this.#au.postMessage(e.data.msg,",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/===e.data?.type&&this.#au.postMessage(e.data.msg,",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/Node.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/Node.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/ext.data",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/ext.data",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/debugging-standalone.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/debugging-standalone.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/events.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/events.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/prebid.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/prebid.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/.js",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/theme.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/theme.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/announcer_slide.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/announcer_slide.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/theme_arena.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/theme_arena.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/theme_select.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/theme_select.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/ball_hit_2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/ball_hit_2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/ball_hit.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/ball_hit.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/bounce.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/bounce.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/buzzer.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/buzzer.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/chirp.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/chirp.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/catch.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/catch.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/countdown.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/countdown.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/crowd_boo.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/crowd_boo.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/crowd_cpu_score.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/crowd_cpu_score.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/crowd_human_score.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/crowd_human_score.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/crowd_clapping.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/crowd_clapping.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/crowd_roar.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/crowd_roar.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/firework_explode.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/firework_explode.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/foot1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/foot1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/foot2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/foot2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/intro_ramp.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/intro_ramp.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/jump.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/jump.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/land.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/land.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/organic_whoosh_07.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/organic_whoosh_07.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/play_picked.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/play_picked.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/pop.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/pop.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/punch.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/punch.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/select.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/select.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/shoots.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/shoots.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/smash.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/smash.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/theme_arena.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/theme_arena.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/theme_select.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/theme_select.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/tip.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/tip.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/touchdown.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/touchdown.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_biggain1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_biggain1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_biggain2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_biggain2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_biggain3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_biggain3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_biggain4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_biggain4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_biggain5.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_biggain5.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_biggain6.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_biggain6.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_caught1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_caught1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_caught2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_caught2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_caught3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_caught3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_doink1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_doink1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_doink2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_doink2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_drop1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_drop1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_drop2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_drop2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_fake1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_fake1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_fake2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_fake2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_fgkick1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_fgkick1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_fgkick2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_fgkick2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_firstdown.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_firstdown.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_firstdown1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_firstdown1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_firstdown2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_firstdown2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_firstdown3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_firstdown3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_fumble1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_fumble1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_fumble2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_fumble2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_firstdown4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_firstdown4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_fumble3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_fumble3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_gameover1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_gameover1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_gameover3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_gameover3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_gameover2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_gameover2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_gameover4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_gameover4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_half1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_half1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_half2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_half2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_hit1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_hit1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_hit2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_hit2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_hit4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_hit4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_hit3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_hit3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_hit5.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_hit5.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_hit8.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_hit8.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_hit7.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_hit7.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_hit6.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_hit6.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_hit9.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_hit9.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_hurdle1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_hurdle1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_hurdle3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_hurdle3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_hurdle2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_hurdle2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_incomplete1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_incomplete1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_incomplete2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_incomplete2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_int1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_int1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_int2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_int2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_intro1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_intro1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_intro2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_intro2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_intro3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_intro3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_intro4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_intro4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_kickoff1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_kickoff1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_kicknogood1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_kicknogood1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_kickoff2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_kickoff2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_kickgood1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_kickgood1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_kickwideleft.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_kickwideleft.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_kickwideright.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_kickwideright.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_onside1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_onside1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_onsiderecovered.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_onsiderecovered.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_pass1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_pass1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_overtime.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_overtime.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_pass2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_pass2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_pass3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_pass3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_pi2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_pi2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_pi1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_pi1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_pi4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_pi4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_pi3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_pi3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_pi5.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_pi5.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_qb1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_qb1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_qb2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_qb2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_qb3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_qb3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_qb4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_qb4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_qb5.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_qb5.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_running1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_running1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_qb6.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_qb6.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_running3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_running3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_running2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_running2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_running4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_running4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_sacked1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_sacked1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_sacked3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_sacked3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_sacked2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_sacked2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_snap1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_snap1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_safety1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_safety1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_snap2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_snap2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_safety2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_safety2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_td1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_td1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_snap3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_snap3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_td5.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_td5.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_td2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_td2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_td3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_td3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_td4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_td4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_tipped1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_tipped1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_td6.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_td6.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_touchback2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_touchback2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_touchback1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_touchback1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_turnoverondowns2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_turnoverondowns2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_turnoverondowns1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_turnoverondowns1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_turnoverondowns3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_turnoverondowns3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/vo_turnoverondowns4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/vo_turnoverondowns4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/assets/audio/whistle.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/assets/audio/whistle.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/_MASK.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/_MASK.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/hxjson2.JSON",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/hxjson2.JSON",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/library.json",
+      "error": "HTTP 404 for https://truffled.lol/games/footballbros/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/footballbros/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:10:22.373Z"
+}

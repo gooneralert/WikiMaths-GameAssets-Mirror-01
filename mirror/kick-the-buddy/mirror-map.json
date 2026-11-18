@@ -1,0 +1,23 @@
+{
+  "/404": "/.png.html",
+  "/css/404.css": "/__site__/css/404.css",
+  "/games/kickthebuddy/.jpg": "/.jpg.html",
+  "/games/kickthebuddy/.png": "/.png.html",
+  "/games/kickthebuddy/index.html": "/index.html",
+  "/games/kickthebuddy/master-loader.js": "/master-loader.js",
+  "/games/kickthebuddy/poki-sdk.js": "/poki-sdk.js",
+  "/games/kickthebuddy/unity-2020.js": "/unity-2020.js",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://a.poki-cdn.com/fonts/torus-bold-webfont.woff": "/__external__/a.poki-cdn.com/fonts/torus-bold-webfont.woff",
+  "https://a.poki-cdn.com/fonts/torus-bold-webfont.woff2": "/__external__/a.poki-cdn.com/fonts/torus-bold-webfont.woff2",
+  "https://img.poki-cdn.com/cdn-cgi/image/quality=80,width=100,height=100,fit=cover,g=0.5x0.5,f=auto/a398cd4e645b76810031bd97f8697414.png": "/__external__/img.poki-cdn.com/cdn-cgi/image/quality=80,width=100,height=100,fit=cover,g=0.5x0.5,f=auto/a398cd4e645b76810031bd97f8697414.png",
+  "https://truffled.lol/404": "/.png.html",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/games/kickthebuddy/.jpg": "/.jpg.html",
+  "https://truffled.lol/games/kickthebuddy/.png": "/.png.html",
+  "https://truffled.lol/games/kickthebuddy/index.html": "/index.html",
+  "https://truffled.lol/games/kickthebuddy/master-loader.js": "/master-loader.js",
+  "https://truffled.lol/games/kickthebuddy/poki-sdk.js": "/poki-sdk.js",
+  "https://truffled.lol/games/kickthebuddy/unity-2020.js": "/unity-2020.js",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

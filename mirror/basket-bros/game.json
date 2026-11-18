@@ -1,0 +1,452 @@
+{
+  "slug": "basket-bros",
+  "title": "Basket Bros",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/basket.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/basket.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/basketbro.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/basket.html",
+  "entryUrl": "https://truffled.lol/gamefile/basket.html",
+  "status": "done",
+  "sizeBytes": 5454207,
+  "assetCount": 21,
+  "known404": [
+    "https://cdn.onesignal.com/sdks/akam-sw.js"
+  ],
+  "failed": [
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/DGZ/basketbros.io/tag.min.js",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/DGZ/basketbros.io/tag.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/theme_select.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/theme_select.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/theme_arena.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/theme_arena.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/theme.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/theme.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/announcer_slide.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/announcer_slide.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/bounce.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/bounce.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/buzzer.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/buzzer.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/callthecops.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/callthecops.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/ball_hit.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/ball_hit.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/ball_hit_2.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/ball_hit_2.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/callthatref.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/callthatref.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/crowd_boo.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/crowd_boo.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/crossed.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/crossed.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/crowd_clapping.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/crowd_clapping.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/cmonref.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/cmonref.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/countdown.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/countdown.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/crowd_cpu_score.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/crowd_cpu_score.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/crowd_human_score.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/crowd_human_score.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/crowd_roar.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/crowd_roar.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/denied.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/denied.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/facial.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/facial.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/firework_explode.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/firework_explode.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/flush.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/flush.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/forthree.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/forthree.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/foot2.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/foot2.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/foot1.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/foot1.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/fromdeep.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/fromdeep.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/fromlongdistance.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/fromlongdistance.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/herewego.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/herewego.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/handles.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/handles.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/heshoots.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/heshoots.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/fromtheparkinglot.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/fromtheparkinglot.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/fromwaydowntown.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/fromwaydowntown.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/hewasmugged.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/hewasmugged.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/ifyoudontlike.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/ifyoudontlike.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/intro_ramp.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/intro_ramp.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/jammed.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/jammed.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/jump.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/jump.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/land.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/land.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/leaveamark.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/leaveamark.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/lookatthat.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/lookatthat.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/nothingbutnet.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/nothingbutnet.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/noweakstuff.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/noweakstuff.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/obliterated.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/obliterated.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/ohmygoodness.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/ohmygoodness.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/ohh.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/ohh.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/onskates.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/onskates.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/onfire.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/onfire.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/punch.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/punch.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/organic_whoosh_07.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/organic_whoosh_07.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/posterized.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/posterized.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/pop.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/pop.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/rejected.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/rejected.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/smash.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/smash.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/select.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/select.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/stepback.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/stepback.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/swatted.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/swatted.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/stuffed.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/stuffed.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/swish.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/swish.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/theme_select.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/theme_select.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/thatsafoul.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/thatsafoul.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/theyrelettingthemplay.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/theyrelettingthemplay.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/throwdown.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/throwdown.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/whatafinish.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/whatafinish.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/whatagame.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/whatagame.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/watchyourhead.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/watchyourhead.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/withauthority.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/withauthority.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/wow.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/wow.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/yammed.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/assets/audio/yammed.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/.m4a",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/.m4a",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/openfl.utils.Assets",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/openfl.utils.Assets",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/_MASK.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/_MASK.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/library.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/library.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/FileSaver.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/basketbros-io/FileSaver.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.onesignal.com/sdks/akam-sw.js",
+      "error": "HTTP 404 for https://cdn.onesignal.com/sdks/akam-sw.js",
+      "status": 404
+    },
+    {
+      "url": "https://onesignal.com/api/v1/sync/9e216ce8-de65-411a-8cbd-50930a7bd60c/OneSignalSDKWorker.js",
+      "error": "HTTP 400 for https://onesignal.com/api/v1/sync/9e216ce8-de65-411a-8cbd-50930a7bd60c/OneSignalSDKWorker.js",
+      "status": 400
+    },
+    {
+      "url": "https://onesignal.com/api/v1/sync/9e216ce8-de65-411a-8cbd-50930a7bd60c/OneSignalSDKUpdaterWorker.js",
+      "error": "HTTP 400 for https://onesignal.com/api/v1/sync/9e216ce8-de65-411a-8cbd-50930a7bd60c/OneSignalSDKUpdaterWorker.js",
+      "status": 400
+    }
+  ],
+  "mirroredAt": "2026-11-16T08:36:03.293Z",
+  "verifiedAt": "2026-11-16T13:40:20.362Z",
+  "verification": {
+    "external": 70,
+    "blocking": 0,
+    "ignoredExternal": 70,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Basket Bros",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 944,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0172,
+    "rendered": true
+  }
+}

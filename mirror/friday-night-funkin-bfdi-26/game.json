@@ -1,0 +1,549 @@
+{
+  "slug": "friday-night-funkin-bfdi-26",
+  "title": "Friday Night Funkin BFDI 26",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnf/bfdi26.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnf/bfdi26.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/bfdi26.webp",
+  "baseUrl": "https://truffled.lol/games/fnf/",
+  "entry": "/bfdi26.html",
+  "entryUrl": "https://truffled.lol/games/fnf/bfdi26.html",
+  "status": "done",
+  "sizeBytes": 2987629,
+  "assetCount": 31,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/flashing.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/favicon.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/impact.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/impact.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/flashing.svg#Shag-Lounge",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/flashing.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/impact.svg#Impact",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/pixel.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/pixel.otf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/Shag-Lounge.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/Shag-Lounge.svg#Shag-Lounge",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/vcr.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/Shag-Lounge.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/nokiafc22.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/nokiafc22.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/monsterrat.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/monsterrat.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/monsterrat.svg#Monsterrat",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.mp4",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/weeks/weekList.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/speech_bubble.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.mp3",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/haxe.io.Bytes",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.wav",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.ogg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/Animation.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/haxe.Resource",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/lime.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/lime.utils.AssetBundle",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/checkboxanim.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flxanimate.zip.Zip",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/data/credits.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/noteSplashes/list.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/openfl.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/-pixel.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/himshey/matchbg.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/lightningbop.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/pls/purpleghostbg.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/oneshot/oneglow.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/tbgbbopping.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/yellowfacebopper.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/grassybop.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/gatybop.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/yoylefake/michael.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/Limeyea.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/yoylefake/fire.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/vocalchordstext.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/EVILsong.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/bluegolfballtitle.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/himsheystext.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/ONESHOTTEXT.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/himshey/snowballwalking.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/ezzylogo.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/newfriendlytext.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/wrongfingertext.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/wellroundedtext.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/fkms.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/invitationaltext.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/kms/thisguyfuckingrocks.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/funnyfellow.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/dotted-line/3/ground.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/plstext.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/heytwotext.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/syskillTxt.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/campaign_menu_UI_assets.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/events.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/gfDanceTitle.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/dialogue.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/data/introText.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/tankmanKilled1.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.otf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/data/characterList.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/logoBumpin.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/FileSaver.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/flashing.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/flashing.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/favicon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/favicon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/impact.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/impact.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/impact.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/impact.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/flashing.svg#Shag-Lounge",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/flashing.svg#Shag-Lounge",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/flashing.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/flashing.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/impact.svg#Impact",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/impact.svg#Impact",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/pixel.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/pixel.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/pixel.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/pixel.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/Shag-Lounge.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/Shag-Lounge.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/Shag-Lounge.svg#Shag-Lounge",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/Shag-Lounge.svg#Shag-Lounge",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/vcr.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/vcr.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/Shag-Lounge.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/Shag-Lounge.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/nokiafc22.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/nokiafc22.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/nokiafc22.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/nokiafc22.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/monsterrat.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/monsterrat.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/monsterrat.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/monsterrat.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/monsterrat.svg#Monsterrat",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flixel/fonts/monsterrat.svg#Monsterrat",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/weeks/weekList.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/weeks/weekList.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/speech_bubble.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/speech_bubble.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/haxe.io.Bytes",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/haxe.io.Bytes",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/Animation.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/Animation.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/library.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/library.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Animation.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Animation.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/haxe.Resource",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/haxe.Resource",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/lime.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/lime.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/checkboxanim.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/checkboxanim.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flxanimate.zip.Zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/flxanimate.zip.Zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/data/credits.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/data/credits.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/noteSplashes/list.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/noteSplashes/list.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/openfl.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/openfl.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/library.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/library.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/-pixel.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/-pixel.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/himshey/matchbg.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/himshey/matchbg.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/lightningbop.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/lightningbop.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/pls/purpleghostbg.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/pls/purpleghostbg.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/oneshot/oneglow.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/oneshot/oneglow.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/tbgbbopping.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/tbgbbopping.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/yellowfacebopper.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/yellowfacebopper.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/grassybop.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/grassybop.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/gatybop.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/hey-two/gatybop.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/yoylefake/michael.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/yoylefake/michael.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/Limeyea.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/Limeyea.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/yoylefake/fire.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/yoylefake/fire.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/vocalchordstext.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/vocalchordstext.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/EVILsong.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/EVILsong.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/bluegolfballtitle.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/bluegolfballtitle.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/himsheystext.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/himsheystext.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/ONESHOTTEXT.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/ONESHOTTEXT.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/himshey/snowballwalking.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/himshey/snowballwalking.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/ezzylogo.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/ezzylogo.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/newfriendlytext.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/newfriendlytext.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/wrongfingertext.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/wrongfingertext.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/wellroundedtext.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/wellroundedtext.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/fkms.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/fkms.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/invitationaltext.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/invitationaltext.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/kms/thisguyfuckingrocks.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/kms/thisguyfuckingrocks.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/funnyfellow.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/funnyfellow.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/dotted-line/3/ground.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/backgrounds/dotted-line/3/ground.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/plstext.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/plstext.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Voices.mp3",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Voices.mp3",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/events.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/events.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/heytwotext.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/heytwotext.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/syskillTxt.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/rendersnlogos/syskillTxt.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/campaign_menu_UI_assets.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/campaign_menu_UI_assets.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/events.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/events.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/gfDanceTitle.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/gfDanceTitle.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/dialogue.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/dialogue.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/data/introText.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/data/introText.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/tankmanKilled1.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/tankmanKilled1.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/data/characterList.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/data/characterList.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/logoBumpin.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/images/logoBumpin.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/FileSaver.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/waycrosspublicmedia.github.io@155005f1bd737dab1ff21649e33d0d74b7d3a02d/bdfi26/FileSaver.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnf/bfdi26.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:11:05.502Z"
+}

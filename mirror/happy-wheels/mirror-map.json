@@ -1,0 +1,16 @@
+{
+  "/games/happywheels/index.html": "/index.html",
+  "https://cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/backend-config.js": "/__external__/cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/backend-config.js",
+  "https://cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/browser-preferences.js": "/__external__/cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/browser-preferences.js",
+  "https://cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/hwNative-polyfill.js": "/__external__/cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/hwNative-polyfill.js",
+  "https://cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/js/dependencies.js": "/__external__/cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/js/dependencies.js",
+  "https://cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/js/index.js": "/__external__/cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/js/index.js",
+  "https://cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/offline-api.js": "/__external__/cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/offline-api.js",
+  "https://cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/offline-catalog.js": "/__external__/cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/offline-catalog.js",
+  "https://cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/offline/browse-catalog.js": "/__external__/cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/offline/browse-catalog.js",
+  "https://cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/offline/featured.xml": "/__external__/cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/offline/featured.xml",
+  "https://cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/offline/unavailable.txt": "/__external__/cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/offline/unavailable.txt",
+  "https://raw.githubusercontent.com/nawsif/host/main/HappyWheels/offline/unavailable.txt": "/__external__/cdn.jsdelivr.net/gh/nawsif/host@main/HappyWheels/offline/unavailable.txt",
+  "https://tinklehost.github.io/intro.js": "/__external__/tinklehost.github.io/intro.js",
+  "https://truffled.lol/games/happywheels/index.html": "/index.html"
+}

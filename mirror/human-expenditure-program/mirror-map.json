@@ -1,0 +1,11 @@
+{
+  "/gamefile/human.html": "/human.html",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/css/game.css": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/css/game.css",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/icon/icon.png": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/icon/icon.png",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/main.js": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/main.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/nipplejs/0.9.0/nipplejs.min.js": "/__external__/cdnjs.cloudflare.com/ajax/libs/nipplejs/0.9.0/nipplejs.min.js",
+  "https://raw.githubusercontent.com/genizy/web-port/main/human-expenditure-program/css/game.css": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/css/game.css",
+  "https://raw.githubusercontent.com/genizy/web-port/main/human-expenditure-program/icon/icon.png": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/icon/icon.png",
+  "https://raw.githubusercontent.com/genizy/web-port/main/human-expenditure-program/js/main.js": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/main.js",
+  "https://truffled.lol/gamefile/human.html": "/human.html"
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "knife-hit",
+  "title": "Knife Hit",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/knifehit/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/knifehit/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/knife.webp",
+  "baseUrl": "https://truffled.lol/games/knifehit/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/knifehit/index.html",
+  "status": "done",
+  "sizeBytes": 4038309,
+  "assetCount": 153,
+  "known404": [
+    "https://truffled.lol/games/knifehit/sw.js",
+    "https://truffled.lol/games/knifehit/loading-logo.png",
+    "https://truffled.lol/games/knifehit/data.json",
+    "https://truffled.lol/games/knifehit/assets/images/shockwave-logo.png",
+    "https://truffled.lol/games/knifehit/assets/images/shockwave-loader.gif",
+    "https://truffled.lol/games/knifehit/assets/images/addictinggames-logo.svg",
+    "https://truffled.lol/games/knifehit/assets/images/shockwave-logo.svg",
+    "https://truffled.lol/games/knifehit/assets/images/input-lock.png",
+    "https://truffled.lol/games/knifehit/assets/images/addictinggames-loader.gif",
+    "https://truffled.lol/games/knifehit/assets/images/input-user.png",
+    "https://truffled.lol/games/knifehit/assets/images/input-envelope.png",
+    "https://truffled.lol/games/knifehit/assets/images/button-loader.gif"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/knifehit/sw.js",
+      "error": "HTTP 404 for https://truffled.lol/games/knifehit/sw.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/knifehit/loading-logo.png",
+      "error": "HTTP 404 for https://truffled.lol/games/knifehit/loading-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/knifehit/data.json",
+      "error": "HTTP 404 for https://truffled.lol/games/knifehit/data.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/knifehit/assets/images/shockwave-logo.png",
+      "error": "HTTP 404 for https://truffled.lol/games/knifehit/assets/images/shockwave-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/knifehit/assets/images/shockwave-loader.gif",
+      "error": "HTTP 404 for https://truffled.lol/games/knifehit/assets/images/shockwave-loader.gif",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/knifehit/assets/images/addictinggames-logo.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/knifehit/assets/images/addictinggames-logo.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/knifehit/assets/images/shockwave-logo.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/knifehit/assets/images/shockwave-logo.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/knifehit/assets/images/input-lock.png",
+      "error": "HTTP 404 for https://truffled.lol/games/knifehit/assets/images/input-lock.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/knifehit/assets/images/addictinggames-loader.gif",
+      "error": "HTTP 404 for https://truffled.lol/games/knifehit/assets/images/addictinggames-loader.gif",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/knifehit/assets/images/input-user.png",
+      "error": "HTTP 404 for https://truffled.lol/games/knifehit/assets/images/input-user.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/knifehit/assets/images/input-envelope.png",
+      "error": "HTTP 404 for https://truffled.lol/games/knifehit/assets/images/input-envelope.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/knifehit/assets/images/button-loader.gif",
+      "error": "HTTP 404 for https://truffled.lol/games/knifehit/assets/images/button-loader.gif",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T12:16:38.313Z",
+  "verifiedAt": "2026-11-17T12:17:44.811Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Knife Hit",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

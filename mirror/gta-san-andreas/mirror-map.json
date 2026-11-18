@@ -1,0 +1,10 @@
+{
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/games/gtasan/index.html": "/index.html",
+  "/games/gtasan/static/css/main.5a525eca.css": "/static/css/main.5a525eca.css",
+  "/games/gtasan/static/js/main.fb6e8aea.js": "/static/js/main.fb6e8aea.js",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/games/gtasan/index.html": "/index.html",
+  "https://truffled.lol/games/gtasan/static/css/main.5a525eca.css": "/static/css/main.5a525eca.css",
+  "https://truffled.lol/games/gtasan/static/js/main.fb6e8aea.js": "/static/js/main.fb6e8aea.js"
+}

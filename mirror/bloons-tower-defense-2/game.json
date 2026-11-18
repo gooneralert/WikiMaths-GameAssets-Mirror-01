@@ -1,0 +1,47 @@
+{
+  "slug": "bloons-tower-defense-2",
+  "title": "Bloons Tower Defense 2",
+  "type": "Flash",
+  "developer": "Ninja Kiwi",
+  "description": "Bloons Tower Defense 2 is a popular tower defense game originally released in Flash by Ninja Kiwi. Strategically place your defenses, upgrade your units, and stop all balloons from passing through.",
+  "tags": [
+    "Tower Defense",
+    "Top-Down",
+    "Casual",
+    "Resource Management",
+    "Strategy"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "f0a4e2ce-b101-46db-89c0-91bc64744b20",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/f0a4e2ce-b101-46db-89c0-91bc64744b20/1/f0a4e2ce-b101-46db-89c0-91bc64744b20.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 787394,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:49:22.277Z",
+  "verifiedAt": "2026-11-16T14:00:09.050Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Bloons Tower Defense 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  },
+  "assetCount": 0
+}

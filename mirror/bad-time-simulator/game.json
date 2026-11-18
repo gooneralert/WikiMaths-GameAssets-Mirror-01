@@ -1,0 +1,52 @@
+{
+  "slug": "bad-time-simulator",
+  "title": "Bad time Simulator",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/bts/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/bts/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/badt.webp",
+  "baseUrl": "https://truffled.lol/games/bts/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/bts/index.html",
+  "status": "done",
+  "sizeBytes": 2748791,
+  "assetCount": 176,
+  "known404": [
+    "https://truffled.lol/games/bts/data.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/bts/data.json",
+      "error": "HTTP 404 for https://truffled.lol/games/bts/data.json",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T07:21:25.347Z",
+  "verifiedAt": "2026-11-18T06:38:49.215Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Bad Time Simulator (Sans Fight)",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 640,
+      "height": 480
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0077,
+    "rendered": true
+  }
+}

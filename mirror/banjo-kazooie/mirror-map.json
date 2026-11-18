@@ -1,0 +1,18 @@
+{
+  "/fonts/sc-400.woff2": "/__site__/fonts/sc-400.woff2",
+  "/gamefile/banjokazooie.html": "/banjokazooie.html",
+  "https://cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@main/data/emulator.css": "/__external__/cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@main/data/emulator.css",
+  "https://cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@main/data/emulator.min.css": "/__external__/cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@main/data/emulator.min.css",
+  "https://cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@main/data/loader.js": "/__external__/cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@main/data/loader.js",
+  "https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/banjokazooie/banjokazooie.zip": "/__external__/cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/banjokazooie/banjokazooie.zip",
+  "https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js": "/__external__/cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js",
+  "https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap": "/__external__/fonts.googleapis.com/css2.__qed6a9feb",
+  "https://fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK3nRivN04w.woff2": "/__external__/fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK3nRivN04w.woff2",
+  "https://fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK3nVivM.woff2": "/__external__/fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK3nVivM.woff2",
+  "https://fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK3nWivN04w.woff2": "/__external__/fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK3nWivN04w.woff2",
+  "https://fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK3nYivN04w.woff2": "/__external__/fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK3nYivN04w.woff2",
+  "https://fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK3nbivN04w.woff2": "/__external__/fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK3nbivN04w.woff2",
+  "https://truffled.lol/fonts/sc-400.woff2": "/__site__/fonts/sc-400.woff2",
+  "https://truffled.lol/gamefile/banjokazooie.html": "/banjokazooie.html",
+  "https://www.gstatic.com/charts/loader.js": "/__external__/www.gstatic.com/charts/loader.js"
+}

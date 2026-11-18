@@ -1,0 +1,98 @@
+{
+  "slug": "google-baseball",
+  "title": "Google Baseball",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/gbase.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/gbase.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/google.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/gbase.html",
+  "entryUrl": "https://truffled.lol/gamefile/gbase.html",
+  "status": "done",
+  "sizeBytes": 3494686,
+  "assetCount": 18,
+  "known404": [
+    "https://cdn.jsdelivr.net/logos/doodles/2019/fourth-of-july-2019-6225363087654912.2-l.png"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/logos/doodles/2019/fourth-of-july-2019-6225363087654912.2-l.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/logos/doodles/2019/fourth-of-july-2019-6225363087654912.2-l.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_bonus.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_bonus.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_05.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_05.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_02.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_02.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_01.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_01.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_03.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_03.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_04.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_04.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_06.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_06.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_07.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_07.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_08.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_08.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/.nocache.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/.nocache.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_09.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball/share_09.png",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/gamefile/gbase.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:21:19.781Z"
+}

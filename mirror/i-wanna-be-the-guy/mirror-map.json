@@ -1,0 +1,11 @@
+{
+  "/games/iwbtg/Runtime.js": "/Runtime.js",
+  "/games/iwbtg/index.html": "/index.html",
+  "/games/iwbtg/main.js": "/main.js",
+  "/games/iwbtg/style.css": "/style.css",
+  "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js": "/__external__/cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js",
+  "https://truffled.lol/games/iwbtg/Runtime.js": "/Runtime.js",
+  "https://truffled.lol/games/iwbtg/index.html": "/index.html",
+  "https://truffled.lol/games/iwbtg/main.js": "/main.js",
+  "https://truffled.lol/games/iwbtg/style.css": "/style.css"
+}

@@ -1,0 +1,14 @@
+{
+  "/games/bloxors/bloxors.swf": "/bloxors.swf",
+  "/games/bloxors/favicon.ico": "/favicon.ico",
+  "/games/bloxors/index.html": "/index.html",
+  "/games/bloxors/ruffle/199487888125ef0c9fe4.wasm": "/ruffle/199487888125ef0c9fe4.wasm",
+  "/games/bloxors/ruffle/ruffle.js": "/ruffle/ruffle.js",
+  "/js/main.js": "/__site__/js/main.js",
+  "https://truffled.lol/games/bloxors/bloxors.swf": "/bloxors.swf",
+  "https://truffled.lol/games/bloxors/favicon.ico": "/favicon.ico",
+  "https://truffled.lol/games/bloxors/index.html": "/index.html",
+  "https://truffled.lol/games/bloxors/ruffle/199487888125ef0c9fe4.wasm": "/ruffle/199487888125ef0c9fe4.wasm",
+  "https://truffled.lol/games/bloxors/ruffle/ruffle.js": "/ruffle/ruffle.js",
+  "https://truffled.lol/js/main.js": "/__site__/js/main.js"
+}

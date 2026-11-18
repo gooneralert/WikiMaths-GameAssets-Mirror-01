@@ -1,0 +1,12 @@
+{
+  "/games/flappybird/__loading__.js": "/__loading__.js",
+  "/games/flappybird/__start__.js": "/__start__.js",
+  "/games/flappybird/index.html": "/index.html",
+  "/games/flappybird/styles.css": "/styles.css",
+  "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/config.json": "/__external__/s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/config.json",
+  "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/playcanvas-stable.min.js": "/__external__/s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/playcanvas-stable.min.js",
+  "https://truffled.lol/games/flappybird/__loading__.js": "/__loading__.js",
+  "https://truffled.lol/games/flappybird/__start__.js": "/__start__.js",
+  "https://truffled.lol/games/flappybird/index.html": "/index.html",
+  "https://truffled.lol/games/flappybird/styles.css": "/styles.css"
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "human-expenditure-program",
+  "title": "HUMAN EXPENDITURE PROGRAM",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/human.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/human.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/human.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/human.html",
+  "entryUrl": "https://truffled.lol/gamefile/human.html",
+  "status": "done",
+  "sizeBytes": 39226,
+  "assetCount": 9,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/libs/pako.min.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/libs/pako.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/libs/pixi.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/libs/pixi.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/libs/localforage.min.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/libs/localforage.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/libs/vorbisdecoder.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/libs/vorbisdecoder.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/libs/effekseer.min.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/libs/effekseer.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/rmmz_core.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/rmmz_core.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/rmmz_objects.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/rmmz_objects.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/rmmz_scenes.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/rmmz_scenes.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/rmmz_sprites.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/rmmz_sprites.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/rmmz_managers.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/rmmz_managers.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/plugins.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/plugins.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/rmmz_windows.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/rmmz_windows.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/libs/effekseer.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/human-expenditure-program/js/js/libs/effekseer.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/gamefile/human.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:50:16.691Z"
+}

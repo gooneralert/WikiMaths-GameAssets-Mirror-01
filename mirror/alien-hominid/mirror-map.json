@@ -1,0 +1,22 @@
+{
+  "/404": "/.wasm",
+  "/css/404.css": "/__site__/css/404.css",
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/games/alien/.wasm": "/.wasm",
+  "/games/alien/7fff76bd302d27ca49b4.wasm": "/7fff76bd302d27ca49b4.wasm",
+  "/games/alien/alien_hominid.swf": "/alien_hominid.swf",
+  "/games/alien/core.ruffle.4622e393b8f8859f88c4.js": "/core.ruffle.4622e393b8f8859f88c4.js",
+  "/games/alien/index.html": "/index.html",
+  "/games/alien/ruffle.js": "/ruffle.js",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://truffled.lol/404": "/.wasm",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/games/alien/.wasm": "/.wasm",
+  "https://truffled.lol/games/alien/7fff76bd302d27ca49b4.wasm": "/7fff76bd302d27ca49b4.wasm",
+  "https://truffled.lol/games/alien/alien_hominid.swf": "/alien_hominid.swf",
+  "https://truffled.lol/games/alien/core.ruffle.4622e393b8f8859f88c4.js": "/core.ruffle.4622e393b8f8859f88c4.js",
+  "https://truffled.lol/games/alien/index.html": "/index.html",
+  "https://truffled.lol/games/alien/ruffle.js": "/ruffle.js",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

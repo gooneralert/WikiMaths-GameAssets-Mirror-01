@@ -1,0 +1,74 @@
+{
+  "slug": "half-life-opposing-force",
+  "title": "Half life: Opposing Force",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/hlof.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/hlof.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/hlof.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/hlof.html",
+  "entryUrl": "https://truffled.lol/gamefile/hlof.html",
+  "status": "done",
+  "sizeBytes": 13437222,
+  "assetCount": 9,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/opposing_force_en.zip",
+    "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/opposing_force_rus.zip",
+    "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/.js",
+    "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/halva_en.zip",
+    "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/halva_rus.zip",
+    "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/blue_shift_en.zip",
+    "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/blue_shift_rus.zip"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/opposing_force_en.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/opposing_force_en.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/opposing_force_rus.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/opposing_force_rus.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/halva_en.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/halva_en.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/halva_rus.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/halva_rus.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/blue_shift_en.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/blue_shift_en.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/blue_shift_rus.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Pixelsuft/hl@main/blue_shift_rus.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/gamefile/hlof.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:35:15.959Z"
+}

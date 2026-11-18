@@ -1,0 +1,447 @@
+{
+  "slug": "hexgl",
+  "title": "HexGL",
+  "type": "HTML",
+  "developer": "BKcore",
+  "description": "HexGL is a futuristic, fast-paced racing game built by Thibaut Despoulain using HTML5, Javascript and WebGL and a tribute to the original Wipeout and F-Zero series.",
+  "tags": [
+    "Racing",
+    "Action",
+    "3D",
+    "Indie",
+    "Driving"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "444caaf5-b8a2-48f4-b93e-cc03c8df9f9b",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/index.html",
+  "status": "done",
+  "sizeBytes": 1811637,
+  "assetCount": 88,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/libs/version.js",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/textures/hud/hud-bg.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/libs/,c.map?",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/textures/hud/hud-fg-speed.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/textures/hud/hud-fg-shield.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/hud/hex.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/particles/spark.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/ships/feisar/diffuse.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/particles/cloud.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/ships/feisar/booster/boostersprite.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/ships/feisar/booster/booster.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/diffuse.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/scrapers1/diffuse.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/start/diffuse.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/scrapers2/diffuse.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/bonus/base/diffuse.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/start/start.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/bonus/base/base.js",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/ships/feisar/feisar.js",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/track.js",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/booster/booster.js",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/scrapers2.js",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/scrapers1.js",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/start.js",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/bonus/speed.js",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/startbanner.js",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/collision.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/height.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/hud/hud-bg.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/hud/hud-fg-speed.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/hud/hud-fg-shield.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/bg.ogg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/crash.ogg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/destroyed.ogg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/boost.ogg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/wind.ogg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/particles/cloud.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/hud/hex.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/particles/spark.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/diffuse.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/specular.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/normal.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/diffuse.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/booster/booster.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/booster/boostersprite.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/normal.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/specular.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers1/diffuse.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers1/specular.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers1/normal.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers2/diffuse.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers2/specular.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers2/normal.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/start/diffuse.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/start/normal.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/start/start.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/start/specular.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/bonus/base/normal.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/bonus/base/diffuse.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/bonus/base/specular.jpg",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/collision.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/height.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/hud/hud-bg.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/hud/hud-fg-speed.png",
+    "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/hud/hud-fg-shield.png"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/libs/version.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/libs/version.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/textures/hud/hud-bg.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/textures/hud/hud-bg.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/libs/,c.map?",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/libs/,c.map?",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/textures/hud/hud-fg-speed.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/textures/hud/hud-fg-speed.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/textures/hud/hud-fg-shield.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/textures/hud/hud-fg-shield.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/hud/hex.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/hud/hex.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/particles/spark.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/particles/spark.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/ships/feisar/diffuse.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/ships/feisar/diffuse.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/particles/cloud.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/particles/cloud.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/ships/feisar/booster/boostersprite.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/ships/feisar/booster/boostersprite.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/ships/feisar/booster/booster.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/ships/feisar/booster/booster.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/diffuse.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/diffuse.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/scrapers1/diffuse.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/scrapers1/diffuse.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/skybox/dawnclouds/%1.jpg",
+      "error": "HTTP 400 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/skybox/dawnclouds/%1.jpg",
+      "status": 400
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/start/diffuse.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/start/diffuse.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/scrapers2/diffuse.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/scrapers2/diffuse.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/bonus/base/diffuse.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/bonus/base/diffuse.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/start/start.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/start/start.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/bonus/base/base.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/bonus/base/base.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/ships/feisar/feisar.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/ships/feisar/feisar.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/track.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/track.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/booster/booster.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/booster/booster.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/scrapers2.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/scrapers2.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/scrapers1.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/scrapers1.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/start.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/start.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/bonus/speed.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/bonus/speed.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/startbanner.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/geometries/tracks/cityscape/startbanner.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/collision.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/collision.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/height.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/tracks/cityscape/height.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/hud/hud-bg.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/hud/hud-bg.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/hud/hud-fg-speed.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/hud/hud-fg-speed.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/hud/hud-fg-shield.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures/hud/hud-fg-shield.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/bg.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/bg.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/crash.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/crash.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/destroyed.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/destroyed.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/boost.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/boost.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/wind.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/audio/wind.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/particles/cloud.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/particles/cloud.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/hud/hex.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/hud/hex.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/particles/spark.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/particles/spark.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/diffuse.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/diffuse.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/specular.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/specular.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/normal.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/normal.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/diffuse.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/diffuse.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/booster/booster.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/booster/booster.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/booster/boostersprite.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/ships/feisar/booster/boostersprite.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/normal.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/normal.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/specular.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/specular.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers1/diffuse.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers1/diffuse.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers1/specular.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers1/specular.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers1/normal.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers1/normal.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers2/diffuse.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers2/diffuse.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers2/specular.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers2/specular.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers2/normal.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/scrapers2/normal.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/start/diffuse.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/start/diffuse.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/start/normal.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/start/normal.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/start/start.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/start/start.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/start/specular.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/start/specular.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/skybox/dawnclouds/%1.jpg",
+      "error": "HTTP 400 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/skybox/dawnclouds/%1.jpg",
+      "status": 400
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/bonus/base/normal.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/bonus/base/normal.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/bonus/base/diffuse.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/bonus/base/diffuse.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/bonus/base/specular.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/bonus/base/specular.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/collision.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/collision.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/height.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/tracks/cityscape/height.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/hud/hud-bg.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/hud/hud-bg.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/hud/hud-fg-speed.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/hud/hud-fg-speed.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/hud/hud-fg-shield.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/444caaf5-b8a2-48f4-b93e-cc03c8df9f9b/1/bkcore/hexgl/tracks/textures.full/hud/hud-fg-shield.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:32:56.276Z",
+  "verifiedAt": "2026-11-16T15:44:09.516Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "HexGL by BKcore",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.071,
+    "rendered": true
+  }
+}

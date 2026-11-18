@@ -1,0 +1,76 @@
+{
+  "slug": "emily-is-away",
+  "title": "Emily Is Away",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/emily/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/emily/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/emily.webp",
+  "baseUrl": "https://truffled.lol/games/emily/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/emily/index.html",
+  "status": "done",
+  "sizeBytes": 17857779,
+  "assetCount": 16,
+  "known404": [
+    "https://truffled.lol/webgl.data",
+    "https://truffled.lol/webgl.loader.js",
+    "https://truffled.lol/webgl.framework.js",
+    "https://truffled.lol/webgl.wasm",
+    "https://truffled.lol/games/emily/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/webgl.data",
+      "error": "HTTP 404 for https://truffled.lol/webgl.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/webgl.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/webgl.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/webgl.framework.js",
+      "error": "HTTP 404 for https://truffled.lol/webgl.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/webgl.wasm",
+      "error": "HTTP 404 for https://truffled.lol/webgl.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/emily/Build/build.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/emily/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T09:04:51.819Z",
+  "verifiedAt": "2026-11-17T09:05:01.750Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Emily Is Away",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1000,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.013,
+    "rendered": true
+  }
+}

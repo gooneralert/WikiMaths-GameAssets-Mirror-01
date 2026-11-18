@@ -1,0 +1,150 @@
+{
+  "slug": "duck-life",
+  "title": "Duck Life",
+  "type": "Flash",
+  "developer": "Wix Games",
+  "description": "The future of the Duck Life farm is in your hands. Train your duck to run, fly, and swim its way to victory so you can save the farm. Level up your duck through the different training courses until its skills are sharp enough to enter a race.",
+  "tags": [
+    "Casual",
+    "Simulation",
+    "Singleplayer",
+    "Cartoon",
+    "Retro"
+  ],
+  "controls": [
+    {
+      "action": "Move Left/Move Up",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        }
+      ]
+    },
+    {
+      "action": "Move Right/Move Down",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        }
+      ]
+    },
+    {
+      "action": "Dive",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        }
+      ]
+    },
+    {
+      "action": "Start/Retry",
+      "keys": [
+        {
+          "key": " ",
+          "keyCode": 32
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Move Left/Move Up",
+      "buttons": [
+        14
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Move Right/Move Down",
+      "buttons": [
+        15
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "buttons": [
+        0,
+        12
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Dive",
+      "buttons": [
+        13
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Start/Retry",
+      "buttons": [
+        2,
+        9
+      ]
+    }
+  ],
+  "controllerSupport": false,
+  "sourceId": "981cbfa8-705a-4983-90ed-0615ec65cd4a",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/981cbfa8-705a-4983-90ed-0615ec65cd4a/1/981cbfa8-705a-4983-90ed-0615ec65cd4a.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 1322615,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T09:29:39.554Z",
+  "verifiedAt": "2026-11-16T15:25:37.075Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Duck Life",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.7316,
+    "rendered": true
+  },
+  "assetCount": 0
+}

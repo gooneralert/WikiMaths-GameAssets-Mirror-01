@@ -1,0 +1,86 @@
+{
+  "slug": "fruit-ninja",
+  "title": "Fruit Ninja",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fruitninja/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fruitninja/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/ninja.webp",
+  "baseUrl": "https://truffled.lol/games/fruitninja/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/fruitninja/index.html",
+  "status": "done",
+  "sizeBytes": 7734294,
+  "assetCount": 14,
+  "known404": [
+    "https://truffled.lol/games/fruitninja/css/styles.css",
+    "https://truffled.lol/games/fruitninja/sw.js",
+    "https://truffled.lol/games/fruitninja/,i.map?",
+    "https://truffled.lol/games/fruitninja/,Ps.encodings_pars_fragment,i.map?qo(",
+    "https://truffled.lol/ammo.js",
+    "https://truffled.lol/ammo.wasm.js",
+    "https://truffled.lol/games/fruitninja/file.json",
+    "https://truffled.lol/games/fruitninja/profile.json",
+    "https://truffled.lol/profilesList.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/fruitninja/css/styles.css",
+      "error": "HTTP 404 for https://truffled.lol/games/fruitninja/css/styles.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fruitninja/sw.js",
+      "error": "HTTP 404 for https://truffled.lol/games/fruitninja/sw.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fruitninja/,i.map?",
+      "error": "HTTP 404 for https://truffled.lol/games/fruitninja/,i.map?",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fruitninja/,Ps.encodings_pars_fragment,i.map?qo(",
+      "error": "HTTP 404 for https://truffled.lol/games/fruitninja/,Ps.encodings_pars_fragment,i.map?qo(",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/ammo.js",
+      "error": "HTTP 404 for https://truffled.lol/ammo.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/ammo.wasm.js",
+      "error": "HTTP 404 for https://truffled.lol/ammo.wasm.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fruitninja/file.json",
+      "error": "HTTP 404 for https://truffled.lol/games/fruitninja/file.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fruitninja/profile.json",
+      "error": "HTTP 404 for https://truffled.lol/games/fruitninja/profile.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/profilesList.json",
+      "error": "HTTP 404 for https://truffled.lol/profilesList.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fruitninja/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:17:10.297Z"
+}

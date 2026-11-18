@@ -1,0 +1,326 @@
+{
+  "slug": "friday-night-funkin-twiddlefinger",
+  "title": "Friday Night Funkin TWIDDLEFINGER",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnf/TWIDDLEFINGER.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnf/TWIDDLEFINGER.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/twiddle.webp",
+  "baseUrl": "https://truffled.lol/games/fnf/",
+  "entry": "/TWIDDLEFINGER.html",
+  "entryUrl": "https://truffled.lol/games/fnf/TWIDDLEFINGER.html",
+  "status": "done",
+  "sizeBytes": 2946455,
+  "assetCount": 32,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/vcr.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/mottrfmn.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/pixel.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/nokiafc22.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/nokiafc22.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/monsterrat.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/monsterrat.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/pixel.otf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/limo/limoDancer.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/monsterrat.svg#Monsterrat",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/checkboxanim.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/weeb/bfPortrait.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/weeb/pixelUI/dialogueBox-senpaiMad.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/speech_bubble.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/campaign_menu_UI_assets.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/data/credits.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/bgasset.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/tankmanKilled1.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/weeb/senpaiCrazy.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/weeb/weebTrees.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/dialogue.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/data/characterList.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.otf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.stitch.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.mp3",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.ogg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.wav",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/haxe.Resource",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/lime.utils.AssetBundle",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/lime.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/haxe.io.Bytes",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/NOTE_assets.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/openfl.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/shared/music/tea-time.mp3",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/library.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/shared/music/breakfast.mp3"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/vcr.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/vcr.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/mottrfmn.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/mottrfmn.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/pixel.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/pixel.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/nokiafc22.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/nokiafc22.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/nokiafc22.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/nokiafc22.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/monsterrat.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/monsterrat.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/monsterrat.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/monsterrat.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/pixel.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/fonts/pixel.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Animation.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Animation.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/limo/limoDancer.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/limo/limoDancer.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/monsterrat.svg#Monsterrat",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/flixel/fonts/monsterrat.svg#Monsterrat",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/checkboxanim.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/checkboxanim.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/weeb/bfPortrait.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/weeb/bfPortrait.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/dialogue.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/dialogue.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/weeb/pixelUI/dialogueBox-senpaiMad.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/weeb/pixelUI/dialogueBox-senpaiMad.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/speech_bubble.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/speech_bubble.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/campaign_menu_UI_assets.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/campaign_menu_UI_assets.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/spritemap1.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/spritemap1.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/spritemap.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/spritemap.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/data/credits.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/data/credits.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/bgasset.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/bgasset.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/tankmanKilled1.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/tankmanKilled1.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/weeb/senpaiCrazy.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/weeb/senpaiCrazy.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/weeb/weebTrees.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/weeb/weebTrees.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/dialogue.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/dialogue.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/data/characterList.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/data/characterList.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.stitch.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.stitch.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/library.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/library.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/haxe.Resource",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/haxe.Resource",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/lime.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/lime.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/haxe.io.Bytes",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/haxe.io.Bytes",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/NOTE_assets.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/images/NOTE_assets.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/openfl.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/openfl.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/shared/music/tea-time.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/shared/music/tea-time.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/library.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/shared/music/breakfast.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/assets/shared/music/breakfast.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/FileSaver.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnfmods/twiddlefinger/FileSaver.js",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/games/fnf/TWIDDLEFINGER.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:15:45.362Z"
+}

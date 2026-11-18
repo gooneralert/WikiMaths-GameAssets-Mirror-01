@@ -1,0 +1,94 @@
+{
+  "slug": "five-nights-at-last-breath",
+  "title": "Five Nights At Last Breath",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/breath.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/breath.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/breath.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/breath.html",
+  "entryUrl": "https://truffled.lol/gamefile/breath.html",
+  "status": "done",
+  "sizeBytes": 18027,
+  "assetCount": 4,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/progress-bar-full-dark.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/unity-logo-dark.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/WebBuild.data.br",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/WebBuild.wasm.br",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.wasm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.br",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/progress-bar-empty-dark.png"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/WebBuild.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/WebBuild.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/progress-bar-full-dark.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/progress-bar-full-dark.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/unity-logo-dark.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/unity-logo-dark.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/WebBuild.data.br",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/WebBuild.data.br",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/WebBuild.wasm.br",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/WebBuild.wasm.br",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/WebBuild.data.br",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/WebBuild.data.br",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/WebBuild.framework.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/WebBuild.framework.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/WebBuild.wasm.br",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/WebBuild.wasm.br",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.br",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.br",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/progress-bar-empty-dark.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/last-breath-epstein/progress-bar-empty-dark.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/gamefile/breath.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:09:24.182Z"
+}

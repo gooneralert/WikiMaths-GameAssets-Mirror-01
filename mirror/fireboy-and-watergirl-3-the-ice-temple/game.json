@@ -1,0 +1,48 @@
+{
+  "slug": "fireboy-and-watergirl-3-the-ice-temple",
+  "title": "Fireboy & Watergirl 3: The Ice Temple",
+  "type": "Flash",
+  "developer": "Oslo Albet",
+  "description": "Fireboy & Watergirl 3: The Ice Temple is the third chapter of the classic puzzle-platformer series. Solve the puzzles, beat the clock and collect all the diamonds! Play solo or with a friend to join Fireboy and Watergirl in their third adventure!",
+  "tags": [
+    "2D Platformer",
+    "Casual",
+    "Co-Op",
+    "Family Friendly",
+    "Physics",
+    "Puzzle"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "c3643748-7734-4a8e-9413-f00e41d49ab8",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/c3643748-7734-4a8e-9413-f00e41d49ab8/1/c3643748-7734-4a8e-9413-f00e41d49ab8.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 3864065,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:53:30.295Z",
+  "verifiedAt": "2026-11-16T15:28:36.588Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Fireboy & Watergirl 3: The Ice Temple",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.1804,
+    "rendered": true
+  },
+  "assetCount": 0
+}

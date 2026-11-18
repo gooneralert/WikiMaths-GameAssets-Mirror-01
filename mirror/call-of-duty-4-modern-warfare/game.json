@@ -1,0 +1,52 @@
+{
+  "slug": "call-of-duty-4-modern-warfare",
+  "title": "Call of Duty 4 Modern Warfare",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/cod4mw/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/cod4mw/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/cod4mw.webp",
+  "baseUrl": "https://truffled.lol/games/cod4mw/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/cod4mw/index.html",
+  "status": "done",
+  "sizeBytes": 6426658,
+  "assetCount": 35,
+  "known404": [
+    "https://truffled.lol/games/cod4mw/localization.txt"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/cod4mw/localization.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/cod4mw/localization.txt",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T15:12:48.613Z",
+  "verifiedAt": "2026-11-16T14:08:28.486Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "kisakcod webport",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1280,
+      "height": 720
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

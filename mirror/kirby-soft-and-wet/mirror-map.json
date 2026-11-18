@@ -1,0 +1,12 @@
+{
+  "/gamefile/kirbysoftandwet.html": "/kirbysoftandwet.html",
+  "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/audio-worklet.js": "/__external__/cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/audio-worklet.js",
+  "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/index.js": "/__external__/cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/index.js",
+  "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/runner.data": "/__external__/cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/runner.data",
+  "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/runner.js": "/__external__/cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/runner.js",
+  "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/runner.svg": "/__external__/cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/runner.svg",
+  "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/runner.wasm": "/__external__/cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/runner.wasm",
+  "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/runnerLocal.svg": "/__external__/cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/runnerLocal.svg",
+  "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/style.css": "/__external__/cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/style.css",
+  "https://truffled.lol/gamefile/kirbysoftandwet.html": "/kirbysoftandwet.html"
+}

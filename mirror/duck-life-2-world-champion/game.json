@@ -1,0 +1,150 @@
+{
+  "slug": "duck-life-2-world-champion",
+  "title": "Duck Life 2: World Champion",
+  "type": "Flash",
+  "developer": "Wix Games",
+  "description": "Collect coins and earn upgrades to help your duck become world champion. Duck Life 2 is all about using your resources wisely to become the best athlete you can be.",
+  "tags": [
+    "Casual",
+    "Simulation",
+    "Singleplayer",
+    "Cartoon",
+    "Retro"
+  ],
+  "controls": [
+    {
+      "action": "Move Left/Move Up",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        }
+      ]
+    },
+    {
+      "action": "Move Right/Move Down",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        }
+      ]
+    },
+    {
+      "action": "Dive",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        }
+      ]
+    },
+    {
+      "action": "Start/Retry",
+      "keys": [
+        {
+          "key": "Space",
+          "keyCode": 32
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Move Left/Move Up",
+      "buttons": [
+        14
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Move Right/Move Down",
+      "buttons": [
+        15
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "buttons": [
+        0,
+        12
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Dive",
+      "buttons": [
+        13
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Start/Retry",
+      "buttons": [
+        2,
+        9
+      ]
+    }
+  ],
+  "controllerSupport": false,
+  "sourceId": "d402c55c-04f2-44b4-bc0e-195c327a9fd0",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/d402c55c-04f2-44b4-bc0e-195c327a9fd0/1/d402c55c-04f2-44b4-bc0e-195c327a9fd0.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 1901133,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:47:02.628Z",
+  "verifiedAt": "2026-11-16T15:25:47.619Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Duck Life 2: World Champion",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.5465,
+    "rendered": true
+  },
+  "assetCount": 0
+}

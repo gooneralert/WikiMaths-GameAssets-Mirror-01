@@ -1,0 +1,237 @@
+{
+  "slug": "friday-night-funkin-get-digging",
+  "title": "Friday Night Funkin Get Digging",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnf/getdigging.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnf/getdigging.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/getdigging.webp",
+  "baseUrl": "https://truffled.lol/games/fnf/",
+  "entry": "/getdigging.html",
+  "entryUrl": "https://truffled.lol/games/fnf/getdigging.html",
+  "status": "done",
+  "sizeBytes": 10529576,
+  "assetCount": 92,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.bundle",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/images/funkay.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/bfdi.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/assets/videos/scene.mp4",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/images/gfDanceTitle.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/events.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/dialogue.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/weeks/weekList.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.otf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.jpg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/haxe.io.Bytes",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.stitch.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.ogg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.mp3",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.wav",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime._internal.format.BMP",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/haxe.Resource",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime._internal.format.PNG",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.webp",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime.utils.AssetBundle",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/library.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime._internal.format.JPEG",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/openfl.utils.Assets"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/Animation.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Animation.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/library.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/library.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.bundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.bundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/images/funkay.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/images/funkay.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/bfdi.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/bfdi.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/spritemap1.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/spritemap1.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/spritemap.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/spritemap.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/assets/videos/scene.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/assets/videos/scene.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/images/gfDanceTitle.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/images/gfDanceTitle.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/events.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/events.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/dialogue.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/dialogue.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/weeks/weekList.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/weeks/weekList.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/haxe.io.Bytes",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/haxe.io.Bytes",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.stitch.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.stitch.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime._internal.format.BMP",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime._internal.format.BMP",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/haxe.Resource",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/haxe.Resource",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime._internal.format.PNG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime._internal.format.PNG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.webp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.webp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/library.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime._internal.format.JPEG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime._internal.format.JPEG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/lime.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.gif",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/.gif",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/openfl.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/digging/openfl.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnf/getdigging.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:11:52.171Z"
+}

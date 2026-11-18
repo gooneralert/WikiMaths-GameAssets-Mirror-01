@@ -1,0 +1,52 @@
+{
+  "slug": "baldis-fun-new-school-plus-ultimate-edition",
+  "title": "Baldi's Fun New School Plus Ultimate Edition",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/bfs/",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/bfs/",
+  "sourceThumbnail": "https://truffled.lol/png/games/bfs.webp",
+  "baseUrl": "https://truffled.lol/games/bfs/",
+  "entry": "/",
+  "entryUrl": "https://truffled.lol/games/bfs/",
+  "status": "done",
+  "sizeBytes": 63566,
+  "assetCount": 18,
+  "known404": [
+    "https://truffled.lol/games/bfs/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/bfs/Build/build.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/bfs/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T11:17:32.247Z",
+  "verifiedAt": "2026-11-16T13:35:28.540Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity WebGL Player | Baldi's Fun New School Plus Ultimate Edition",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 960,
+      "height": 600
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.3265,
+    "rendered": true
+  }
+}

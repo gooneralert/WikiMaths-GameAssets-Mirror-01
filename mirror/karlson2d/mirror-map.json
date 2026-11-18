@@ -1,0 +1,16 @@
+{
+  "/404": "/Build/.unityweb.html",
+  "/css/404.css": "/__site__/css/404.css",
+  "/games/karlson2d/truffledkarlson2d/Build/.unityweb": "/Build/.unityweb.html",
+  "/games/karlson2d/truffledkarlson2d/Build/UnityLoader.js": "/Build/UnityLoader.js",
+  "/games/karlson2d/truffledkarlson2d/Build/bog.json": "/Build/bog.json",
+  "/games/karlson2d/truffledkarlson2d/index.html": "/index.html",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://truffled.lol/404": "/Build/.unityweb.html",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/games/karlson2d/truffledkarlson2d/Build/.unityweb": "/Build/.unityweb.html",
+  "https://truffled.lol/games/karlson2d/truffledkarlson2d/Build/UnityLoader.js": "/Build/UnityLoader.js",
+  "https://truffled.lol/games/karlson2d/truffledkarlson2d/Build/bog.json": "/Build/bog.json",
+  "https://truffled.lol/games/karlson2d/truffledkarlson2d/index.html": "/index.html",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

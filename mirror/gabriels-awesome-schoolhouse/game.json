@@ -1,0 +1,59 @@
+{
+  "slug": "gabriels-awesome-schoolhouse",
+  "title": "Gabriel's Awesome Schoolhouse",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/gash.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/gash.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/gabriel.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/gash.html",
+  "entryUrl": "https://truffled.lol/gamefile/gash.html",
+  "status": "done",
+  "sizeBytes": 22503,
+  "assetCount": 7,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/web-ports/gash@latest/Build/GASH.data",
+    "https://cdn.jsdelivr.net/gh/web-ports/gash@latest/GASH.data"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/GASH.framework.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/GASH.framework.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/GASH.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/GASH.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/GASH.wasm",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/GASH.wasm",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/gash@latest/Build/GASH.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/gash@latest/Build/GASH.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/gash@latest/GASH.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/gash@latest/GASH.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/gamefile/gash.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:17:13.774Z"
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "flappy-bird",
+  "title": "Flappy bird",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/flappybird/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/flappybird/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/flapp.webp",
+  "baseUrl": "https://truffled.lol/games/flappybird/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/flappybird/index.html",
+  "status": "done",
+  "sizeBytes": 1070666,
+  "assetCount": 10,
+  "known404": [
+    "https://truffled.lol/games/flappybird/404993.json",
+    "https://truffled.lol/games/flappybird/logo.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/flappybird/404993.json",
+      "error": "HTTP 404 for https://truffled.lol/games/flappybird/404993.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/flappybird/logo.png",
+      "error": "HTTP 404 for https://truffled.lol/games/flappybird/logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.xml",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.xml",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/precompile-shaders.js",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/precompile-shaders.js",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.aac",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.aac",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.mp4",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.mp4",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.m4a",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.m4a",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.mp3",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.png",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.png",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.wav",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.wav",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.json",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.json",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.jpg",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.dds",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.dds",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.jpeg",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.jpeg",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.pvr",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.pvr",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.ktx",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.ktx",
+      "status": 403
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.mapping.json",
+      "error": "HTTP 403 for https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/bXj5OWCb/.mapping.json",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/games/flappybird/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:09:27.284Z"
+}

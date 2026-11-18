@@ -1,0 +1,10 @@
+{
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/games/funmayhem2/gunmayhem2.swf": "/gunmayhem2.swf",
+  "/games/funmayhem2/index.html": "/index.html",
+  "/js/all.min.js": "/__site__/js/all.min.js",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/games/funmayhem2/gunmayhem2.swf": "/gunmayhem2.swf",
+  "https://truffled.lol/games/funmayhem2/index.html": "/index.html",
+  "https://truffled.lol/js/all.min.js": "/__site__/js/all.min.js"
+}

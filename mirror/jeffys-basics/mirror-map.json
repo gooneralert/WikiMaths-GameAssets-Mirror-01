@@ -1,0 +1,16 @@
+{
+  "/404": "/Build/.unityweb.html",
+  "/css/404.css": "/__site__/css/404.css",
+  "/games/JeffysBasicsBog/Build/.unityweb": "/Build/.unityweb.html",
+  "/games/JeffysBasicsBog/Build/JeffysBasicsBog.json": "/Build/JeffysBasicsBog.json",
+  "/games/JeffysBasicsBog/Build/UnityLoader.js": "/Build/UnityLoader.js",
+  "/games/JeffysBasicsBog/index.html": "/index.html",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://truffled.lol/404": "/Build/.unityweb.html",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/games/JeffysBasicsBog/Build/.unityweb": "/Build/.unityweb.html",
+  "https://truffled.lol/games/JeffysBasicsBog/Build/JeffysBasicsBog.json": "/Build/JeffysBasicsBog.json",
+  "https://truffled.lol/games/JeffysBasicsBog/Build/UnityLoader.js": "/Build/UnityLoader.js",
+  "https://truffled.lol/games/JeffysBasicsBog/index.html": "/index.html",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

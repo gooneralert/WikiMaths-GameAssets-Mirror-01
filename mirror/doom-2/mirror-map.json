@@ -1,0 +1,15 @@
+{
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/gamefile/doom2.html": "/doom2.html",
+  "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/browserfs.min.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/dosbox/js/browserfs.min.js",
+  "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/dosbox-sync.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/dosbox/js/dosbox-sync.js",
+  "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/dosbox-sync.mem": "/__external__/cdn.jsdelivr.net/gh/bubbls/dosbox/js/dosbox-sync.mem",
+  "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/dosbox-x.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/dosbox/js/dosbox-x.js",
+  "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/es6-promise.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/dosbox/js/es6-promise.js",
+  "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/font.zip": "/__external__/cdn.jsdelivr.net/gh/bubbls/dosbox/js/font.zip",
+  "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/loader.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/dosbox/js/loader.js",
+  "https://cdn.jsdelivr.net/gh/bubbls/dosbox/softs/DOOM2.zip": "/__external__/cdn.jsdelivr.net/gh/bubbls/dosbox/softs/DOOM2.zip",
+  "https://code.jquery.com/jquery-2.1.1.min.js": "/__external__/code.jquery.com/jquery-2.1.1.min.js",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/gamefile/doom2.html": "/doom2.html"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "i-wanna-be-the-guy",
+  "title": "I Wanna Be The Guy",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/iwbtg/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/iwbtg/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/iwbtg.webp",
+  "baseUrl": "https://truffled.lol/games/iwbtg/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/iwbtg/index.html",
+  "status": "done",
+  "sizeBytes": 472402,
+  "assetCount": 9,
+  "known404": [
+    "https://truffled.lol/games/iwbtg/resources.zip",
+    "https://truffled.lol/games/iwbtg/joyback.png",
+    "https://truffled.lol/games/iwbtg/Preloader.png",
+    "https://truffled.lol/games/iwbtg/joyfront.png",
+    "https://truffled.lol/games/iwbtg/joyupd.png",
+    "https://truffled.lol/games/iwbtg/joyup.png",
+    "https://truffled.lol/games/iwbtg/joydown.png",
+    "https://truffled.lol/games/iwbtg/joyleftd.png",
+    "https://truffled.lol/games/iwbtg/joyright.png",
+    "https://truffled.lol/games/iwbtg/joyleft.png",
+    "https://truffled.lol/games/iwbtg/joydownd.png",
+    "https://truffled.lol/games/iwbtg/fire1U.png",
+    "https://truffled.lol/games/iwbtg/joyrightd.png",
+    "https://truffled.lol/games/iwbtg/fire2U.png",
+    "https://truffled.lol/games/iwbtg/fire1D.png",
+    "https://truffled.lol/games/iwbtg/fire2D.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/iwbtg/resources.zip",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/resources.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/joyback.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/joyback.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/Preloader.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/Preloader.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/joyfront.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/joyfront.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/joyupd.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/joyupd.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/joyup.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/joyup.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/joydown.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/joydown.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/joyleftd.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/joyleftd.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/joyright.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/joyright.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/joyleft.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/joyleft.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/joydownd.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/joydownd.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/fire1U.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/fire1U.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/joyrightd.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/joyrightd.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/fire2U.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/fire2U.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/fire1D.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/fire1D.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/fire2D.png",
+      "error": "HTTP 404 for https://truffled.lol/games/iwbtg/fire2D.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/iwbtg/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:50:19.856Z"
+}

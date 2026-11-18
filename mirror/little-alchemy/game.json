@@ -1,0 +1,61 @@
+{
+  "slug": "little-alchemy",
+  "title": "Little Alchemy",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/littlealchemy/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/littlealchemy/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/lil.webp",
+  "baseUrl": "https://truffled.lol/games/littlealchemy/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/littlealchemy/index.html",
+  "status": "done",
+  "sizeBytes": 3831723,
+  "assetCount": 123,
+  "known404": [
+    "https://truffled.lol/games/littlealchemy/js/vendor/jquery-2.1.0.min.js",
+    "https://truffled.lol/html/settings/js/index.js",
+    "https://truffled.lol/games/littlealchemy/js/broadcast.580.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/littlealchemy/js/vendor/jquery-2.1.0.min.js",
+      "error": "HTTP 404 for https://truffled.lol/games/littlealchemy/js/vendor/jquery-2.1.0.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/html/settings/js/index.js",
+      "error": "HTTP 404 for https://truffled.lol/html/settings/js/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/littlealchemy/js/broadcast.580.json",
+      "error": "HTTP 404 for https://truffled.lol/games/littlealchemy/js/broadcast.580.json",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T12:50:31.507Z",
+  "verifiedAt": "2026-11-17T12:51:37.959Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Little Alchemy",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.9966,
+    "rendered": true
+  }
+}

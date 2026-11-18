@@ -1,0 +1,74 @@
+{
+  "slug": "five-nights-at-frickbears-3",
+  "title": "Five Nights At Frickbears 3",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fb3/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fb3/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/fnafb3.webp",
+  "baseUrl": "https://truffled.lol/games/fb3/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/fb3/index.html",
+  "status": "done",
+  "sizeBytes": 10384999,
+  "assetCount": 26,
+  "known404": [
+    "https://truffled.lol/games/fb3/datafile_runner.data",
+    "https://truffled.lol/assets/leveldata1.txt",
+    "https://truffled.lol/assets/leveldata2.txt",
+    "https://truffled.lol/assets/leveldata3.txt",
+    "https://truffled.lol/assets/leveldata4.txt",
+    "https://truffled.lol/assets/leveldata5.txt",
+    "https://truffled.lol/images/AvatarPlaceholder.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/fb3/datafile_runner.data",
+      "error": "HTTP 404 for https://truffled.lol/games/fb3/datafile_runner.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/leveldata1.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/leveldata1.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/leveldata2.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/leveldata2.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/leveldata3.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/leveldata3.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/leveldata4.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/leveldata4.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/leveldata5.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/leveldata5.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/images/AvatarPlaceholder.png",
+      "error": "HTTP 404 for https://truffled.lol/images/AvatarPlaceholder.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fb3/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:09:21.568Z"
+}

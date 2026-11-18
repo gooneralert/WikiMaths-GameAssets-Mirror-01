@@ -1,0 +1,18 @@
+{
+  "/404": "/Build/.unityweb.html",
+  "/css/404.css": "/__site__/css/404.css",
+  "/games/gunspin/Build/.unityweb": "/Build/.unityweb.html",
+  "/games/gunspin/Build/UnityLoader.js": "/Build/UnityLoader.js",
+  "/games/gunspin/TemplateData/UnityProgress.js": "/TemplateData/UnityProgress.js",
+  "/games/gunspin/TemplateData/style.css": "/TemplateData/style.css",
+  "/games/gunspin/index.html": "/index.html",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://truffled.lol/404": "/Build/.unityweb.html",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/games/gunspin/Build/.unityweb": "/Build/.unityweb.html",
+  "https://truffled.lol/games/gunspin/Build/UnityLoader.js": "/Build/UnityLoader.js",
+  "https://truffled.lol/games/gunspin/TemplateData/UnityProgress.js": "/TemplateData/UnityProgress.js",
+  "https://truffled.lol/games/gunspin/TemplateData/style.css": "/TemplateData/style.css",
+  "https://truffled.lol/games/gunspin/index.html": "/index.html",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "fireboy-and-watergirl-2-the-light-temple",
+  "title": "Fireboy & Watergirl 2: The Light Temple",
+  "type": "Flash",
+  "developer": "Oslo Albet",
+  "description": "Fireboy & Watergirl 2: The Light Temple is the second chapter of the classic puzzle-platformer series. Solve the puzzles, beat the clock and collect all the diamonds! Play solo or with a friend to join Fireboy and Watergirl in their second adventure!",
+  "tags": [
+    "2D Platformer",
+    "Casual",
+    "Co-Op",
+    "Family Friendly",
+    "Physics",
+    "Puzzle"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "73a60946-f19d-432e-b8b7-4056baa4ce3a",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/73a60946-f19d-432e-b8b7-4056baa4ce3a/1/73a60946-f19d-432e-b8b7-4056baa4ce3a.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 3961076,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:53:18.505Z",
+  "verifiedAt": "2026-11-16T15:28:26.436Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Fireboy & Watergirl 2: The Light Temple",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.1829,
+    "rendered": true
+  },
+  "assetCount": 0
+}

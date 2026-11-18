@@ -1,0 +1,11 @@
+{
+  "/gamefile/fnafs.html": "/fnafs.html",
+  "https://cdn.jsdelivr.net/gh/genizy/fnaf@main/sl/Runtime.js": "/__external__/cdn.jsdelivr.net/gh/genizy/fnaf@main/sl/Runtime.js",
+  "https://cdn.jsdelivr.net/gh/genizy/fnaf@main/sl/main.js": "/__external__/cdn.jsdelivr.net/gh/genizy/fnaf@main/sl/main.js",
+  "https://cdn.jsdelivr.net/gh/genizy/fnaf@main/sl/style.css": "/__external__/cdn.jsdelivr.net/gh/genizy/fnaf@main/sl/style.css",
+  "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js": "/__external__/cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js",
+  "https://raw.githubusercontent.com/genizy/fnaf/main/sl/Runtime.js": "/__external__/cdn.jsdelivr.net/gh/genizy/fnaf@main/sl/Runtime.js",
+  "https://raw.githubusercontent.com/genizy/fnaf/main/sl/main.js": "/__external__/cdn.jsdelivr.net/gh/genizy/fnaf@main/sl/main.js",
+  "https://raw.githubusercontent.com/genizy/fnaf/main/sl/style.css": "/__external__/cdn.jsdelivr.net/gh/genizy/fnaf@main/sl/style.css",
+  "https://truffled.lol/gamefile/fnafs.html": "/fnafs.html"
+}

@@ -1,0 +1,704 @@
+{
+  "slug": "friday-night-funkin-rewrite-2",
+  "title": "Friday Night Funkin Rewrite 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnf/rewrite2.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnf/rewrite2.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/rewrite2.webp",
+  "baseUrl": "https://truffled.lol/games/fnf/",
+  "entry": "/rewrite2.html",
+  "entryUrl": "https://truffled.lol/games/fnf/rewrite2.html",
+  "status": "done",
+  "sizeBytes": 7220424,
+  "assetCount": 40,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonic2HUD.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/pixel.otf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/pixel.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonic2HUD.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonic2HUD.svg#Sonic%20The%20Hedgehog%202%20HUD%20Font%20Regular",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonicCD.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/vcr.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonicCD.svg#Sonic%20CD%20Menu%20Font%20Regular",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/windows-xp-tahoma.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/windows-xp-tahoma.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/windows-xp-tahoma.svg#Windows%20XP%20Tahoma%20Regular",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/monsterrat.svg#Monsterrat",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/nokiafc22.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/monsterrat.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/nokiafc22.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/speech_bubble.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/weeks/weekList.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.otf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/haxe.io.Bytes",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.stitch.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.wav",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flxanimate.zip.Zip",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/Animation.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.gif",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.webp",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/lime.utils.AssetBundle",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/library.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.bundle",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/lime.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/haxe.Resource",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/checkboxanim.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/openfl.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/noteSkins/list.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/noteSplashes/list.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/data/credits.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/-pixel.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trippyBG.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/bgmazin.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/poltergeist.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/skyboxlx.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/starsFullscreen.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/shapesFullscreen.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/funkay.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/floorFullscreen.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/faces.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/internalXBG.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/desktopElements.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/desktopRift.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/animals.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/lalalaBackground.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trippyRemixBG.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/legacyPixelBG.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trippyRemixBGInvert.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/characters/sonicTGE.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fleshBG.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/tgeOutro.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fullScreenIntroStuff.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/Stomp.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteCutscene.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteCutsceneTransition.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/lordXJumpscares.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/welcomeBack.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/lyricsPlaceholder.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fullscreenIntroStuff-OLD.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteEyes.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/windowVessel.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteWindowBox.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/firewall.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteHeadStare.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fellaJumpscare.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fella.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/characters/sonicWurugashikai.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/sparkles.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/mindLyrics.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/ogLyrics.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/round2Lyrics.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/lxJump.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trinityLegacyLyrics.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trinityLegacyIntro.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trinityRemixSEGA.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/future.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/victoryScreen.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/tgeBG/tgeLyrics.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/campaign_menu_UI_assets.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/gfDanceTitle.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/titleEnter.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/logoBumpin.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/characters/rewrite.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/data/introText.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/data/characterList.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/events.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/data/stageList.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/FileSaver.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/dialogue.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/tankmanKilled1.xml"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonic2HUD.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonic2HUD.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/pixel.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/pixel.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/pixel.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/pixel.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonic2HUD.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonic2HUD.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonic2HUD.svg#Sonic%20The%20Hedgehog%202%20HUD%20Font%20Regular",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonic2HUD.svg#Sonic%20The%20Hedgehog%202%20HUD%20Font%20Regular",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonicCD.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonicCD.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/vcr.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/vcr.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonicCD.svg#Sonic%20CD%20Menu%20Font%20Regular",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonicCD.svg#Sonic%20CD%20Menu%20Font%20Regular",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/windows-xp-tahoma.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/windows-xp-tahoma.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonicCD.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/sonicCD.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/windows-xp-tahoma.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/windows-xp-tahoma.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/windows-xp-tahoma.svg#Windows%20XP%20Tahoma%20Regular",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/assets/fonts/windows-xp-tahoma.svg#Windows%20XP%20Tahoma%20Regular",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/monsterrat.svg#Monsterrat",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/monsterrat.svg#Monsterrat",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/nokiafc22.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/nokiafc22.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/monsterrat.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/monsterrat.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/nokiafc22.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/nokiafc22.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Animation.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Animation.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/monsterrat.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flixel/fonts/monsterrat.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/speech_bubble.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/speech_bubble.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/weeks/weekList.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/weeks/weekList.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/haxe.io.Bytes",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/haxe.io.Bytes",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.stitch.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.stitch.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flxanimate.zip.Zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/flxanimate.zip.Zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/Animation.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/Animation.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.gif",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.gif",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/library.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/library.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.webp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.webp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/library.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.bundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/.bundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/lime.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/lime.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/haxe.Resource",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/haxe.Resource",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/checkboxanim.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/checkboxanim.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/openfl.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/openfl.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/noteSkins/list.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/noteSkins/list.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/noteSplashes/list.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/noteSplashes/list.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/data/credits.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/data/credits.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/-pixel.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/-pixel.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trippyBG.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trippyBG.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/bgmazin.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/bgmazin.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/poltergeist.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/poltergeist.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/skyboxlx.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/skyboxlx.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/starsFullscreen.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/starsFullscreen.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/shapesFullscreen.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/shapesFullscreen.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/funkay.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/funkay.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/floorFullscreen.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/floorFullscreen.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/faces.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/faces.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/internalXBG.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/internalXBG.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/desktopElements.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/desktopElements.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/desktopRift.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/desktopRift.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/animals.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/animals.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/lalalaBackground.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/lalalaBackground.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trippyRemixBG.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trippyRemixBG.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/legacyPixelBG.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/legacyPixelBG.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trippyRemixBGInvert.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trippyRemixBGInvert.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/characters/sonicTGE.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/characters/sonicTGE.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fleshBG.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fleshBG.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/tgeOutro.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/tgeOutro.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fullScreenIntroStuff.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fullScreenIntroStuff.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/Stomp.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/Stomp.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteCutscene.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteCutscene.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteCutsceneTransition.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteCutsceneTransition.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/lordXJumpscares.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/lordXJumpscares.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/welcomeBack.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/welcomeBack.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/lyricsPlaceholder.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/lyricsPlaceholder.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fullscreenIntroStuff-OLD.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fullscreenIntroStuff-OLD.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteEyes.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteEyes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/windowVessel.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/windowVessel.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteWindowBox.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteWindowBox.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/firewall.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/firewall.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteHeadStare.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/rewriteHeadStare.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fellaJumpscare.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fellaJumpscare.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fella.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/fella.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/characters/sonicWurugashikai.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/characters/sonicWurugashikai.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/sparkles.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/sparkles.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/mindLyrics.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/mindLyrics.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/ogLyrics.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/ogLyrics.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/round2Lyrics.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/round2Lyrics.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/lxJump.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/lxJump.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/events.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/events.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/iAmGodTxt.xml",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/iAmGodTxt.xml",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trinityLegacyLyrics.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trinityLegacyLyrics.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trinityLegacyIntro.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trinityLegacyIntro.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trinityRemixSEGA.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/trinityRemixSEGA.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/future.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/future.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/victoryScreen.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/victoryScreen.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/tgeBG/tgeLyrics.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/tgeBG/tgeLyrics.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/campaign_menu_UI_assets.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/campaign_menu_UI_assets.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/gfDanceTitle.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/gfDanceTitle.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/titleEnter.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/titleEnter.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/logoBumpin.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/logoBumpin.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/characters/rewrite.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/characters/rewrite.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/data/introText.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/data/introText.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/data/characterList.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/data/characterList.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/events.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/events.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/data/stageList.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/data/stageList.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/FileSaver.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/FileSaver.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/dialogue.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/dialogue.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/tankmanKilled1.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewritev22/images/tankmanKilled1.xml",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnf/rewrite2.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:14:04.383Z"
+}

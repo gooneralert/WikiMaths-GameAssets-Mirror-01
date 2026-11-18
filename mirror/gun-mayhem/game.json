@@ -1,0 +1,31 @@
+{
+  "slug": "gun-mayhem",
+  "title": "Gun Mayhem",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/funmayhem/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/funmayhem/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/gun.webp",
+  "baseUrl": "https://truffled.lol/games/funmayhem/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/funmayhem/index.html",
+  "status": "done",
+  "sizeBytes": 5959132,
+  "assetCount": 6,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/funmayhem/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:34:27.121Z"
+}

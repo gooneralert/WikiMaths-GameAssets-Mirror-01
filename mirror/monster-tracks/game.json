@@ -1,0 +1,190 @@
+{
+  "slug": "monster-tracks",
+  "title": "Monster Tracks",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/monster-tracks/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/monster-tracks/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/monster.webp",
+  "baseUrl": "https://truffled.lol/games/monster-tracks/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/monster-tracks/index.html",
+  "status": "done",
+  "sizeBytes": 2946018,
+  "assetCount": 19,
+  "known404": [
+    "https://truffled.lol/games/monster-tracks/webapp/favicon.ico",
+    "https://truffled.lol/games/monster-tracks/webapp/common.js",
+    "https://truffled.lol/games/monster-tracks/webapp/common.css",
+    "https://truffled.lol/games/monster-tracks/webapp/webapp/view_common.js",
+    "https://truffled.lol/games/monster-tracks/webapp/webapp/view_common.css",
+    "https://truffled.lol/games/monster-tracks/webapp/datafile_index.data",
+    "https://truffled.lol/assets/views/common.css",
+    "https://truffled.lol/assets/views/baloo2.woff",
+    "https://truffled.lol/assets/atlas.png",
+    "https://truffled.lol/assets/views/common.js",
+    "https://truffled.lol/bundle_games.txt",
+    "https://truffled.lol/assets/sounds/36837_engine_no_click.wav",
+    "https://truffled.lol/assets/sounds/249929_splash1.wav",
+    "https://truffled.lol/assets/sounds/188204_scrape.wav",
+    "https://truffled.lol/assets/sounds/78937_squeek.wav",
+    "https://truffled.lol/assets/sounds/315935_bang.wav",
+    "https://truffled.lol/assets/sounds/521481_camera.wav",
+    "https://truffled.lol/assets/sounds/194795_ui_button.wav",
+    "https://truffled.lol/assets/sounds/146721_ui_beep.wav",
+    "https://truffled.lol/assets/sounds/chaching.wav",
+    "https://truffled.lol/assets/sounds/363090_coin.wav",
+    "https://truffled.lol/assets/sounds/coin02_band.wav",
+    "https://www.googletagservices.com/pubads_impl.js",
+    "https://truffled.lol/assets/sounds/error1.wav"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/monster-tracks/webapp/favicon.ico",
+      "error": "HTTP 404 for https://truffled.lol/games/monster-tracks/webapp/favicon.ico",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/monster-tracks/webapp/common.js",
+      "error": "HTTP 404 for https://truffled.lol/games/monster-tracks/webapp/common.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/monster-tracks/webapp/common.css",
+      "error": "HTTP 404 for https://truffled.lol/games/monster-tracks/webapp/common.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/monster-tracks/webapp/webapp/view_common.js",
+      "error": "HTTP 404 for https://truffled.lol/games/monster-tracks/webapp/webapp/view_common.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/monster-tracks/webapp/webapp/view_common.css",
+      "error": "HTTP 404 for https://truffled.lol/games/monster-tracks/webapp/webapp/view_common.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/monster-tracks/webapp/datafile_index.data",
+      "error": "HTTP 404 for https://truffled.lol/games/monster-tracks/webapp/datafile_index.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/views/common.css",
+      "error": "HTTP 404 for https://truffled.lol/assets/views/common.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/views/baloo2.woff",
+      "error": "HTTP 404 for https://truffled.lol/assets/views/baloo2.woff",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/atlas.png",
+      "error": "HTTP 404 for https://truffled.lol/assets/atlas.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/views/common.js",
+      "error": "HTTP 404 for https://truffled.lol/assets/views/common.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/bundle_games.txt",
+      "error": "HTTP 404 for https://truffled.lol/bundle_games.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/sounds/36837_engine_no_click.wav",
+      "error": "HTTP 404 for https://truffled.lol/assets/sounds/36837_engine_no_click.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/sounds/249929_splash1.wav",
+      "error": "HTTP 404 for https://truffled.lol/assets/sounds/249929_splash1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/sounds/188204_scrape.wav",
+      "error": "HTTP 404 for https://truffled.lol/assets/sounds/188204_scrape.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/sounds/78937_squeek.wav",
+      "error": "HTTP 404 for https://truffled.lol/assets/sounds/78937_squeek.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/sounds/315935_bang.wav",
+      "error": "HTTP 404 for https://truffled.lol/assets/sounds/315935_bang.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/sounds/521481_camera.wav",
+      "error": "HTTP 404 for https://truffled.lol/assets/sounds/521481_camera.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/sounds/194795_ui_button.wav",
+      "error": "HTTP 404 for https://truffled.lol/assets/sounds/194795_ui_button.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/sounds/146721_ui_beep.wav",
+      "error": "HTTP 404 for https://truffled.lol/assets/sounds/146721_ui_beep.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/sounds/chaching.wav",
+      "error": "HTTP 404 for https://truffled.lol/assets/sounds/chaching.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/sounds/363090_coin.wav",
+      "error": "HTTP 404 for https://truffled.lol/assets/sounds/363090_coin.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/sounds/coin02_band.wav",
+      "error": "HTTP 404 for https://truffled.lol/assets/sounds/coin02_band.wav",
+      "status": 404
+    },
+    {
+      "url": "https://www.googletagservices.com/pubads_impl.js",
+      "error": "HTTP 404 for https://www.googletagservices.com/pubads_impl.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/sounds/error1.wav",
+      "error": "HTTP 404 for https://truffled.lol/assets/sounds/error1.wav",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T14:20:46.003Z",
+  "verifiedAt": "2026-11-17T14:20:56.816Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Monster Tracks",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9978,
+    "rendered": true
+  }
+}

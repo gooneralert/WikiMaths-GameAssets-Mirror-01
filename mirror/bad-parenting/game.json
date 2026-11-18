@@ -1,0 +1,76 @@
+{
+  "slug": "bad-parenting",
+  "title": "Bad Parenting",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/bad/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/bad/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/bad.webp",
+  "baseUrl": "https://truffled.lol/games/bad/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/bad/index.html",
+  "status": "done",
+  "sizeBytes": 54790,
+  "assetCount": 18,
+  "known404": [
+    "https://truffled.lol/Build.loader.js",
+    "https://truffled.lol/Build.data",
+    "https://truffled.lol/Build.wasm",
+    "https://truffled.lol/Build.framework.js",
+    "https://truffled.lol/games/bad/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/Build.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/Build.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/Build.data",
+      "error": "HTTP 404 for https://truffled.lol/Build.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/Build.wasm",
+      "error": "HTTP 404 for https://truffled.lol/Build.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/Build.framework.js",
+      "error": "HTTP 404 for https://truffled.lol/Build.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/bad/Build/build.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/bad/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T07:17:53.879Z",
+  "verifiedAt": "2026-11-18T06:37:32.358Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Unity WebGL Player | Bad Parenting 1",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9986,
+    "rendered": true
+  }
+}

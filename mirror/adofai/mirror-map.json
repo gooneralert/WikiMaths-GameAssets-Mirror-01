@@ -1,0 +1,18 @@
+{
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/games/a-dance-of-fire-and-ice/Build/UnityLoader.js": "/Build/UnityLoader.js",
+  "/games/a-dance-of-fire-and-ice/Build/adofaiii4.data.unityweb": "/Build/adofaiii4.data.unityweb",
+  "/games/a-dance-of-fire-and-ice/Build/adofaiii4.json": "/Build/adofaiii4.json",
+  "/games/a-dance-of-fire-and-ice/Build/adofaiii4.wasm.code.unityweb": "/Build/adofaiii4.wasm.code.unityweb",
+  "/games/a-dance-of-fire-and-ice/Build/adofaiii4.wasm.framework.unityweb": "/Build/adofaiii4.wasm.framework.unityweb",
+  "/games/a-dance-of-fire-and-ice/index.html": "/index.html",
+  "/js/main.js": "/__site__/js/main.js",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/games/a-dance-of-fire-and-ice/Build/UnityLoader.js": "/Build/UnityLoader.js",
+  "https://truffled.lol/games/a-dance-of-fire-and-ice/Build/adofaiii4.data.unityweb": "/Build/adofaiii4.data.unityweb",
+  "https://truffled.lol/games/a-dance-of-fire-and-ice/Build/adofaiii4.json": "/Build/adofaiii4.json",
+  "https://truffled.lol/games/a-dance-of-fire-and-ice/Build/adofaiii4.wasm.code.unityweb": "/Build/adofaiii4.wasm.code.unityweb",
+  "https://truffled.lol/games/a-dance-of-fire-and-ice/Build/adofaiii4.wasm.framework.unityweb": "/Build/adofaiii4.wasm.framework.unityweb",
+  "https://truffled.lol/games/a-dance-of-fire-and-ice/index.html": "/index.html",
+  "https://truffled.lol/js/main.js": "/__site__/js/main.js"
+}

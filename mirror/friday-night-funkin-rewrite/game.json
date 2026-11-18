@@ -1,0 +1,259 @@
+{
+  "slug": "friday-night-funkin-rewrite",
+  "title": "Friday Night Funkin Rewrite",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnf/rewrite.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnf/rewrite.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/rewrite.webp",
+  "baseUrl": "https://truffled.lol/games/fnf/",
+  "entry": "/rewrite.html",
+  "entryUrl": "https://truffled.lol/games/fnf/rewrite.html",
+  "status": "done",
+  "sizeBytes": 4725153,
+  "assetCount": 39,
+  "known404": [
+    "https://cdn.jsdelivr.net/assets/js.js",
+    "https://cdn.jsdelivr.net/assets/css.css",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/pixel.otf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/vcr.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/nokiafc22.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/nokiafc22.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/monsterrat.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/pixel.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/monsterrat.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/limo/limoDancer.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/alphabet.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/weeb/pixelUI/dialogueBox-senpaiMad.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/weeb/bfPortrait.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/speech_bubble.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/sounds/flixel.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/sounds/beep.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/lime._internal.format.BMP",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/lime.utils.AssetBundle",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/library.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/openfl.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/NOTE_assets.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.otf"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/assets/js.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/js.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/css.css",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/css.css",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/pixel.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/pixel.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/vcr.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/vcr.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/nokiafc22.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/nokiafc22.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/nokiafc22.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/nokiafc22.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/monsterrat.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/monsterrat.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/pixel.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/assets/fonts/pixel.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Animation.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Animation.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/monsterrat.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/monsterrat.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/limo/limoDancer.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/limo/limoDancer.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/alphabet.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/alphabet.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/weeb/pixelUI/dialogueBox-senpaiMad.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/weeb/pixelUI/dialogueBox-senpaiMad.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.xml",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.xml",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/dialogue.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/dialogue.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/monsterrat.svg#Monsterrat",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/fonts/monsterrat.svg#Monsterrat",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/spritemap1.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/spritemap1.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/weeb/bfPortrait.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/weeb/bfPortrait.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/spritemap.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/spritemap.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/speech_bubble.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/speech_bubble.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/sounds/flixel.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/sounds/flixel.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/sounds/beep.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/flixel/sounds/beep.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/lime._internal.format.BMP",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/lime._internal.format.BMP",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/haxe.io.Bytes",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/haxe.io.Bytes",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/library.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/openfl.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/openfl.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/NOTE_assets.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/images/NOTE_assets.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/rewrite/.otf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnf/rewrite.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:13:42.725Z"
+}

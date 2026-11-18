@@ -1,0 +1,16 @@
+{
+  "/404": "/Gladihoppers.wasm.framework.unityweb",
+  "/css/404.css": "/__site__/css/404.css",
+  "/gamefile/Gladihoppers.data.unityweb": "/Gladihoppers.data.unityweb",
+  "/gamefile/Gladihoppers.html": "/Gladihoppers.html",
+  "/gamefile/Gladihoppers.wasm.code.unityweb": "/Gladihoppers.wasm.code.unityweb",
+  "/gamefile/Gladihoppers.wasm.framework.unityweb": "/Gladihoppers.wasm.framework.unityweb",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://truffled.lol/404": "/Gladihoppers.wasm.framework.unityweb",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/gamefile/Gladihoppers.data.unityweb": "/Gladihoppers.data.unityweb",
+  "https://truffled.lol/gamefile/Gladihoppers.html": "/Gladihoppers.html",
+  "https://truffled.lol/gamefile/Gladihoppers.wasm.code.unityweb": "/Gladihoppers.wasm.code.unityweb",
+  "https://truffled.lol/gamefile/Gladihoppers.wasm.framework.unityweb": "/Gladihoppers.wasm.framework.unityweb",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

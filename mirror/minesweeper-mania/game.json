@@ -1,0 +1,284 @@
+{
+  "slug": "minesweeper-mania",
+  "title": "Minesweeper Mania",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/minesweepermania.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/minesweepermania.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/minese.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/minesweepermania.html",
+  "entryUrl": "https://truffled.lol/gamefile/minesweepermania.html",
+  "status": "done",
+  "sizeBytes": 3777716,
+  "assetCount": 37,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/package.json",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/src/p2.js",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/.xml",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/.json",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/,1)[0])[1].toLowerCase();null!==t.data?this.cache.addCompressedTextureMetaData(t.key,t.url,s,t.data):this.cache.addCompressedTextureMetaData(t.key,t.url,s,e.response);break;case",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/void.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/inl.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/star_particles.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/particle_smallest.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/dot_1.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/pak.json",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/pak.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/button.mp3",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/flag.mp3",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/bomb.mp3",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/music.mp3",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/play_button.mp3",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/result_win.mp3",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/logo.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/_music_off.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/mouse1.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/hand1.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/mouse0.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/p2.js",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/gamefont_RU.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/played.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/result_fail.mp3",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/mouse2.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/hand2.png",
+    "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/gamefont_TA.png",
+    "https://cdn.jsdelivr.net/gh/st39/sdk@main/lib/main.js",
+    "https://www.googletagservices.com/pubads_impl.js",
+    "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/package.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/gh/yrgen73/package.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/package.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/src/p2.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/src/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/,1)[0])[1].toLowerCase();null!==t.data?this.cache.addCompressedTextureMetaData(t.key,t.url,s,t.data):this.cache.addCompressedTextureMetaData(t.key,t.url,s,e.response);break;case",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/,1)[0])[1].toLowerCase();null!==t.data?this.cache.addCompressedTextureMetaData(t.key,t.url,s,t.data):this.cache.addCompressedTextureMetaData(t.key,t.url,s,e.response);break;case",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/void.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/void.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/inl.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/inl.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/star_particles.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/star_particles.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/particle_smallest.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/particle_smallest.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/dot_1.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/dot_1.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/pak.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/pak.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/pak.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/pak.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/button.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/button.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/flag.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/flag.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/bomb.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/bomb.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/music.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/music.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/play_button.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/play_button.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/result_win.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/result_win.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/logo.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/_music_off.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/_music_off.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/mouse1.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/mouse1.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/hand1.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/hand1.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/mouse0.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/mouse0.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/p2.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/gamefont_RU.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/gamefont_RU.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/played.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/played.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/result_fail.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@41677aaf981b73786815a0a83be1beb965ce63e0/assets/audio/result_fail.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/mouse2.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/mouse2.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/st39/package.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/gh/st39/package.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/hand2.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/hand2.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/gamefont_TA.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yrgen73/mineSW@24b48ecbfb5331be54fca85c1bf743389ce3195b/js/gamefont_TA.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/st39/sdk@main/lib/main.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/st39/sdk@main/lib/main.js",
+      "status": 404
+    },
+    {
+      "url": "https://www.googletagservices.com/pubads_impl.js",
+      "error": "HTTP 404 for https://www.googletagservices.com/pubads_impl.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T14:16:48.442Z",
+  "verifiedAt": "2026-11-17T14:16:59.874Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1213,
+      "height": 600
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

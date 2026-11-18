@@ -1,0 +1,226 @@
+{
+  "slug": "friday-night-funkin-atrocity",
+  "title": "Friday Night Funkin Atrocity",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnf/atrocity.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnf/atrocity.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/atrocity.webp",
+  "baseUrl": "https://truffled.lol/games/fnf/",
+  "entry": "/atrocity.html",
+  "entryUrl": "https://truffled.lol/games/fnf/atrocity.html",
+  "status": "done",
+  "sizeBytes": 9662286,
+  "assetCount": 87,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.bundle",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/images/funkay.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/weeks/weekList.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/dialogue.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/images/gfDanceTitle.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/events.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.otf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.jpg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.stitch.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/haxe.io.Bytes",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.mp3",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.ogg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.wav",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/haxe.Resource",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime._internal.format.BMP",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime._internal.format.JPEG",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime._internal.format.PNG",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.gif",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime.utils.AssetBundle",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.webp",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/library.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/openfl.utils.Assets"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/Animation.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Animation.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/library.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/library.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.bundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.bundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/spritemap1.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/spritemap1.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/spritemap.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/spritemap.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/images/funkay.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/images/funkay.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/weeks/weekList.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/weeks/weekList.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/dialogue.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/dialogue.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/images/gfDanceTitle.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/images/gfDanceTitle.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/events.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/events.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.stitch.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.stitch.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/haxe.io.Bytes",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/haxe.io.Bytes",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/haxe.Resource",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/haxe.Resource",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime._internal.format.BMP",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime._internal.format.BMP",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime._internal.format.JPEG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime._internal.format.JPEG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime._internal.format.PNG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime._internal.format.PNG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.gif",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.gif",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.webp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/.webp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/lime.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/library.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/openfl.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/fnf@main/atrocity/openfl.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnf/atrocity.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:10:46.115Z"
+}

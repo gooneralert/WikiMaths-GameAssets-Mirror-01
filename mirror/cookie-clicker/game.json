@@ -1,0 +1,405 @@
+{
+  "slug": "cookie-clicker",
+  "title": "Cookie Clicker",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "2.022",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/index.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/index.html",
+  "status": "done",
+  "sizeBytes": 2651091,
+  "assetCount": 211,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/img/heraldFlag.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/img/patreon.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/beta",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/excanvas.compiled.js",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/img/discord.png",
+    "http://example.com/my_mod.js",
+    "http://example.com/myIcons.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/img/pointyLad.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/filler.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/perfectCookie.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/imperfectCookie.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.mp3",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.txt",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/icons.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/smallCookies.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/smallDollars.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/wrinklerBits.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/Background.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shinyWrinklerBits.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/fortune.mp3",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/grandmaBackground.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/minigameDungeon.js",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shinyWrinkler.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/glint.jpg",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/santa.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/wrinkler.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/dragon.png?v=",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/winterWrinkler.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shine.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/brokenCookie.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/starbg.jpg",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/heavenRing2.jpg",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/brokenCookieHalo.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/heavenRing1.jpg",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/linkPulse.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shadedBordersSoft.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.jpg",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/cookieShower3.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shadedBorders.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/cookieShower2.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/cookieShower1.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/heartStorm.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shineRed.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shineGold.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snow2.jpg",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/dragonBG.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/nest.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shineSpoke.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/cursor.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shadedBordersGold.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shadedBordersRed.png",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/toneTick.mp3",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/freezeGarden.mp3",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/harvest2.mp3",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/harvest1.mp3",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/harvest3.mp3",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/px;background:url(img/gardenPlants.png?v=",
+    "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.gardenSeedIcon%7Bpointer-events:none;transform:translate(0,0);display:inline-block;position:absolute;left:-4px;top:-4px;width:48px;height:48px;background:url(img/gardenPlants.png?v="
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/img/heraldFlag.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/img/heraldFlag.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/img/patreon.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/img/patreon.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/beta",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/beta",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/excanvas.compiled.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/excanvas.compiled.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/img/discord.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/img/discord.png",
+      "status": 404
+    },
+    {
+      "url": "http://example.com/my_mod.js",
+      "error": "HTTP 404 for http://example.com/my_mod.js",
+      "status": 404
+    },
+    {
+      "url": "http://example.com/myIcons.png",
+      "error": "HTTP 404 for http://example.com/myIcons.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/img/pointyLad.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/img/pointyLad.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/filler.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/filler.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/perfectCookie.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/perfectCookie.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/imperfectCookie.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/imperfectCookie.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.txt",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/icons.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/icons.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/smallCookies.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/smallCookies.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/smallDollars.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/smallDollars.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/wrinklerBits.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/wrinklerBits.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/Background.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/Background.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shinyWrinklerBits.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shinyWrinklerBits.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/fortune.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/fortune.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/grandmaBackground.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/grandmaBackground.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/minigameDungeon.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/minigameDungeon.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shinyWrinkler.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shinyWrinkler.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/glint.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/glint.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/santa.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/santa.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/wrinkler.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/wrinkler.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/dragon.png?v=",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/dragon.png?v=",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/winterWrinkler.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/winterWrinkler.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shine.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shine.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/brokenCookie.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/brokenCookie.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/starbg.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/starbg.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/heavenRing2.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/heavenRing2.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/brokenCookieHalo.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/brokenCookieHalo.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/heavenRing1.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/heavenRing1.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/linkPulse.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/linkPulse.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shadedBordersSoft.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shadedBordersSoft.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/cookieShower3.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/cookieShower3.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shadedBorders.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shadedBorders.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/cookieShower2.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/cookieShower2.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/cookieShower1.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/cookieShower1.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/heartStorm.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/heartStorm.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shineRed.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shineRed.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shineGold.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shineGold.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snow2.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snow2.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/dragonBG.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/dragonBG.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/nest.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/nest.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shineSpoke.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shineSpoke.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/cursor.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/cursor.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shadedBordersGold.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shadedBordersGold.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shadedBordersRed.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/shadedBordersRed.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/toneTick.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/toneTick.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/freezeGarden.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/freezeGarden.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/harvest2.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/harvest2.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/harvest1.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/harvest1.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/harvest3.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/snd/harvest3.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/px;background:url(img/gardenPlants.png?v=",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/px;background:url(img/gardenPlants.png?v=",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.gardenSeedIcon%7Bpointer-events:none;transform:translate(0,0);display:inline-block;position:absolute;left:-4px;top:-4px;width:48px;height:48px;background:url(img/gardenPlants.png?v=",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/db2fd199-a687-4055-818b-6aac58f4f070/2.022/.gardenSeedIcon%7Bpointer-events:none;transform:translate(0,0);display:inline-block;position:absolute;left:-4px;top:-4px;width:48px;height:48px;background:url(img/gardenPlants.png?v=",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-16T14:18:21.092Z",
+  "verifiedAt": "2026-11-16T14:18:30.720Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "0 cookies - Cookie Clicker",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 593
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

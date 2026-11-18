@@ -1,0 +1,18 @@
+{
+  "/games/doom/index.html": "/index.html",
+  "/games/doom/js-dos/emulators-ui-loader.png": "/js-dos/emulators-ui-loader.png",
+  "/games/doom/js-dos/js-dos.css": "/js-dos/js-dos.css",
+  "/games/doom/js-dos/js-dos.js": "/js-dos/js-dos.js",
+  "/games/doom/js-dos/wdosbox.js": "/js-dos/wdosbox.js",
+  "/games/doom/js-dos/wdosbox.wasm": "/js-dos/wdosbox.wasm",
+  "/games/doom/ultimate-doom.jsdos": "/ultimate-doom.jsdos",
+  "/js/all.min.js": "/__site__/js/all.min.js",
+  "https://truffled.lol/games/doom/index.html": "/index.html",
+  "https://truffled.lol/games/doom/js-dos/emulators-ui-loader.png": "/js-dos/emulators-ui-loader.png",
+  "https://truffled.lol/games/doom/js-dos/js-dos.css": "/js-dos/js-dos.css",
+  "https://truffled.lol/games/doom/js-dos/js-dos.js": "/js-dos/js-dos.js",
+  "https://truffled.lol/games/doom/js-dos/wdosbox.js": "/js-dos/wdosbox.js",
+  "https://truffled.lol/games/doom/js-dos/wdosbox.wasm": "/js-dos/wdosbox.wasm",
+  "https://truffled.lol/games/doom/ultimate-doom.jsdos": "/ultimate-doom.jsdos",
+  "https://truffled.lol/js/all.min.js": "/__site__/js/all.min.js"
+}

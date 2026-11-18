@@ -1,0 +1,19 @@
+{
+  "/fonts/sc-400.woff2": "/__site__/fonts/sc-400.woff2",
+  "/gamefile/bloonstd4.html": "/bloonstd4.html",
+  "http://games.mochiads.com/c/p/bloons-tower-defense-4/730bb7b730d377eecb92e98d7c9d2160b18bbf9a.swf": "/__external__/games.mochiads.com/c/p/bloons-tower-defense-4/730bb7b730d377eecb92e98d7c9d2160b18bbf9a.swf",
+  "http://www.mochiads.com/static/lib/services/MochiLC.swf": "/__external__/www.mochiads.com/static/lib/services/MochiLC.swf",
+  "http://www.mochiads.com/static/lib/services/services.swf?mochiad%5Foptions=null&api%5Fversion=3%2E4%20as3&listenLC=%5F%5Fms%5F1793372486494%5F94575": "/__external__/www.mochiads.com/static/lib/services/services.__q3b81ac16.swf",
+  "http://www.mochiads.com/static/lib/services/services.swf?mochiad%5Foptions=null&api%5Fversion=3%2E4%20as3&listenLC=%5F%5Fms%5F1793372499488%5F12180": "/__external__/www.mochiads.com/static/lib/services/services.__q68d042e1.swf",
+  "http://www.mochiads.com/static/lib/services/services.swf?mochiad%5Foptions=null&api%5Fversion=3%2E4%20as3&listenLC=%5F%5Fms%5F1793372512411%5F3452": "/__external__/www.mochiads.com/static/lib/services/services.__q3a3142f6.swf",
+  "http://x.mochiads.com/srv/1/4a0d131039aa2265.swf?cacheBust=1793372482512": "/__external__/x.mochiads.com/srv/1/4a0d131039aa2265.__qc8293edc.swf",
+  "http://x.mochiads.com/srv/1/4a0d131039aa2265.swf?cacheBust=1793372495549": "/__external__/x.mochiads.com/srv/1/4a0d131039aa2265.__qc1f94ac8.swf",
+  "http://x.mochiads.com/srv/1/4a0d131039aa2265.swf?cacheBust=1793372508485": "/__external__/x.mochiads.com/srv/1/4a0d131039aa2265.__qf4620d90.swf",
+  "https://cdn.jsdelivr.net/gh/QiProject/flash-games@8a30ea684498b868a7b1cd188bd860ba2042eb56/Bloons-Tower-Defense-4.swf": "/__external__/cdn.jsdelivr.net/gh/QiProject/flash-games@8a30ea684498b868a7b1cd188bd860ba2042eb56/Bloons-Tower-Defense-4.swf",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/core.ruffle.ae1054522f49580946c0.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/core.ruffle.ae1054522f49580946c0.js",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/f7f28eb60b84863611ca.wasm": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/f7f28eb60b84863611ca.wasm",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.js",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.min.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.min.js",
+  "https://truffled.lol/fonts/sc-400.woff2": "/__site__/fonts/sc-400.woff2",
+  "https://truffled.lol/gamefile/bloonstd4.html": "/bloonstd4.html"
+}

@@ -1,0 +1,350 @@
+{
+  "slug": "doge-miner",
+  "title": "Doge Miner",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/Doge Miner.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/Doge%20Miner.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/doge.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/Doge%20Miner.html",
+  "entryUrl": "https://truffled.lol/gamefile/Doge%20Miner.html",
+  "status": "done",
+  "sizeBytes": 6082199,
+  "assetCount": 19,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/animated-overlay.gif",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_gloss-wave_70_ffdd57_500x100.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_gloss-wave_45_817865_500x100.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_highlight-soft_100_feeebd_1x100.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_gloss-wave_60_fece2f_500x100.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_inset-soft_30_ffffff_1x100.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_gloss-wave_90_fff9e5_500x100.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_diagonals-medium_20_d34d17_40x40.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_fadc7a_256x240.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_d19405_256x240.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_3d3d3d_256x240.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_bd7b00_256x240.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_ffe180_256x240.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_eb990f_256x240.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_flat_30_cccccc_40x100.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/hands.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/FlyingDoge.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/bonuscoin_small.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/themoon.png?2",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/pbar-ani.gif",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/soundmanager2.swf",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg2.jpg",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/.swf",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg1.jpg",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/soundmanager2_flash9.swf",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg7.jpg",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg6.jpg",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg8.jpg",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg4.jpg",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg9.jpg",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/level1.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg002.jpg?2",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg003.jpg",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/level2.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg103.jpg",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg102.jpg",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg001.jpg",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg101.jpg",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg105.jpg",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/level3.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/achi/placeholder.png",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/general/Musics_intro_mastered2.mp3",
+    "https://rawgit.com/mrdoob/stats.js/master/build/stats.min.js",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/general/moonmusic.mp3",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/general/marsmusic.mp3",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/BigDoge.mp3",
+    "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/general/Musics_loop_mastered.mp3"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/animated-overlay.gif",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/animated-overlay.gif",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_gloss-wave_70_ffdd57_500x100.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_gloss-wave_70_ffdd57_500x100.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_gloss-wave_45_817865_500x100.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_gloss-wave_45_817865_500x100.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_highlight-soft_100_feeebd_1x100.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_highlight-soft_100_feeebd_1x100.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_gloss-wave_60_fece2f_500x100.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_gloss-wave_60_fece2f_500x100.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_inset-soft_30_ffffff_1x100.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_inset-soft_30_ffffff_1x100.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_gloss-wave_90_fff9e5_500x100.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_gloss-wave_90_fff9e5_500x100.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_diagonals-medium_20_d34d17_40x40.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_diagonals-medium_20_d34d17_40x40.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_fadc7a_256x240.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_fadc7a_256x240.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_d19405_256x240.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_d19405_256x240.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_3d3d3d_256x240.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_3d3d3d_256x240.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_bd7b00_256x240.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_bd7b00_256x240.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_ffe180_256x240.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_ffe180_256x240.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_eb990f_256x240.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_eb990f_256x240.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_flat_30_cccccc_40x100.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_flat_30_cccccc_40x100.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/hands.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/hands.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/FlyingDoge.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/FlyingDoge.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_ed9f26_256x240.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-icons_ed9f26_256x240.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_flat_50_5c5c5c_40x100.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/css/sunny/images/ui-bg_flat_50_5c5c5c_40x100.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/bonuscoin_small.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/bonuscoin_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/themoon.png?2",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/themoon.png?2",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/pbar-ani.gif",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/img/pbar-ani.gif",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/soundmanager2.swf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/soundmanager2.swf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg2.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg2.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/.swf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/.swf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg1.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg1.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/soundmanager2_flash9.swf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/soundmanager2_flash9.swf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg7.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg7.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg6.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg6.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg3.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg3.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg8.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg8.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg4.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg4.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg9.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg9.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/level1.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/level1.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg5.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg5.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg002.jpg?2",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg002.jpg?2",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg003.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg003.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/level2.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/level2.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg103.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg103.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg102.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg102.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg001.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg001.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg101.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg101.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg105.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg105.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/level3.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/level3.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/achi/placeholder.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/achi/placeholder.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/general/Musics_intro_mastered2.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/general/Musics_intro_mastered2.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://rawgit.com/mrdoob/stats.js/master/build/stats.min.js",
+      "error": "HTTP 404 for https://rawgit.com/mrdoob/stats.js/master/build/stats.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/general/moonmusic.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/general/moonmusic.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg104.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/img/bg/bg104.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/general/marsmusic.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/general/marsmusic.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/BigDoge.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/BigDoge.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/general/Musics_loop_mastered.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/js/snd/general/Musics_loop_mastered.mp3",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T08:23:42.747Z",
+  "verifiedAt": "2026-11-17T08:23:52.629Z",
+  "verification": {
+    "external": 9,
+    "blocking": 0,
+    "ignoredExternal": 9,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Dogeminer",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

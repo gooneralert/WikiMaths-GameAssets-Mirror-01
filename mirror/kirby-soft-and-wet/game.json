@@ -1,0 +1,92 @@
+{
+  "slug": "kirby-soft-and-wet",
+  "title": "Kirby Soft And Wet",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/kirbysoftandwet.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/kirbysoftandwet.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/kirbysoftandwet.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/kirbysoftandwet.html",
+  "entryUrl": "https://truffled.lol/gamefile/kirbysoftandwet.html",
+  "status": "done",
+  "sizeBytes": 9589341,
+  "assetCount": 10,
+  "known404": [
+    "https://cdn.jsdelivr.net/assets/chatterbox/chatterbox_license.txt",
+    "https://cdn.jsdelivr.net/assets/input/input_license.txt",
+    "https://cdn.jsdelivr.net/assets/input/test_load_mapping.json",
+    "https://cdn.jsdelivr.net/assets/input/sdl2.txt",
+    "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/datafile_runner.data",
+    "https://cdn.jsdelivr.net/assets/scribble/scribble_license.txt",
+    "https://cdn.jsdelivr.net/images/AvatarPlaceholder.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/.ogg",
+    "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/.wav",
+    "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/.mp3"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/assets/chatterbox/chatterbox_license.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/chatterbox/chatterbox_license.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/input/input_license.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/input/input_license.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/input/test_load_mapping.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/input/test_load_mapping.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/input/sdl2.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/input/sdl2.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/datafile_runner.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/datafile_runner.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/scribble/scribble_license.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/scribble/scribble_license.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/AvatarPlaceholder.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/AvatarPlaceholder.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/soft-and-wet@main/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/gamefile/kirbysoftandwet.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:57:59.321Z"
+}

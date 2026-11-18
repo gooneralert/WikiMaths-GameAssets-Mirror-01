@@ -1,0 +1,10 @@
+{
+  "/404": "/index.html",
+  "/css/404.css": "/__site__/css/404.css",
+  "/games/MonkeyMart/index.html": "/index.html",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://truffled.lol/404": "/index.html",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/games/MonkeyMart/index.html": "/index.html",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

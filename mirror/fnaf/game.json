@@ -1,0 +1,410 @@
+{
+  "slug": "fnaf",
+  "title": "FNAF",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnaf/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnaf/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/splash.webp",
+  "baseUrl": "https://truffled.lol/games/fnaf/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/fnaf/index.html",
+  "status": "done",
+  "sizeBytes": 3516933,
+  "assetCount": 19,
+  "known404": [
+    "https://truffled.lol/games/fnaf/drums/1-snare.mp3",
+    "https://truffled.lol/games/fnaf/drums/3-side-stick.mp3",
+    "https://truffled.lol/games/fnaf/drums/2-bass-drum.mp3",
+    "https://truffled.lol/games/fnaf/drums/5-open-hi-hat.mp3",
+    "https://truffled.lol/games/fnaf/drums/4-crash-cymbal.mp3",
+    "https://truffled.lol/games/fnaf/drums/6-closed-hi-hat.mp3",
+    "https://truffled.lol/games/fnaf/drums/7-tambourine.mp3",
+    "https://truffled.lol/games/fnaf/drums/9-claves.mp3",
+    "https://truffled.lol/games/fnaf/drums/8-hand-clap.mp3",
+    "https://truffled.lol/games/fnaf/drums/10-wood-block.mp3",
+    "https://truffled.lol/games/fnaf/drums/11-cowbell.mp3",
+    "https://truffled.lol/games/fnaf/drums/14-conga.mp3",
+    "https://truffled.lol/games/fnaf/drums/13-bongo.mp3",
+    "https://truffled.lol/games/fnaf/drums/15-cabasa.mp3",
+    "https://truffled.lol/games/fnaf/drums/12-triangle.mp3",
+    "https://truffled.lol/games/fnaf/drums/16-guiro.mp3",
+    "https://truffled.lol/games/fnaf/drums/18-cuica.mp3",
+    "https://truffled.lol/games/fnaf/instruments/1-piano/24.mp3",
+    "https://truffled.lol/games/fnaf/drums/17-vibraslap.mp3",
+    "https://truffled.lol/games/fnaf/instruments/1-piano/36.mp3",
+    "https://truffled.lol/games/fnaf/instruments/1-piano/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/1-piano/48.mp3",
+    "https://truffled.lol/games/fnaf/instruments/1-piano/84.mp3",
+    "https://truffled.lol/games/fnaf/instruments/1-piano/72.mp3",
+    "https://truffled.lol/games/fnaf/instruments/2-electric-piano/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/1-piano/96.mp3",
+    "https://truffled.lol/games/fnaf/instruments/1-piano/108.mp3",
+    "https://truffled.lol/games/fnaf/instruments/3-organ/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/5-electric-guitar/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/4-guitar/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/6-bass/36.mp3",
+    "https://truffled.lol/games/fnaf/instruments/8-cello/36.mp3",
+    "https://truffled.lol/games/fnaf/instruments/6-bass/48.mp3",
+    "https://truffled.lol/games/fnaf/instruments/7-pizzicato/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/8-cello/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/9-trombone/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/9-trombone/36.mp3",
+    "https://truffled.lol/games/fnaf/instruments/8-cello/48.mp3",
+    "https://truffled.lol/games/fnaf/instruments/10-clarinet/48.mp3",
+    "https://truffled.lol/games/fnaf/instruments/9-trombone/48.mp3",
+    "https://truffled.lol/games/fnaf/instruments/11-saxophone/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/11-saxophone/36.mp3",
+    "https://truffled.lol/games/fnaf/instruments/11-saxophone/84.mp3",
+    "https://truffled.lol/games/fnaf/instruments/10-clarinet/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/12-flute/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/12-flute/72.mp3",
+    "https://truffled.lol/games/fnaf/instruments/13-wooden-flute/72.mp3",
+    "https://truffled.lol/games/fnaf/instruments/13-wooden-flute/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/14-bassoon/36.mp3",
+    "https://truffled.lol/games/fnaf/instruments/14-bassoon/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/15-choir/48.mp3",
+    "https://truffled.lol/games/fnaf/instruments/14-bassoon/48.mp3",
+    "https://truffled.lol/games/fnaf/instruments/16-vibraphone/72.mp3",
+    "https://truffled.lol/games/fnaf/instruments/15-choir/72.mp3",
+    "https://truffled.lol/games/fnaf/instruments/15-choir/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/18-steel-drum/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/16-vibraphone/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/17-music-box/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/19-marimba/60.mp3",
+    "https://truffled.lol/games/fnaf/instruments/20-synth-lead/60.mp3",
+    "https://truffled.lol/games/fnaf/;t=i.children.length%3E0&&i.children[0].data?i.children[0].data:",
+    "https://truffled.lol/games/fnaf/instruments/21-synth-pad/60.mp3",
+    "https://truffled.lol/games/fnaf/5c81a336fab8be57adc039a8a2b33ca9.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/1-snare.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/1-snare.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/3-side-stick.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/3-side-stick.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/2-bass-drum.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/2-bass-drum.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/5-open-hi-hat.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/5-open-hi-hat.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/4-crash-cymbal.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/4-crash-cymbal.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/6-closed-hi-hat.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/6-closed-hi-hat.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/7-tambourine.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/7-tambourine.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/9-claves.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/9-claves.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/8-hand-clap.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/8-hand-clap.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/10-wood-block.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/10-wood-block.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/11-cowbell.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/11-cowbell.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/14-conga.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/14-conga.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/13-bongo.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/13-bongo.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/15-cabasa.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/15-cabasa.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/12-triangle.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/12-triangle.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/16-guiro.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/16-guiro.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/18-cuica.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/18-cuica.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/1-piano/24.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/1-piano/24.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/drums/17-vibraslap.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/drums/17-vibraslap.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/1-piano/36.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/1-piano/36.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/1-piano/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/1-piano/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/1-piano/48.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/1-piano/48.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/1-piano/84.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/1-piano/84.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/1-piano/72.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/1-piano/72.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/2-electric-piano/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/2-electric-piano/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/1-piano/96.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/1-piano/96.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/1-piano/108.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/1-piano/108.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/3-organ/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/3-organ/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/5-electric-guitar/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/5-electric-guitar/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/4-guitar/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/4-guitar/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/6-bass/36.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/6-bass/36.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/8-cello/36.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/8-cello/36.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/6-bass/48.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/6-bass/48.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/7-pizzicato/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/7-pizzicato/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/8-cello/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/8-cello/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/9-trombone/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/9-trombone/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/9-trombone/36.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/9-trombone/36.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/8-cello/48.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/8-cello/48.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/10-clarinet/48.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/10-clarinet/48.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/9-trombone/48.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/9-trombone/48.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/11-saxophone/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/11-saxophone/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/11-saxophone/36.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/11-saxophone/36.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/11-saxophone/84.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/11-saxophone/84.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/10-clarinet/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/10-clarinet/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/12-flute/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/12-flute/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/12-flute/72.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/12-flute/72.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/13-wooden-flute/72.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/13-wooden-flute/72.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/13-wooden-flute/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/13-wooden-flute/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/14-bassoon/36.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/14-bassoon/36.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/14-bassoon/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/14-bassoon/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/15-choir/48.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/15-choir/48.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/14-bassoon/48.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/14-bassoon/48.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/16-vibraphone/72.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/16-vibraphone/72.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/15-choir/72.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/15-choir/72.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/15-choir/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/15-choir/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/18-steel-drum/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/18-steel-drum/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/16-vibraphone/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/16-vibraphone/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/17-music-box/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/17-music-box/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/19-marimba/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/19-marimba/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/20-synth-lead/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/20-synth-lead/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/;t=i.children.length%3E0&&i.children[0].data?i.children[0].data:",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/;t=i.children.length%3E0&&i.children[0].data?i.children[0].data:",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/instruments/21-synth-pad/60.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/instruments/21-synth-pad/60.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/5c81a336fab8be57adc039a8a2b33ca9.png",
+      "error": "HTTP 404 for https://truffled.lol/games/fnaf/5c81a336fab8be57adc039a8a2b33ca9.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnaf/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:09:36.761Z"
+}

@@ -1,0 +1,188 @@
+{
+  "slug": "gunspin",
+  "title": "Gunspin",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/gunspin/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/gunspin/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/guns.webp",
+  "baseUrl": "https://truffled.lol/games/gunspin/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/gunspin/index.html",
+  "status": "done",
+  "sizeBytes": 221783,
+  "assetCount": 16,
+  "known404": [
+    "https://truffled.lol/games/gunspin/TemplateData/favicon.ico",
+    "https://truffled.lol/cloak.js",
+    "https://truffled.lol/games/gunspin/TemplateData/progressEmpty.Light.png",
+    "https://truffled.lol/games/gunspin/TemplateData/progressLogo.Light.png",
+    "https://truffled.lol/games/gunspin/TemplateData/progressFull.Light.png",
+    "https://truffled.lol/games/gunspin/TemplateData/progressEmpty.Dark.png",
+    "https://truffled.lol/games/gunspin/TemplateData/progressLogo.Dark.png",
+    "https://truffled.lol/games/gunspin/TemplateData/progressFull.Dark.png",
+    "https://truffled.lol/games/gunspin/TemplateData/webgl-logo.png",
+    "https://truffled.lol/games/gunspin/Build/utils/strings.js",
+    "https://truffled.lol/games/gunspin/Build/zlib/constants.js",
+    "https://truffled.lol/games/gunspin/TemplateData/fullscreen.png",
+    "https://truffled.lol/games/gunspin/Build/zlib/inflate.js",
+    "https://truffled.lol/games/gunspin/Build/inflate.js",
+    "https://truffled.lol/games/gunspin/Build/zlib/messages.js",
+    "https://truffled.lol/games/gunspin/Build/dec/dictionary.js",
+    "https://truffled.lol/games/gunspin/Build/zlib/zstream.js",
+    "https://truffled.lol/games/gunspin/Build/dec/decode.js",
+    "https://truffled.lol/games/gunspin/Build/zlib/inftrees.js",
+    "https://truffled.lol/games/gunspin/Build/dec/dictionary.bin.js",
+    "https://truffled.lol/games/gunspin/Build/dictionary.bin.js",
+    "https://truffled.lol/games/gunspin/Build/dec/dictionary-browser.js",
+    "https://truffled.lol/games/gunspin/Build/dec/huffman.js",
+    "https://truffled.lol/games/gunspin/Build/dec/prefix.js",
+    "https://truffled.lol/games/gunspin/Build/dec/transform.js",
+    "https://truffled.lol/games/gunspin/Build/dec/streams.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/gunspin/TemplateData/favicon.ico",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/TemplateData/favicon.ico",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/cloak.js",
+      "error": "HTTP 404 for https://truffled.lol/cloak.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/TemplateData/progressEmpty.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/TemplateData/progressEmpty.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/TemplateData/progressLogo.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/TemplateData/progressLogo.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/TemplateData/progressFull.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/TemplateData/progressFull.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/TemplateData/progressEmpty.Dark.png",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/TemplateData/progressEmpty.Dark.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/TemplateData/progressLogo.Dark.png",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/TemplateData/progressLogo.Dark.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/TemplateData/progressFull.Dark.png",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/TemplateData/progressFull.Dark.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/TemplateData/webgl-logo.png",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/TemplateData/webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/utils/strings.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/zlib/constants.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/TemplateData/fullscreen.png",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/TemplateData/fullscreen.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/zlib/inflate.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/inflate.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/zlib/messages.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/dec/dictionary.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/zlib/zstream.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/dec/decode.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/zlib/inftrees.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/zlib/inftrees.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/dictionary.bin.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/dec/dictionary-browser.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/dec/dictionary-browser.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/dec/huffman.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/dec/huffman.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/dec/prefix.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/dec/transform.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/dec/transform.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/Build/dec/streams.js",
+      "error": "HTTP 404 for https://truffled.lol/games/gunspin/Build/dec/streams.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/gunspin/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:35:13.414Z"
+}

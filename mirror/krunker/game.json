@@ -1,0 +1,1280 @@
+{
+  "slug": "krunker",
+  "title": "Krunker",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/krunker/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/krunker/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/krunker.webp",
+  "baseUrl": "https://truffled.lol/games/krunker/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/krunker/index.html",
+  "status": "done",
+  "sizeBytes": 13004361,
+  "assetCount": 291,
+  "known404": [
+    "https://truffled.lol/games/krunker/docs/terms.txt",
+    "https://truffled.lol/games/krunker/recaptcha_api.js",
+    "https://truffled.lol/games/krunker/hcaptcha_api.js",
+    "https://truffled.lol/games/krunker/css/img/country-flag.png",
+    "https://truffled.lol/games/krunker/img/lock-icon-black.svg",
+    "https://truffled.lol/games/krunker/img/lock-icon-white.svg",
+    "https://truffled.lol/games/krunker/img/social-buttons/fandom-normal.png",
+    "https://truffled.lol/games/krunker/img/social-buttons/fandom-hover.png",
+    "https://truffled.lol/games/krunker/img/social-buttons/fandom-pressed.png",
+    "https://truffled.lol/games/krunker/img/world_0.png",
+    "https://truffled.lol/games/krunker/img/dropper_fg.svg",
+    "https://truffled.lol/games/krunker/img/dropper_bg.svg",
+    "https://truffled.lol/games/krunker/img/chals/icon_0.png",
+    "https://truffled.lol/games/krunker/libs/deflate.js",
+    "https://truffled.lol/games/krunker/libs/inflate.js",
+    "https://truffled.lol/games/krunker/js/zombie_high.json",
+    "https://truffled.lol/games/krunker/paypal.checkout.v4.js",
+    "https://truffled.lol/base/test/lib/button.js",
+    "https://truffled.lol/tagmanager/pptm.js",
+    "https://truffled.lol/games/krunker/js/src/config.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/buffer-global.js",
+    "https://truffled.lol/games/krunker/js/node_modules/isarray/index.js",
+    "https://truffled.lol/games/krunker/js/src/libs/browser-sentry.js",
+    "https://truffled.lol/games/krunker/js/src/shim/process.js",
+    "https://truffled.lol/games/krunker/js/version.json",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish-uint8array.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish-buffer.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/buffer-lite.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish-array.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish-proto.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/ext-buffer.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/ext-packer.js",
+    "https://truffled.lol/games/krunker/js/node_modules/ieee754/index.js",
+    "https://truffled.lol/games/krunker/js/node_modules/int64-buffer/int64-buffer.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/write-uint8.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/write-token.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/flex-buffer.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/codec-base.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/write-type.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/encode.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/write-core.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/encode-buffer.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/ext-unpacker.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/read-format.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/read-core.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/read-token.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/decode.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/decode-buffer.js",
+    "https://truffled.lol/games/krunker/js/node_modules/event-lite/event-lite.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/encoder.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/codec.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/browser.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/ext.js",
+    "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/decoder.js",
+    "https://truffled.lol/games/krunker/js/src/i18n/de.js",
+    "https://truffled.lol/games/krunker/js/src/i18n/es.js",
+    "https://truffled.lol/games/krunker/js/src/libs/utils.js",
+    "https://truffled.lol/games/krunker/js/src/i18n/en.js",
+    "https://truffled.lol/games/krunker/js/src/i18n/kr.js",
+    "https://truffled.lol/games/krunker/js/src/i18n/pr.js",
+    "https://truffled.lol/games/krunker/js/src/i18n/init.js",
+    "https://truffled.lol/games/krunker/js/de.js",
+    "https://truffled.lol/games/krunker/js/es.js",
+    "https://truffled.lol/games/krunker/js/pr.js",
+    "https://truffled.lol/games/krunker/js/en.js",
+    "https://truffled.lol/games/krunker/js/kr.js",
+    "https://truffled.lol/games/krunker/js/node_modules/requires-port/index.js",
+    "https://truffled.lol/games/krunker/js/src/libs/i18n.js",
+    "https://truffled.lol/games/krunker/js/node_modules/url-parse/index.js",
+    "https://truffled.lol/games/krunker/js/node_modules/querystringify/index.js",
+    "https://truffled.lol/games/krunker/js/src/libs/ClientManager.js",
+    "https://truffled.lol/games/krunker/js/src/data/colors.js",
+    "https://truffled.lol/games/krunker/js/src/libs/game-overlay.js",
+    "https://truffled.lol/games/krunker/js/node_modules/three/build/three.js",
+    "https://truffled.lol/games/krunker/js/img/infect_0.png",
+    "https://truffled.lol/games/krunker/js/img/muzflash.png",
+    "https://truffled.lol/games/krunker/js/img/blood.png",
+    "https://truffled.lol/textures/flag_b.png",
+    "https://truffled.lol/textures/objective_1.png",
+    "https://truffled.lol/textures/flag_r.png",
+    "https://truffled.lol/games/krunker/js/img/medal.svg",
+    "https://truffled.lol/games/krunker/js/src/data/streamers.js",
+    "https://truffled.lol/games/krunker/js/src/libs/UI.js",
+    "https://truffled.lol/games/krunker/js/src/data/prices.js",
+    "https://truffled.lol/games/krunker/js/node_modules/fast-deep-equal/index.js",
+    "https://truffled.lol/games/krunker/js/src/data/modes.js",
+    "https://truffled.lol/games/krunker/js/src/libs/shaders.js",
+    "https://truffled.lol/games/krunker/js/src/libs/GLTFLoader.js",
+    "https://truffled.lol/games/krunker/js/node_modules/comment-regex/index.js",
+    "https://truffled.lol/games/krunker/js/src/data/account.js",
+    "https://truffled.lol/games/krunker/js/src/libs/OBJLoader.js",
+    "https://truffled.lol/games/krunker/js/src/libs/BufferGeometryUtils.js",
+    "https://truffled.lol/textures/zone_0.png",
+    "https://truffled.lol/games/krunker/js/node_modules/simplex-noise/simplex-noise.js",
+    "https://truffled.lol/games/krunker/js/src/libs/easing.js",
+    "https://truffled.lol/games/krunker/js/src/data/weapons.js",
+    "https://truffled.lol/games/krunker/js/src/libs/Zone.js",
+    "https://truffled.lol/games/krunker/js/src/libs/Terrain.js",
+    "https://truffled.lol/games/krunker/js/src/data/store.js",
+    "https://truffled.lol/games/krunker/js/src/data/triggers.js",
+    "https://truffled.lol/games/krunker/js/src/data/prefabs.js",
+    "https://truffled.lol/games/krunker/js/textures/crate_0.png",
+    "https://truffled.lol/games/krunker/js/textures/barrel_0.png",
+    "https://truffled.lol/games/krunker/js/img/crosshair.png",
+    "https://truffled.lol/games/krunker/js/textures/vehicle_0.png",
+    "https://truffled.lol/games/krunker/js/textures/stack_0.png",
+    "https://truffled.lol/games/krunker/js/textures/tree_0.png",
+    "https://truffled.lol/games/krunker/js/textures/cone_0.png",
+    "https://truffled.lol/games/krunker/js/textures/container_0.png",
+    "https://truffled.lol/games/krunker/js/textures/grass_0.png",
+    "https://truffled.lol/games/krunker/js/textures/containerr_0.png",
+    "https://truffled.lol/games/krunker/js/textures/acidbarrel_0.png",
+    "https://truffled.lol/games/krunker/js/textures/door_0.png",
+    "https://truffled.lol/games/krunker/js/textures/window_0.png",
+    "https://truffled.lol/games/krunker/js/textures/teddy_0.png",
+    "https://truffled.lol/games/krunker/js/textures/cardb_0.png",
+    "https://truffled.lol/games/krunker/js/textures/pallet_0.png",
+    "https://truffled.lol/games/krunker/js/textures/event_0.png",
+    "https://truffled.lol/games/krunker/js/model.png",
+    "https://truffled.lol/games/krunker/js/textures/cage_0.png",
+    "https://truffled.lol/games/krunker/js/textures/police_0.png",
+    "https://truffled.lol/games/krunker/js/textures/ebarrel_0.png",
+    "https://truffled.lol/games/krunker/js/textures/ghost_0.png",
+    "https://truffled.lol/games/krunker/js/textures/pumpkin_0.png",
+    "https://truffled.lol/games/krunker/js/textures/skeleton_0.png",
+    "https://truffled.lol/model.png",
+    "https://truffled.lol/games/krunker/js/textures/knight_0.png",
+    "https://truffled.lol/games/krunker/js/textures/crystal_0.png",
+    "https://truffled.lol/games/krunker/js/textures/pad_0.png",
+    "https://truffled.lol/games/krunker/js/textures/spawn_0.png",
+    "https://truffled.lol/games/krunker/js/src/libs/CSS3DRenderer.js",
+    "https://truffled.lol/games/krunker/js/src/data/objects.js",
+    "https://truffled.lol/games/krunker/js/maps/burg.json",
+    "https://truffled.lol/games/krunker/js/maps/littletown.json",
+    "https://truffled.lol/games/krunker/js/maps/sandstorm.json",
+    "https://truffled.lol/games/krunker/js/maps/undergrowth.json",
+    "https://truffled.lol/games/krunker/js/maps/shipyard.json",
+    "https://truffled.lol/games/krunker/js/maps/subzero.json",
+    "https://truffled.lol/games/krunker/js/maps/lostworld.json",
+    "https://truffled.lol/games/krunker/js/maps/freight.json",
+    "https://truffled.lol/games/krunker/js/maps/oasis.json",
+    "https://truffled.lol/games/krunker/js/maps/citadel.json",
+    "https://truffled.lol/games/krunker/js/maps/kanji.json",
+    "https://truffled.lol/games/krunker/js/maps/newtown.json",
+    "https://truffled.lol/src/data/mapWorker.js",
+    "https://truffled.lol/games/krunker/js/apikey.txt",
+    "https://truffled.lol/games/krunker/js/src/data/map.js",
+    "https://truffled.lol/games/krunker/js/maps/industry.json",
+    "https://truffled.lol/games/krunker/js/maps/evacuation.json",
+    "https://truffled.lol/games/krunker/js/maps/soul_sanctum.json",
+    "https://truffled.lol/games/krunker/js/src/data/classes.js",
+    "https://truffled.lol/games/krunker/js/src/data/spawnables.js",
+    "https://truffled.lol/games/krunker/js/src/data/flags.js",
+    "https://truffled.lol/games/krunker/js/src/data/reticles.js",
+    "https://truffled.lol/games/krunker/js/src/data/attach.js",
+    "https://truffled.lol/games/krunker/js/src/data/challenges.js",
+    "https://truffled.lol/games/krunker/js/src/data/streaks.js",
+    "https://truffled.lol/games/krunker/js/src/data/ai.js",
+    "https://truffled.lol/games/krunker/js/src/data/sprays.js",
+    "https://truffled.lol/games/krunker/js/src/data/projectile.js",
+    "https://truffled.lol/games/krunker/js/src/data/kills.js",
+    "https://truffled.lol/games/krunker/js/src/data/players.js",
+    "https://truffled.lol/textures/weapons/icon_0.png",
+    "https://truffled.lol/games/krunker/js/src/data/game.js",
+    "https://truffled.lol/games/krunker/js/src/libs/SkyDome.js",
+    "https://truffled.lol/games/krunker/js/src/libs/ShaderMesh.js",
+    "https://truffled.lol/games/krunker/js/src/libs/Rectangle.js",
+    "https://truffled.lol/games/krunker/js/src/data/shaders.js",
+    "https://truffled.lol/textures/recticle.png",
+    "https://truffled.lol/textures/reticles/reticle_0.png",
+    "https://truffled.lol/games/krunker/js/src/libs/geos.js",
+    "https://truffled.lol/games/krunker/js/src/libs/render.js",
+    "https://truffled.lol/games/krunker/js/src/libs/sound.js",
+    "https://truffled.lol/games/krunker/js/src/libs/particles.js",
+    "https://truffled.lol/games/krunker/js/src/libs/animDiv.js",
+    "https://truffled.lol/games/krunker/js/_0.png",
+    "https://truffled.lol/games/krunker/js/src/libs/apiClient.js",
+    "https://truffled.lol/games/krunker/js/antihackkey.json",
+    "https://truffled.lol/games/krunker/js/src/libs/io-client.js",
+    "https://truffled.lol/games/krunker/js/src/libs/gamepad.js",
+    "https://truffled.lol/games/krunker/js/src/libs/controls.js",
+    "https://truffled.lol/games/krunker/js/src/ui/social.js",
+    "https://truffled.lol/games/krunker/js/docs/clan.txt",
+    "https://truffled.lol/games/krunker/js/src/ui/game.js",
+    "https://truffled.lol/games/krunker/js/src/ui/editor.js",
+    "https://truffled.lol/games/krunker/js/pro_crosshair.png",
+    "https://truffled.lol/games/krunker/js/src/libs/settings.js",
+    "https://truffled.lol/games/krunker/js/src/ui/init.js",
+    "https://truffled.lol/games/krunker/js/pro_ads.png",
+    "https://truffled.lol/games/krunker/js/pro_scope.png",
+    "https://truffled.lol/textures/ammo_0.png",
+    "https://truffled.lol/img/skull_0.png",
+    "https://truffled.lol/img/timer.png",
+    "https://truffled.lol/img/skull_1.png",
+    "https://truffled.lol/img/skull_2.png",
+    "https://truffled.lol/img/blood.png",
+    "https://truffled.lol/games/krunker/js/settings.txt",
+    "https://truffled.lol/games/krunker/js/node_modules/badwords-list/lib/object.js",
+    "https://truffled.lol/games/krunker/js/node_modules/unwashed-words/lib/lang.json",
+    "https://truffled.lol/games/krunker/js/node_modules/badwords-list/lib/array.js",
+    "https://truffled.lol/games/krunker/js/node_modules/badwords-list/lib/regexp.js",
+    "https://truffled.lol/games/krunker/js/node_modules/badwords-list/lib/index.js",
+    "https://truffled.lol/img/button/button-normal.png",
+    "https://truffled.lol/img/button/button-pressed.png",
+    "https://truffled.lol/img/social-buttons/discord-hover.png",
+    "https://truffled.lol/img/button/button-hover.png",
+    "https://truffled.lol/img/social-buttons/discord-normal.png",
+    "https://truffled.lol/games/krunker/js/node_modules/unwashed-words/lib/unwashed-words.js",
+    "https://truffled.lol/img/social-buttons/discord-pressed.png",
+    "https://truffled.lol/img/social-buttons/reddit-hover.png",
+    "https://truffled.lol/img/social-buttons/reddit-normal.png",
+    "https://truffled.lol/img/social-buttons/twitter-normal.png",
+    "https://truffled.lol/img/social-buttons/twitter-hover.png",
+    "https://truffled.lol/img/social-buttons/reddit-pressed.png",
+    "https://truffled.lol/img/social-buttons/kr-normal.png",
+    "https://truffled.lol/img/social-buttons/twitter-pressed.png",
+    "https://truffled.lol/profile.png?v=",
+    "https://truffled.lol/img/social-buttons/kr-hover.png",
+    "https://truffled.lol/img/social-buttons/kr-pressed.png",
+    "https://truffled.lol/games/krunker/js/img/claim_0.png",
+    "https://truffled.lol/games/krunker/js/img/claim_1.png",
+    "https://truffled.lol/docs/versions.txt?t=",
+    "https://truffled.lol/textures/sprays/0.png",
+    "https://truffled.lol/games/krunker/js/img/police.png",
+    "https://truffled.lol/games/krunker/js/docs/partner.txt",
+    "https://truffled.lol/mod.zip",
+    "https://truffled.lol/games/krunker/js/textures/logo.png",
+    "https://truffled.lol/thumb.png?v=",
+    "https://truffled.lol/games/krunker/js/img/skull_0.png",
+    "https://truffled.lol/games/krunker/js/textures/muzflash.png",
+    "https://truffled.lol/games/krunker/js/img/hp_0.png",
+    "https://truffled.lol/games/krunker/js/jumpS_2.png",
+    "https://truffled.lol/games/krunker/js/jumpS_1.mp4"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/krunker/docs/terms.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/docs/terms.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/recaptcha_api.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/recaptcha_api.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/hcaptcha_api.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/hcaptcha_api.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/css/img/country-flag.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/css/img/country-flag.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/img/lock-icon-black.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/img/lock-icon-black.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/img/lock-icon-white.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/img/lock-icon-white.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/img/social-buttons/fandom-normal.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/img/social-buttons/fandom-normal.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/img/social-buttons/fandom-hover.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/img/social-buttons/fandom-hover.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/img/social-buttons/fandom-pressed.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/img/social-buttons/fandom-pressed.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/img/world_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/img/world_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/img/dropper_fg.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/img/dropper_fg.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/img/dropper_bg.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/img/dropper_bg.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/img/chals/icon_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/img/chals/icon_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/libs/deflate.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/libs/deflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/libs/inflate.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/libs/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/zombie_high.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/zombie_high.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/paypal.checkout.v4.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/paypal.checkout.v4.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/base/test/lib/button.js",
+      "error": "HTTP 404 for https://truffled.lol/base/test/lib/button.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/tagmanager/pptm.js",
+      "error": "HTTP 404 for https://truffled.lol/tagmanager/pptm.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/config.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/config.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/buffer-global.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/buffer-global.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/isarray/index.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/isarray/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/browser-sentry.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/browser-sentry.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/shim/process.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/shim/process.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/version.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/version.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish-uint8array.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish-uint8array.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish-buffer.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish-buffer.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/buffer-lite.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/buffer-lite.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish-array.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish-array.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish-proto.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish-proto.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/bufferish.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/ext-buffer.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/ext-buffer.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/ext-packer.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/ext-packer.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/ieee754/index.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/ieee754/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/int64-buffer/int64-buffer.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/int64-buffer/int64-buffer.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/write-uint8.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/write-uint8.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/write-token.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/write-token.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/flex-buffer.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/flex-buffer.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/codec-base.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/codec-base.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/write-type.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/write-type.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/encode.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/encode.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/write-core.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/write-core.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/encode-buffer.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/encode-buffer.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/ext-unpacker.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/ext-unpacker.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/read-format.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/read-format.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/read-core.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/read-core.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/read-token.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/read-token.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/decode.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/decode-buffer.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/decode-buffer.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/event-lite/event-lite.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/event-lite/event-lite.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/encoder.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/encoder.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/codec.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/codec.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/browser.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/browser.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/ext.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/ext.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/decoder.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/msgpack-lite/lib/decoder.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/i18n/de.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/i18n/de.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/i18n/es.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/i18n/es.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/utils.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/utils.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/i18n/en.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/i18n/en.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/i18n/kr.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/i18n/kr.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/i18n/pr.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/i18n/pr.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/i18n/init.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/i18n/init.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/de.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/de.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/es.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/es.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/pr.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/pr.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/en.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/en.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/kr.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/kr.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/requires-port/index.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/requires-port/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/i18n.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/i18n.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/url-parse/index.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/url-parse/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/querystringify/index.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/querystringify/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/ClientManager.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/ClientManager.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/colors.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/colors.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/game-overlay.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/game-overlay.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/three/build/three.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/three/build/three.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/img/infect_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/img/infect_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/img/muzflash.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/img/muzflash.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/img/blood.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/img/blood.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/textures/flag_b.png",
+      "error": "HTTP 404 for https://truffled.lol/textures/flag_b.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/textures/objective_1.png",
+      "error": "HTTP 404 for https://truffled.lol/textures/objective_1.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/textures/flag_r.png",
+      "error": "HTTP 404 for https://truffled.lol/textures/flag_r.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/img/medal.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/img/medal.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/streamers.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/streamers.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/UI.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/UI.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/prices.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/prices.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/fast-deep-equal/index.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/fast-deep-equal/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/modes.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/modes.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/shaders.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/shaders.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/GLTFLoader.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/GLTFLoader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/comment-regex/index.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/comment-regex/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/account.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/account.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/OBJLoader.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/OBJLoader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/BufferGeometryUtils.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/BufferGeometryUtils.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/textures/zone_0.png",
+      "error": "HTTP 404 for https://truffled.lol/textures/zone_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/simplex-noise/simplex-noise.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/simplex-noise/simplex-noise.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/easing.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/easing.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/weapons.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/weapons.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/Zone.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/Zone.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/Terrain.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/Terrain.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/store.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/store.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/triggers.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/triggers.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/prefabs.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/prefabs.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/crate_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/crate_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/barrel_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/barrel_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/img/crosshair.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/img/crosshair.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/vehicle_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/vehicle_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/stack_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/stack_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/tree_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/tree_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/cone_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/cone_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/container_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/container_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/grass_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/grass_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/containerr_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/containerr_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/acidbarrel_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/acidbarrel_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/door_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/door_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/window_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/window_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/teddy_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/teddy_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/cardb_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/cardb_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/pallet_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/pallet_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/event_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/event_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/model.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/model.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/cage_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/cage_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/police_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/police_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/ebarrel_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/ebarrel_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/ghost_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/ghost_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/pumpkin_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/pumpkin_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/skeleton_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/skeleton_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/model.png",
+      "error": "HTTP 404 for https://truffled.lol/model.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/knight_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/knight_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/crystal_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/crystal_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/pad_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/pad_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/textures/spawn_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/textures/spawn_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/CSS3DRenderer.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/CSS3DRenderer.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/objects.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/objects.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/burg.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/burg.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/littletown.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/littletown.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/sandstorm.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/sandstorm.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/undergrowth.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/undergrowth.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/shipyard.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/shipyard.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/subzero.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/subzero.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/lostworld.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/lostworld.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/freight.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/freight.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/oasis.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/oasis.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/citadel.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/citadel.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/kanji.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/kanji.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/newtown.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/newtown.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/src/data/mapWorker.js",
+      "error": "HTTP 404 for https://truffled.lol/src/data/mapWorker.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/apikey.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/apikey.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/map.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/map.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/industry.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/industry.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/evacuation.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/evacuation.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/maps/soul_sanctum.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/maps/soul_sanctum.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/classes.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/classes.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/spawnables.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/spawnables.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/flags.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/flags.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/reticles.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/reticles.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/attach.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/attach.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/challenges.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/challenges.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/streaks.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/streaks.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/ai.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/ai.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/sprays.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/sprays.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/projectile.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/projectile.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/kills.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/kills.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/players.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/players.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/textures/weapons/icon_0.png",
+      "error": "HTTP 404 for https://truffled.lol/textures/weapons/icon_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/game.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/game.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/SkyDome.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/SkyDome.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/ShaderMesh.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/ShaderMesh.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/Rectangle.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/Rectangle.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/data/shaders.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/data/shaders.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/textures/recticle.png",
+      "error": "HTTP 404 for https://truffled.lol/textures/recticle.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/textures/reticles/reticle_0.png",
+      "error": "HTTP 404 for https://truffled.lol/textures/reticles/reticle_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/geos.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/geos.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/render.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/render.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/sound.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/sound.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/particles.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/particles.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/animDiv.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/animDiv.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/apiClient.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/apiClient.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/antihackkey.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/antihackkey.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/io-client.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/io-client.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/gamepad.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/gamepad.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/controls.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/controls.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/ui/social.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/ui/social.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/docs/clan.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/docs/clan.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/ui/game.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/ui/game.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/ui/editor.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/ui/editor.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/pro_crosshair.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/pro_crosshair.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/libs/settings.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/libs/settings.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/src/ui/init.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/src/ui/init.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/pro_ads.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/pro_ads.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/pro_scope.png",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/pro_scope.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/textures/ammo_0.png",
+      "error": "HTTP 404 for https://truffled.lol/textures/ammo_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/img/skull_0.png",
+      "error": "HTTP 404 for https://truffled.lol/img/skull_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/img/timer.png",
+      "error": "HTTP 404 for https://truffled.lol/img/timer.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/img/skull_1.png",
+      "error": "HTTP 404 for https://truffled.lol/img/skull_1.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/img/skull_2.png",
+      "error": "HTTP 404 for https://truffled.lol/img/skull_2.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/img/blood.png",
+      "error": "HTTP 404 for https://truffled.lol/img/blood.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/settings.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/settings.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/badwords-list/lib/object.js",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/badwords-list/lib/object.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/krunker/js/node_modules/unwashed-words/lib/lang.json",
+      "error": "HTTP 404 for https://truffled.lol/games/krunker/js/node_modules/unwashed-words/lib/lang.json",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T12:19:00.623Z",
+  "verifiedAt": "2026-11-17T12:19:10.658Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Krunker",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0837,
+    "rendered": true
+  }
+}

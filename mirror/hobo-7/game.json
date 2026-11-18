@@ -1,0 +1,43 @@
+{
+  "slug": "hobo-7",
+  "title": "Hobo 7",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/hobo7.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/hobo7.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/hobo7.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/hobo7.html",
+  "entryUrl": "https://truffled.lol/gamefile/hobo7.html",
+  "status": "done",
+  "sizeBytes": 7522917,
+  "assetCount": 4,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/gamefile/hobo7.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:44:05.005Z"
+}

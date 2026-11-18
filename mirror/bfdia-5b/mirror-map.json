@@ -1,0 +1,22 @@
+{
+  "/404": "/.svg",
+  "/css/404.css": "/__site__/css/404.css",
+  "/games/bfdia%205b/.svg": "/.svg",
+  "/games/bfdia%205b/5b.js": "/5b.js",
+  "/games/bfdia%205b/data/images6.json": "/data/images6.json",
+  "/games/bfdia%205b/data/levels.txt": "/data/levels.txt",
+  "/games/bfdia%205b/index.html": "/index.html",
+  "/games/bfdia%205b/style.css": "/style.css",
+  "/games/bfdia%205b/visuals/blocks/b0001.svg": "/visuals/blocks/b0001.svg",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://truffled.lol/404": "/.svg",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/games/bfdia%205b/.svg": "/.svg",
+  "https://truffled.lol/games/bfdia%205b/5b.js": "/5b.js",
+  "https://truffled.lol/games/bfdia%205b/data/images6.json": "/data/images6.json",
+  "https://truffled.lol/games/bfdia%205b/data/levels.txt": "/data/levels.txt",
+  "https://truffled.lol/games/bfdia%205b/index.html": "/index.html",
+  "https://truffled.lol/games/bfdia%205b/style.css": "/style.css",
+  "https://truffled.lol/games/bfdia%205b/visuals/blocks/b0001.svg": "/visuals/blocks/b0001.svg",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

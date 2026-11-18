@@ -1,0 +1,111 @@
+{
+  "slug": "bfdia-5b",
+  "title": "Bfdia 5b",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/bfdia 5b/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/bfdia%205b/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/bfdia5b.webp",
+  "baseUrl": "https://truffled.lol/games/bfdia%205b/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/bfdia%205b/index.html",
+  "status": "done",
+  "sizeBytes": 13177738,
+  "assetCount": 20,
+  "known404": [
+    "https://truffled.lol/games/bfdia%205b/entities/e0035crank.svg",
+    "https://truffled.lol/games/bfdia%205b/effects/icecubemelt.svg",
+    "https://truffled.lol/games/bfdia%205b/wintoken.svg",
+    "https://truffled.lol/games/bfdia%205b/ui/csbubble/dia.svg",
+    "https://truffled.lol/games/bfdia%205b/menu0.svg",
+    "https://truffled.lol/games/bfdia%205b/menu2.svg",
+    "https://truffled.lol/games/bfdia%205b/menu6.svg",
+    "https://truffled.lol/games/bfdia%205b/menu2border.svg",
+    "https://truffled.lol/games/bfdia%205b/premenubg.png",
+    "https://truffled.lol/games/bfdia%205b/menu2borderimg.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/bfdia%205b/entities/e0035crank.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/bfdia%205b/entities/e0035crank.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/bfdia%205b/effects/icecubemelt.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/bfdia%205b/effects/icecubemelt.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/bfdia%205b/wintoken.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/bfdia%205b/wintoken.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/bfdia%205b/ui/csbubble/dia.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/bfdia%205b/ui/csbubble/dia.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/bfdia%205b/menu0.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/bfdia%205b/menu0.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/bfdia%205b/menu2.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/bfdia%205b/menu2.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/bfdia%205b/menu6.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/bfdia%205b/menu6.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/bfdia%205b/menu2border.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/bfdia%205b/menu2border.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/bfdia%205b/premenubg.png",
+      "error": "HTTP 404 for https://truffled.lol/games/bfdia%205b/premenubg.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/bfdia%205b/menu2borderimg.png",
+      "error": "HTTP 404 for https://truffled.lol/games/bfdia%205b/menu2borderimg.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/bfdia%205b/index.html",
+      "error": "capture: CDP timeout after 20000ms: Page.navigate",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-10-30T12:14:16.140Z",
+  "verifiedAt": "2026-11-16T13:44:34.147Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "HTML5b - Battle for Dream Island",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 960,
+      "height": 540
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

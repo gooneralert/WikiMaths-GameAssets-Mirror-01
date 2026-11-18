@@ -1,0 +1,56 @@
+{
+  "slug": "granny-2",
+  "title": "Granny 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/Granny 2.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/Granny%202.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/gran2.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/Granny%202.html",
+  "entryUrl": "https://truffled.lol/gamefile/Granny%202.html",
+  "status": "done",
+  "sizeBytes": 315484,
+  "assetCount": 7,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/testamalame/sef@main/sedk.js",
+    "https://cdn.jsdelivr.net/gh/forms-docs-slides-glgl/ngng@main/TemplateData/favicon.ico",
+    "https://cdn.jsdelivr.net/gh/forms-docs-slides-glgl/ngng@main/TemplateData/webgl-logo.png",
+    "https://cdn.jsdelivr.net/gh/forms-docs-slides-glgl/ngng@main/TemplateData/fullscreen-button.png"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/testamalame/sef@main/sedk.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/testamalame/sef@main/sedk.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/forms-docs-slides-glgl/ngng@main/TemplateData/favicon.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/forms-docs-slides-glgl/ngng@main/TemplateData/favicon.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/forms-docs-slides-glgl/ngng@main/TemplateData/webgl-logo.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/forms-docs-slides-glgl/ngng@main/TemplateData/webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/forms-docs-slides-glgl/ngng@main/TemplateData/fullscreen-button.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/forms-docs-slides-glgl/ngng@main/TemplateData/fullscreen-button.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/gamefile/Granny%202.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:21:22.266Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "bloons-tower-defense",
+  "title": "Bloons Tower Defense",
+  "type": "Flash",
+  "developer": "Ninja Kiwi",
+  "description": "Bloons Tower Defense is a casual game where your mission is to build and fortify your defenses to stop an ever-growing wave of colorful balloons from reaching the end of the track. This classic game started the legendary Bloons TD series and continues some of the gameplay. You must strategically place a wide variety of units, from dart-throwing monkeys to powerful turrets, and enhance them with upgrades to maximize your popping power. As the levels progress, so do the challenges.",
+  "tags": [
+    "Tower Defense",
+    "Top-Down",
+    "Casual",
+    "Resource Management",
+    "Strategy"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "e3dd9dd1-aec7-4b7b-9571-8beb11ffd644",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/e3dd9dd1-aec7-4b7b-9571-8beb11ffd644/1/e3dd9dd1-aec7-4b7b-9571-8beb11ffd644.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 530813,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:49:11.320Z",
+  "verifiedAt": "2026-11-16T13:59:57.011Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Bloons Tower Defense",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  },
+  "assetCount": 0
+}

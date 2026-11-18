@@ -1,0 +1,81 @@
+{
+  "slug": "five-nights-at-epsteins",
+  "title": "Five Nights At Epsteins",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/fnae.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/fnae.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/fnae.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/fnae.html",
+  "entryUrl": "https://truffled.lol/gamefile/fnae.html",
+  "status": "done",
+  "sizeBytes": 13069,
+  "assetCount": 7,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/202512191935.webm",
+    "https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/Build/fnae.wasm",
+    "https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/StreamingAssets/202512191935.webm",
+    "https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/202512191935.mp4"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/202512191935.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/202512191935.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/Build/fnae.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/Build/fnae.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/StreamingAssets/202512191935.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/StreamingAssets/202512191935.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/fnae.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/fnae.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/202512191935.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/202512191935.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/fnae.framework.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/fnae.framework.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/fnae.data",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/fnae.data",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/Build/fnae.data",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/Build/fnae.data",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/fnae.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/web-ports/fnae@afd4e5071add297d6169665a4f999d62f312532e/fnae.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/gamefile/fnae.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:09:07.735Z"
+}

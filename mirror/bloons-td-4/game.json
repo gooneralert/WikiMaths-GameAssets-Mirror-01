@@ -1,0 +1,47 @@
+{
+  "slug": "bloons-td-4",
+  "title": "Bloons TD 4",
+  "type": "Flash",
+  "developer": "Ninja Kiwi",
+  "description": "Bloons Tower Defense 4, aka BTD 4, is a classic tower defense game initially released in Flash. Defend the path by avoiding Bloons from reaching the end. Tactically place various defenses around the map to pop the balloons. Upgrade them and unlock more as you get further through the game.",
+  "tags": [
+    "Tower Defense",
+    "Top-Down",
+    "Casual",
+    "Resource Management",
+    "Strategy"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "1003f11d-8e34-48ae-8d82-090341b4c42c",
+  "sourceVersion": "1.0",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/1003f11d-8e34-48ae-8d82-090341b4c42c/1.0/1003f11d-8e34-48ae-8d82-090341b4c42c.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 2919831,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:49:46.638Z",
+  "verifiedAt": "2026-11-16T13:55:09.010Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Bloons TD 4",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.5424,
+    "rendered": true
+  },
+  "assetCount": 0
+}

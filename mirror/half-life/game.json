@@ -1,0 +1,247 @@
+{
+  "slug": "half-life",
+  "title": "Half-Life",
+  "type": "HTML",
+  "developer": "Valve",
+  "description": "Named Game of the Year by over 50 publications, Valve's debut title blends action and adventure with award-winning technology to create a frighteningly realistic world where players must think to survive. Also includes an exciting multiplayer mode that allows you to play against friends and enemies around the world.",
+  "tags": [
+    "FPS",
+    "Story Rich",
+    "Action",
+    "Sci-Fi",
+    "Atmospheric"
+  ],
+  "controls": [
+    {
+      "action": "Forward",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        },
+        {
+          "key": "KeyW",
+          "keyCode": 87
+        }
+      ]
+    },
+    {
+      "action": "Backward",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        },
+        {
+          "key": "KeyS",
+          "keyCode": 83
+        }
+      ]
+    },
+    {
+      "action": "Right",
+      "keys": [
+        {
+          "key": "KeyD",
+          "keyCode": 68
+        }
+      ]
+    },
+    {
+      "action": "Left",
+      "keys": [
+        {
+          "key": "KeyA",
+          "keyCode": 65
+        }
+      ]
+    },
+    {
+      "action": "Look Right",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        }
+      ]
+    },
+    {
+      "action": "Look Left",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "keys": [
+        {
+          "key": "Space",
+          "keyCode": 32
+        }
+      ]
+    },
+    {
+      "action": "Crouch",
+      "keys": [
+        {
+          "key": "ControlLeft",
+          "keyCode": 17
+        }
+      ]
+    },
+    {
+      "action": "Pause",
+      "keys": []
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Forward",
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Backward",
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Right",
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Left",
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Look Right",
+      "axes": [
+        {
+          "index": 2,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Look Left",
+      "axes": [
+        {
+          "index": 2,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "buttons": [
+        0
+      ]
+    },
+    {
+      "action": "Crouch",
+      "buttons": [
+        1
+      ]
+    },
+    {
+      "action": "Pause",
+      "buttons": [
+        9
+      ]
+    }
+  ],
+  "controllerSupport": false,
+  "sourceId": "de9233ba-1aa7-447f-8244-d8b285d0e164",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/index.html",
+  "status": "done",
+  "sizeBytes": 13439465,
+  "assetCount": 19,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/.js",
+    "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/opposing_force_en.zip",
+    "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/halva_en.zip",
+    "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/halva_rus.zip",
+    "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/opposing_force_rus.zip",
+    "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/blue_shift_rus.zip",
+    "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/blue_shift_en.zip"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/opposing_force_en.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/opposing_force_en.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/halva_en.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/halva_en.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/halva_rus.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/halva_rus.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/opposing_force_rus.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/opposing_force_rus.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/blue_shift_rus.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/blue_shift_rus.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/blue_shift_en.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/de9233ba-1aa7-447f-8244-d8b285d0e164/1/blue_shift_en.zip",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:28:43.962Z",
+  "verifiedAt": "2026-11-16T15:42:27.499Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Pixelsuft hl",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "doom",
+  "title": "Doom",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/doom/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/doom/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/doom.webp",
+  "baseUrl": "https://truffled.lol/games/doom/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/doom/index.html",
+  "status": "done",
+  "sizeBytes": 8176386,
+  "assetCount": 16,
+  "known404": [
+    "https://truffled.lol/games/doom/js-dos/detection-strategy/scroll.js",
+    "https://truffled.lol/games/doom/js-dos/detection-strategy/object.js",
+    "https://truffled.lol/games/doom/js-dos/core-js/modules/web.dom-collections.iterator.js",
+    "https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.of.js",
+    "https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.uint8-array.js",
+    "https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.set.js",
+    "https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.sort.js",
+    "https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.float32-array.js",
+    "https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.uint8-clamped-array.js",
+    "https://truffled.lol/games/doom/js-dos/saves.zip",
+    "https://truffled.lol/games/doom/js-dos/zip-no-worker-inflate.min.js",
+    "https://truffled.lol/games/doom/js-dos/core-js/modules/es.string.replace.js",
+    "https://truffled.lol/games/doom/js-dos/core-js/modules/web.url-search-params.js",
+    "https://truffled.lol/games/doom/js-dos/core-js/modules/web.url.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/detection-strategy/scroll.js",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/detection-strategy/scroll.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/detection-strategy/object.js",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/detection-strategy/object.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/core-js/modules/web.dom-collections.iterator.js",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/core-js/modules/web.dom-collections.iterator.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.of.js",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.of.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.uint8-array.js",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.uint8-array.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.set.js",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.set.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.sort.js",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.sort.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.float32-array.js",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.float32-array.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.uint8-clamped-array.js",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/core-js/modules/es.typed-array.uint8-clamped-array.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/saves.zip",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/saves.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/zip-no-worker-inflate.min.js",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/zip-no-worker-inflate.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/core-js/modules/es.string.replace.js",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/core-js/modules/es.string.replace.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/core-js/modules/web.url-search-params.js",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/core-js/modules/web.url-search-params.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/doom/js-dos/core-js/modules/web.url.js",
+      "error": "HTTP 404 for https://truffled.lol/games/doom/js-dos/core-js/modules/web.url.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T08:32:41.858Z",
+  "verifiedAt": "2026-11-17T08:33:48.350Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 640,
+      "height": 400
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.997,
+    "rendered": true
+  }
+}

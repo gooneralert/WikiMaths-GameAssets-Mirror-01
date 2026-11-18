@@ -1,0 +1,70 @@
+{
+  "slug": "fallout-2",
+  "title": "Fallout 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fo2/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fo2/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/fallout2.webp",
+  "baseUrl": "https://truffled.lol/games/fo2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/fo2/index.html",
+  "status": "done",
+  "sizeBytes": 1211531,
+  "assetCount": 33,
+  "known404": [
+    "https://truffled.lol/games/fo2/wdosbox-x.wasm",
+    "https://truffled.lol/games/fo2/wdosbox-x.async.wasm",
+    "https://truffled.lol/games/app.wasm",
+    "https://truffled.lol/games/app.async.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/fo2/wdosbox-x.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/fo2/wdosbox-x.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fo2/wdosbox-x.async.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/fo2/wdosbox-x.async.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/app.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/app.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/app.async.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/app.async.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T09:46:52.812Z",
+  "verifiedAt": "2026-11-17T09:47:02.527Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Fallout 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": "err:Failed to execute 'getContext' on 'HTMLCanvasElement': Cannot get context from a canvas that has transferred its control to offscreen.",
+    "screenshotNonBlack": 0.0894,
+    "rendered": true
+  }
+}

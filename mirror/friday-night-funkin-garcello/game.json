@@ -1,0 +1,263 @@
+{
+  "slug": "friday-night-funkin-garcello",
+  "title": "Friday Night Funkin Garcello",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnf/garcello.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnf/garcello.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/garcello.webp",
+  "baseUrl": "https://truffled.lol/games/fnf/",
+  "entry": "/garcello.html",
+  "entryUrl": "https://truffled.lol/games/fnf/garcello.html",
+  "status": "done",
+  "sizeBytes": 6118593,
+  "assetCount": 40,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/favicon.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/pixel.otf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/vcr.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/nokiafc22.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/nokiafc22.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/monsterrat.eot?#iefix",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/monsterrat.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/monsterrat.svg#Monsterrat",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.bundle",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/images/gfDanceTitle.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/weeks/weekList.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/images/funkay.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/events.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.jpg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.ogg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.otf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/haxe.Resource",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime._internal.format.BMP",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime._internal.format.JPEG",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime._internal.format.PNG",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.stitch.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.gif",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.webp",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime.utils.AssetBundle",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/library.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/openfl.utils.Assets"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/favicon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/favicon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/pixel.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/pixel.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/vcr.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/vcr.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/vcr.svg#VCR%20OSD%20Mono",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/nokiafc22.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/nokiafc22.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/nokiafc22.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/nokiafc22.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/monsterrat.eot?#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/monsterrat.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/pixel.eot?#iefix",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/assets/fonts/pixel.eot?#iefix",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/monsterrat.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/monsterrat.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/library.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/library.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/monsterrat.svg#Monsterrat",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/flixel/fonts/monsterrat.svg#Monsterrat",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.bundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.bundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/images/gfDanceTitle.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/images/gfDanceTitle.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/weeks/weekList.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/weeks/weekList.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/images/funkay.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/images/funkay.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/events.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/events.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/haxe.Resource",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/haxe.Resource",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime._internal.format.BMP",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime._internal.format.BMP",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime._internal.format.JPEG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime._internal.format.JPEG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime._internal.format.PNG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime._internal.format.PNG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.stitch.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.stitch.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.gif",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.gif",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.webp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/.webp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/haxe.io.Bytes",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/haxe.io.Bytes",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/library.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/lime.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/openfl.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello/openfl.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnf/garcello.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:11:33.923Z"
+}

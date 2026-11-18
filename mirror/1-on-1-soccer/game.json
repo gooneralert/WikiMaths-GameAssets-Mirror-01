@@ -1,0 +1,46 @@
+{
+  "slug": "1-on-1-soccer",
+  "title": "1 on 1 Soccer",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/1on1soccer/index.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/games/1on1soccer/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/1on1soccer/index.html",
+  "status": "done",
+  "sizeBytes": 15715757,
+  "assetCount": 15,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://unpkg.com/@ruffle-rs/ruffle/core.ruffle.16d61072ac7fdc4d5013.js",
+      "error": "EEXIST: file already exists, mkdir 'C:\\Users\\blake\\Downloads\\Obsidian\\store-offline\\games\\1-on-1-soccer\\__external__\\unpkg.com\\@ruffle-rs\\ruffle'",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T06:20:06.136Z",
+  "verifiedAt": "2026-11-17T06:20:16.535Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "1 on 1 Soccer",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.9644,
+    "rendered": true
+  }
+}

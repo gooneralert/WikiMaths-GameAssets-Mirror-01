@@ -1,0 +1,14 @@
+{
+  "/games/bloonstd2/bloonstd2.png": "/bloonstd2.png",
+  "/games/bloonstd2/btd2.swf": "/btd2.swf",
+  "/games/bloonstd2/c5c02c4e65c1c4423a97.wasm": "/c5c02c4e65c1c4423a97.wasm",
+  "/games/bloonstd2/index.html": "/index.html",
+  "/games/bloonstd2/ruffle.js": "/ruffle.js",
+  "/js/main.js": "/__site__/js/main.js",
+  "https://truffled.lol/games/bloonstd2/bloonstd2.png": "/bloonstd2.png",
+  "https://truffled.lol/games/bloonstd2/btd2.swf": "/btd2.swf",
+  "https://truffled.lol/games/bloonstd2/c5c02c4e65c1c4423a97.wasm": "/c5c02c4e65c1c4423a97.wasm",
+  "https://truffled.lol/games/bloonstd2/index.html": "/index.html",
+  "https://truffled.lol/games/bloonstd2/ruffle.js": "/ruffle.js",
+  "https://truffled.lol/js/main.js": "/__site__/js/main.js"
+}

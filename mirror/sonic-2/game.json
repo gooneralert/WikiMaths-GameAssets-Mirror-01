@@ -1,0 +1,97 @@
+{
+  "slug": "sonic-2",
+  "title": "Sonic 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/sonic2/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/sonic2/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/sonic2.webp",
+  "baseUrl": "https://truffled.lol/games/sonic2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/sonic2/index.html",
+  "status": "done",
+  "sizeBytes": 504467,
+  "assetCount": 7,
+  "known404": [
+    "https://cdn.emulatorjs.org/stable/data/shaders.js",
+    "https://cdn.emulatorjs.org/stable/data/storage.js",
+    "https://cdn.emulatorjs.org/stable/data/GameManager.js",
+    "https://cdn.emulatorjs.org/stable/data/gamepad.js",
+    "https://cdn.emulatorjs.org/stable/data/emulator.js",
+    "https://cdn.emulatorjs.org/stable/data/nipplejs.js",
+    "https://cdn.emulatorjs.org/stable/data/socket.io.min.js",
+    "https://cdn.emulatorjs.org/stable/data/.json",
+    "https://cdn.emulatorjs.org/stable/data/compression.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.emulatorjs.org/stable/data/shaders.js",
+      "error": "HTTP 404 for https://cdn.emulatorjs.org/stable/data/shaders.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.emulatorjs.org/stable/data/storage.js",
+      "error": "HTTP 404 for https://cdn.emulatorjs.org/stable/data/storage.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.emulatorjs.org/stable/data/GameManager.js",
+      "error": "HTTP 404 for https://cdn.emulatorjs.org/stable/data/GameManager.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.emulatorjs.org/stable/data/gamepad.js",
+      "error": "HTTP 404 for https://cdn.emulatorjs.org/stable/data/gamepad.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.emulatorjs.org/stable/data/emulator.js",
+      "error": "HTTP 404 for https://cdn.emulatorjs.org/stable/data/emulator.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.emulatorjs.org/stable/data/nipplejs.js",
+      "error": "HTTP 404 for https://cdn.emulatorjs.org/stable/data/nipplejs.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.emulatorjs.org/stable/data/socket.io.min.js",
+      "error": "HTTP 404 for https://cdn.emulatorjs.org/stable/data/socket.io.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.emulatorjs.org/stable/data/.json",
+      "error": "HTTP 404 for https://cdn.emulatorjs.org/stable/data/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.emulatorjs.org/stable/data/compression.js",
+      "error": "HTTP 404 for https://cdn.emulatorjs.org/stable/data/compression.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:08:56.558Z",
+  "verifiedAt": "2026-11-17T22:09:06.197Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "time-shooter-2",
+  "title": "Time Shooter 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/timeshooter2/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/timeshooter2/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/tim2.webp",
+  "baseUrl": "https://truffled.lol/games/timeshooter2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/timeshooter2/index.html",
+  "status": "done",
+  "sizeBytes": 9713398,
+  "assetCount": 32,
+  "known404": [
+    "https://truffled.lol/games/timeshooter2/fullscreen-button.png",
+    "https://truffled.lol/games/timeshooter2/dec/bit_reader.js",
+    "https://truffled.lol/games/timeshooter2/decompress.js",
+    "https://truffled.lol/games/timeshooter2/dec/decode.js",
+    "https://truffled.lol/games/timeshooter2/dec/dictionary.bin.js",
+    "https://truffled.lol/games/timeshooter2/dec/dictionary.js",
+    "https://truffled.lol/games/timeshooter2/dec/dictionary-browser.js",
+    "https://truffled.lol/games/timeshooter2/dictionary.bin.js",
+    "https://truffled.lol/games/timeshooter2/dec/prefix.js",
+    "https://truffled.lol/games/timeshooter2/dec/huffman.js",
+    "https://truffled.lol/games/timeshooter2/dec/streams.js",
+    "https://truffled.lol/games/timeshooter2/dec/transform.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/timeshooter2/fullscreen-button.png",
+      "error": "HTTP 404 for https://truffled.lol/games/timeshooter2/fullscreen-button.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/timeshooter2/dec/bit_reader.js",
+      "error": "HTTP 404 for https://truffled.lol/games/timeshooter2/dec/bit_reader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/timeshooter2/decompress.js",
+      "error": "HTTP 404 for https://truffled.lol/games/timeshooter2/decompress.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/timeshooter2/dec/decode.js",
+      "error": "HTTP 404 for https://truffled.lol/games/timeshooter2/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/timeshooter2/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://truffled.lol/games/timeshooter2/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/timeshooter2/dec/dictionary.js",
+      "error": "HTTP 404 for https://truffled.lol/games/timeshooter2/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/timeshooter2/dec/dictionary-browser.js",
+      "error": "HTTP 404 for https://truffled.lol/games/timeshooter2/dec/dictionary-browser.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/timeshooter2/dictionary.bin.js",
+      "error": "HTTP 404 for https://truffled.lol/games/timeshooter2/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/timeshooter2/dec/prefix.js",
+      "error": "HTTP 404 for https://truffled.lol/games/timeshooter2/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/timeshooter2/dec/huffman.js",
+      "error": "HTTP 404 for https://truffled.lol/games/timeshooter2/dec/huffman.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/timeshooter2/dec/streams.js",
+      "error": "HTTP 404 for https://truffled.lol/games/timeshooter2/dec/streams.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/timeshooter2/dec/transform.js",
+      "error": "HTTP 404 for https://truffled.lol/games/timeshooter2/dec/transform.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T01:06:29.415Z",
+  "verifiedAt": "2026-11-18T01:07:36.587Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Time Shooter 2 | DachXD",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9974,
+    "rendered": true
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "rooftop-snipers",
+  "title": "Rooftop Snipers",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/rooftop-snipers/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/rooftop-snipers/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/roof2.webp",
+  "baseUrl": "https://truffled.lol/games/rooftop-snipers/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/rooftop-snipers/index.html",
+  "status": "done",
+  "sizeBytes": 8504719,
+  "assetCount": 29,
+  "known404": [
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/progressEmpty.Light.png",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/progressLogo.Light.png",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/progressFull.Light.png",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/fullscreen.png",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/webgl-logo.png",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/utils/strings.js",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/constants.js",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/messages.js",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/inflate.js",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/zstream.js",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/inftrees.js",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/dec/decode.js",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/dec/prefix.js",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/dec/dictionary.bin.js",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/dec/streams.js",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/dec/transform.js",
+    "https://truffled.lol/games/rooftop-snipers/TemplateData/dec/dictionary.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/progressEmpty.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/progressEmpty.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/progressLogo.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/progressLogo.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/progressFull.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/progressFull.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/fullscreen.png",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/fullscreen.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/webgl-logo.png",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/utils/strings.js",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/constants.js",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/messages.js",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/inflate.js",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/zstream.js",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/inftrees.js",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/zlib/inftrees.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/dec/decode.js",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/dec/prefix.js",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/dec/streams.js",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/dec/streams.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/dec/transform.js",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/dec/transform.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rooftop-snipers/TemplateData/dec/dictionary.js",
+      "error": "HTTP 404 for https://truffled.lol/games/rooftop-snipers/TemplateData/dec/dictionary.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T20:08:51.041Z",
+  "verifiedAt": "2026-11-17T20:09:57.317Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Rooftop Snipers",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9495,
+    "rendered": true
+  }
+}

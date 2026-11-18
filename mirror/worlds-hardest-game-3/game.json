@@ -1,0 +1,70 @@
+{
+  "slug": "worlds-hardest-game-3",
+  "title": "Worlds Hardest Game 3",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/worlds-hardest-game-3/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/worlds-hardest-game-3/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/3.webp",
+  "baseUrl": "https://truffled.lol/games/worlds-hardest-game-3/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/worlds-hardest-game-3/index.html",
+  "status": "done",
+  "sizeBytes": 3252076,
+  "assetCount": 86,
+  "known404": [
+    "https://truffled.lol/games/worlds-hardest-game-3/images/main_menu_play_game.png",
+    "https://truffled.lol/games/worlds-hardest-game-3/images/main_menu_load_game.png",
+    "https://truffled.lol/games/worlds-hardest-game-3/images/main_menu_more_games.png",
+    "https://truffled.lol/games/worlds-hardest-game-3/images/main_menu_level_select.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/worlds-hardest-game-3/images/main_menu_play_game.png",
+      "error": "HTTP 404 for https://truffled.lol/games/worlds-hardest-game-3/images/main_menu_play_game.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/worlds-hardest-game-3/images/main_menu_load_game.png",
+      "error": "HTTP 404 for https://truffled.lol/games/worlds-hardest-game-3/images/main_menu_load_game.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/worlds-hardest-game-3/images/main_menu_more_games.png",
+      "error": "HTTP 404 for https://truffled.lol/games/worlds-hardest-game-3/images/main_menu_more_games.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/worlds-hardest-game-3/images/main_menu_level_select.png",
+      "error": "HTTP 404 for https://truffled.lol/games/worlds-hardest-game-3/images/main_menu_level_select.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T05:35:20.345Z",
+  "verifiedAt": "2026-11-18T05:35:30.070Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Words Hardest Game 3 Unblocked - ClassRoom6x",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 900,
+      "height": 600
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0112,
+    "rendered": true
+  }
+}

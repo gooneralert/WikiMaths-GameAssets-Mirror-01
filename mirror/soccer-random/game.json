@@ -1,0 +1,100 @@
+{
+  "slug": "soccer-random",
+  "title": "Soccer Random",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/soccer-random/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/soccer-random/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/soccerra.webp",
+  "baseUrl": "https://truffled.lol/games/soccer-random/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/soccer-random/index.html",
+  "status": "done",
+  "sizeBytes": 2346977,
+  "assetCount": 110,
+  "known404": [
+    "https://truffled.lol/games/soccer-random/splash.png",
+    "https://truffled.lol/games/soccer-random/style.css",
+    "https://truffled.lol/games/soccer-random/scripts/sw.js",
+    "https://truffled.lol/games/soccer-random/scripts/scripts/c3runtime.js",
+    "https://truffled.lol/games/soccer-random/scripts/workermain.js",
+    "https://truffled.lol/games/soccer-random/Box2D_v2.3.1_min.wasm.wasm",
+    "https://truffled.lol/games/soccer-random/Box2D_v2.3.1_min.wasm.js.mem",
+    "https://truffled.lol/games/soccer-random/Box2D_v2.3.1_min.wasm.temp.asm.js",
+    "https://truffled.lol/games/soccer-random/scripts/box2d.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/soccer-random/splash.png",
+      "error": "HTTP 404 for https://truffled.lol/games/soccer-random/splash.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccer-random/style.css",
+      "error": "HTTP 404 for https://truffled.lol/games/soccer-random/style.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccer-random/scripts/sw.js",
+      "error": "HTTP 404 for https://truffled.lol/games/soccer-random/scripts/sw.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccer-random/scripts/scripts/c3runtime.js",
+      "error": "HTTP 404 for https://truffled.lol/games/soccer-random/scripts/scripts/c3runtime.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccer-random/scripts/workermain.js",
+      "error": "HTTP 404 for https://truffled.lol/games/soccer-random/scripts/workermain.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccer-random/Box2D_v2.3.1_min.wasm.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/soccer-random/Box2D_v2.3.1_min.wasm.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccer-random/Box2D_v2.3.1_min.wasm.js.mem",
+      "error": "HTTP 404 for https://truffled.lol/games/soccer-random/Box2D_v2.3.1_min.wasm.js.mem",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccer-random/Box2D_v2.3.1_min.wasm.temp.asm.js",
+      "error": "HTTP 404 for https://truffled.lol/games/soccer-random/Box2D_v2.3.1_min.wasm.temp.asm.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccer-random/scripts/box2d.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/soccer-random/scripts/box2d.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:05:49.303Z",
+  "verifiedAt": "2026-11-17T22:06:55.608Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Soccer Random",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9886,
+    "rendered": true
+  }
+}

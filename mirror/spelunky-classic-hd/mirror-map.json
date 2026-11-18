@@ -1,0 +1,12 @@
+{
+  "/gamefile/spelunky.html": "/spelunky.html",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/favicon.ico": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/favicon.ico",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/game.unx": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/game.unx",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/manifest.json": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/manifest.json",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/runner.data": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/runner.data",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/runner.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/runner.js",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/runner.wasm": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/runner.wasm",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/setup.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/setup.js",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/style.css": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/style.css",
+  "https://truffled.lol/gamefile/spelunky.html": "/spelunky.html"
+}

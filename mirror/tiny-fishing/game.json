@@ -1,0 +1,64 @@
+{
+  "slug": "tiny-fishing",
+  "title": "Tiny Fishing",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/tiny-fishing/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/tiny-fishing/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/tiny.webp",
+  "baseUrl": "https://truffled.lol/games/tiny-fishing/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/tiny-fishing/index.html",
+  "status": "done",
+  "sizeBytes": 3613435,
+  "assetCount": 95,
+  "known404": [
+    "https://truffled.lol/poki-sdk.js",
+    "https://truffled.lol/inlineDelivery/delivery.min.gz.js",
+    "https://truffled.lol/games/tiny-fishing/html5game/download.gif"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/poki-sdk.js",
+      "error": "HTTP 404 for https://truffled.lol/poki-sdk.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/inlineDelivery/delivery.min.gz.js",
+      "error": "HTTP 404 for https://truffled.lol/inlineDelivery/delivery.min.gz.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/tiny-fishing/html5game/download.gif",
+      "error": "HTTP 404 for https://truffled.lol/games/tiny-fishing/html5game/download.gif",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T01:11:56.056Z",
+  "verifiedAt": "2026-11-18T01:12:05.716Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Tiny Fishing",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

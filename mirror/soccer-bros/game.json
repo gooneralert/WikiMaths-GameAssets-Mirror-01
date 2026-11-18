@@ -1,0 +1,973 @@
+{
+  "slug": "soccer-bros",
+  "title": "Soccer Bros",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/soccerbros/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/soccerbros/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/soccer.webp",
+  "baseUrl": "https://truffled.lol/games/soccerbros/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/soccerbros/index.html",
+  "status": "done",
+  "sizeBytes": 16103808,
+  "assetCount": 398,
+  "known404": [
+    "https://truffled.lol/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+    "https://truffled.lol/ss3.jpg",
+    "https://truffled.lol/ss2.jpg",
+    "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://truffled.lol/games/soccerbros/assets/audio/theme.mp3",
+    "https://truffled.lol/games/soccerbros/assets/audio/theme_arena.mp3",
+    "https://truffled.lol/games/soccerbros/assets/audio/theme_select.mp3",
+    "https://truffled.lol/games/soccerbros/assets/audio/ball_hit.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/announcer_slide.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/ball_hit_2.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/bounce.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/buzzer.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/chirp.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/countdown.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/crowd_boo.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/crowd_clapping.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/crowd_cpu_score.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/crowd_human_score.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/crowd_roar.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/firework_explode.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/foot2.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/foot1.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/gameover1.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/gameover2.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/gameover3.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/gameover4.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/goal1.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/goal2_f.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/goal2.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/goal3.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/goal4.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/header1_f.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/goal5.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/header1.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/header2.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/header3.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/header4_f.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/header4.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/horn.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/intro_ramp.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/jump.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/kickoff3.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/kickoff1.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/kickoff2.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/kickoff4.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/kickoff5.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/land.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/miss1.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/miss2.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/miss3.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/miss4.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/miss5.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/organic_whoosh_07.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/penalty1.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/penalty3.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/penalty2.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pmiss1.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/penalty4.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pmiss1_f.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pmiss2.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pmiss2_f.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pmiss3_f.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pmiss3.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pscore1.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pmiss4.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pop.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pscore2.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pscore1_f.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pscore2_f.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pscore4.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pscore3.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/punch.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/save2.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/pscore4_f.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/save3.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/save1.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/save5.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/save4.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/select.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/shoots.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/skill1.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/skill3.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/skill2.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/skill3_f.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/skill4.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/smash.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/skill5.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/tackle1.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/swish.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/tackle2.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/tackle3.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/tackle4.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/theme_select.wav",
+    "https://truffled.lol/games/soccerbros/assets/audio/whistle.wav",
+    "https://truffled.lol/games/soccerbros/_MASK.jpg",
+    "https://truffled.lol/games/soccerbros/hxjson2.JSON",
+    "https://truffled.lol/games/soccerbros/library.json",
+    "https://edge.atmtd.com/pub/vntsm/afihbs.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array.iterator.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.slice.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint8-array.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.set.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.sort.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.at.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.to-locale-string.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint16-array.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.constructor.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.test.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.exec.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.to-string.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.split.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.replace.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.json.stringify.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.includes.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.match.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/.min.css",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.symbol.description.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.error.cause.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.promise.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/web.dom-collections.iterator.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/externals/omweb-v1.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.dot-all.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.constructor.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,n.map?",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/hls/.mp3",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,pi.encodings_pars_fragment,n.map?us(",
+    "https://www.gstatic.com/cast_sender.js",
+    "https://cdn.radiantmediatechs.com/rmp-vast/js/src/index.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "error": "HTTP 404 for https://truffled.lol/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/SSK/soccerbros.gg/AdInPlay/a9_display_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/SSK/soccerbros.gg/AdInPlay/a9_display_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/SSK/soccerbros.gg/AdInPlay/a9_video_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/SSK/soccerbros.gg/AdInPlay/a9_video_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/SSK/soccerbros.gg/cdn-ihb.33across.com/ihbloader.js",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/SSK/soccerbros.gg/cdn-ihb.33across.com/ihbloader.js",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/ss3.jpg",
+      "error": "HTTP 404 for https://truffled.lol/ss3.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/ss2.jpg",
+      "error": "HTTP 404 for https://truffled.lol/ss2.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/===e.data?.type&&this.#au.postMessage(e.data.msg,",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/===e.data?.type&&this.#au.postMessage(e.data.msg,",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/Node.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/Node.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/ext.data",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/ext.data",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/debugging-standalone.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/debugging-standalone.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/events.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/events.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/prebid.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/prebid.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/.js",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/theme.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/theme.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/theme_arena.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/theme_arena.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/theme_select.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/theme_select.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/ball_hit.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/ball_hit.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/announcer_slide.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/announcer_slide.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/ball_hit_2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/ball_hit_2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/bounce.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/bounce.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/buzzer.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/buzzer.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/chirp.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/chirp.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/countdown.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/countdown.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/crowd_boo.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/crowd_boo.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/crowd_clapping.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/crowd_clapping.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/crowd_cpu_score.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/crowd_cpu_score.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/crowd_human_score.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/crowd_human_score.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/crowd_roar.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/crowd_roar.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/firework_explode.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/firework_explode.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/foot2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/foot2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/foot1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/foot1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://soccerbrosgg/sbros_364x180.png",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/gameover1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/gameover1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/gameover2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/gameover2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/gameover3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/gameover3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/gameover4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/gameover4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/goal1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/goal1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/goal2_f.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/goal2_f.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/goal2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/goal2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/goal3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/goal3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/goal4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/goal4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/header1_f.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/header1_f.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/goal5.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/goal5.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/header1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/header1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/header2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/header2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/header3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/header3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/header4_f.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/header4_f.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/header4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/header4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/horn.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/horn.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/intro_ramp.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/intro_ramp.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/jump.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/jump.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/kickoff3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/kickoff3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/kickoff1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/kickoff1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/kickoff2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/kickoff2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/kickoff4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/kickoff4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/kickoff5.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/kickoff5.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/land.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/land.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/miss1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/miss1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/miss2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/miss2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/miss3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/miss3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/miss4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/miss4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/miss5.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/miss5.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/organic_whoosh_07.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/organic_whoosh_07.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/penalty1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/penalty1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/penalty3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/penalty3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/penalty2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/penalty2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pmiss1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pmiss1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/penalty4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/penalty4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pmiss1_f.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pmiss1_f.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pmiss2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pmiss2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pmiss2_f.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pmiss2_f.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pmiss3_f.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pmiss3_f.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pmiss3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pmiss3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pscore1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pscore1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pmiss4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pmiss4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pop.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pop.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pscore2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pscore2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pscore1_f.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pscore1_f.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pscore2_f.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pscore2_f.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pscore4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pscore4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pscore3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pscore3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/punch.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/punch.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/save2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/save2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/pscore4_f.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/pscore4_f.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/save3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/save3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/save1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/save1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/save5.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/save5.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/save4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/save4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/select.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/select.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/shoots.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/shoots.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/skill1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/skill1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/skill3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/skill3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/skill2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/skill2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/skill3_f.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/skill3_f.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/skill4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/skill4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/smash.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/smash.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/skill5.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/skill5.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/tackle1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/tackle1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/swish.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/swish.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/tackle2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/tackle2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/tackle3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/tackle3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/tackle4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/tackle4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/theme_select.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/theme_select.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/assets/audio/whistle.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/assets/audio/whistle.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/_MASK.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/_MASK.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/hxjson2.JSON",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/hxjson2.JSON",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soccerbros/library.json",
+      "error": "HTTP 404 for https://truffled.lol/games/soccerbros/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://edge.venatusmedia.com/events?tenantId=2&accountId=458&siteId=14283&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=e3eae3d5-bb5c-43fb-855d-2a823bf8d623&geo=&device=desktop&isBot=0&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&eventName=page_load&delayTime=8072",
+      "error": "No response body for https://edge.venatusmedia.com/events?tenantId=2&accountId=458&siteId=14283&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=e3eae3d5-bb5c-43fb-855d-2a823bf8d623&geo=&device=desktop&isBot=0&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&eventName=page_load&delayTime=8072",
+      "status": 0
+    },
+    {
+      "url": "https://edge.venatusmedia.com/events?tenantId=2&accountId=458&siteId=14283&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=e3eae3d5-bb5c-43fb-855d-2a823bf8d623&geo=AU&device=desktop&isBot=0&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&eventName=page_load_detailed&delayTime=8075",
+      "error": "No response body for https://edge.venatusmedia.com/events?tenantId=2&accountId=458&siteId=14283&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=e3eae3d5-bb5c-43fb-855d-2a823bf8d623&geo=AU&device=desktop&isBot=0&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&eventName=page_load_detailed&delayTime=8075",
+      "status": 0
+    },
+    {
+      "url": "https://rp.liadm.com/p?dtstmp=1794952989325&did=did-006r&se=e30&duid=c6f1e2b657fd--01m7nqzts10t0ad0z456byap1w&tv=11.50.0&pu=https%3A%2F%2Ftruffled.lol%2Fgames%2Fsoccerbros%2Findex.html&ae=eyJtZXNzYWdlIjoiIiwibmFtZSI6IkFqYXhGYWlsZWQiLCJzdGFja1RyYWNlIjoiQWpheEZhaWxlZFxuICAgIGF0IHYgKGh0dHBzOi8vYXBpLmFkaW5wbGF5LmNvbS92NC9saXZlL2FpcC8yMjI1OS5qczoxOjgxMTkpXG4gICAgYXQgeC5lbWl0RXJyb3IgKGh0dHBzOi8vYXBpLmFkaW5wbGF5LmNvbS8uLi4iLCJmaWxlTmFtZSI6InVuZGVmaW5lZCJ9&wpn=prebid&cd=.truffled.lol",
+      "error": "No response body for https://rp.liadm.com/p?dtstmp=1794952989325&did=did-006r&se=e30&duid=c6f1e2b657fd--01m7nqzts10t0ad0z456byap1w&tv=11.50.0&pu=https%3A%2F%2Ftruffled.lol%2Fgames%2Fsoccerbros%2Findex.html&ae=eyJtZXNzYWdlIjoiIiwibmFtZSI6IkFqYXhGYWlsZWQiLCJzdGFja1RyYWNlIjoiQWpheEZhaWxlZFxuICAgIGF0IHYgKGh0dHBzOi8vYXBpLmFkaW5wbGF5LmNvbS92NC9saXZlL2FpcC8yMjI1OS5qczoxOjgxMTkpXG4gICAgYXQgeC5lbWl0RXJyb3IgKGh0dHBzOi8vYXBpLmFkaW5wbGF5LmNvbS8uLi4iLCJmaWxlTmFtZSI6InVuZGVmaW5lZCJ9&wpn=prebid&cd=.truffled.lol",
+      "status": 0
+    },
+    {
+      "url": "https://rp.liadm.com/p?dtstmp=1794952989324&did=did-006r&se=e30&duid=c6f1e2b657fd--01m7nqzts10t0ad0z456byap1w&tv=11.50.0&pu=https%3A%2F%2Ftruffled.lol%2Fgames%2Fsoccerbros%2Findex.html&wpn=prebid&cd=.truffled.lol",
+      "error": "No response body for https://rp.liadm.com/p?dtstmp=1794952989324&did=did-006r&se=e30&duid=c6f1e2b657fd--01m7nqzts10t0ad0z456byap1w&tv=11.50.0&pu=https%3A%2F%2Ftruffled.lol%2Fgames%2Fsoccerbros%2Findex.html&wpn=prebid&cd=.truffled.lol",
+      "status": 0
+    },
+    {
+      "url": "https://edge.atmtd.com/pub/vntsm/afihbs.js",
+      "error": "HTTP 404 for https://edge.atmtd.com/pub/vntsm/afihbs.js",
+      "status": 404
+    },
+    {
+      "url": "https://edge.venatusmedia.com/events?tenantId=2&accountId=458&siteId=14283&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=e3eae3d5-bb5c-43fb-855d-2a823bf8d623&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=9318&configId=8085&instanceId=0&executionCount=1&renderCount=1&renderer=none&eventName=iab_viewable&isEmpty=1&delayTime=7093",
+      "error": "No response body for https://edge.venatusmedia.com/events?tenantId=2&accountId=458&siteId=14283&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=e3eae3d5-bb5c-43fb-855d-2a823bf8d623&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=9318&configId=8085&instanceId=0&executionCount=1&renderCount=1&renderer=none&eventName=iab_viewable&isEmpty=1&delayTime=7093",
+      "status": 0
+    },
+    {
+      "url": "https://floors.atmtd.com/floors.json?dist=vntsm",
+      "error": "HTTP 400 for https://floors.atmtd.com/floors.json?dist=vntsm",
+      "status": 400
+    },
+    {
+      "url": "https://floors.atmtd.com/adx-floors.js?pubID=vntsm",
+      "error": "HTTP 400 for https://floors.atmtd.com/adx-floors.js?pubID=vntsm",
+      "status": 400
+    },
+    {
+      "url": "https://edge.venatusmedia.com/events?tenantId=2&accountId=458&siteId=14283&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=e3eae3d5-bb5c-43fb-855d-2a823bf8d623&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=9319&configId=8086&instanceId=1&executionCount=1&renderCount=1&renderer=none&eventName=iab_viewable&isEmpty=1&delayTime=7091",
+      "error": "No response body for https://edge.venatusmedia.com/events?tenantId=2&accountId=458&siteId=14283&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=e3eae3d5-bb5c-43fb-855d-2a823bf8d623&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=9319&configId=8086&instanceId=1&executionCount=1&renderCount=1&renderer=none&eventName=iab_viewable&isEmpty=1&delayTime=7091",
+      "status": 0
+    },
+    {
+      "url": "https://edge.venatusmedia.com/events?tenantId=2&accountId=458&siteId=14283&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=e3eae3d5-bb5c-43fb-855d-2a823bf8d623&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=9318&configId=8085&instanceId=0&executionCount=2&renderCount=2&renderer=none&eventName=iab_viewable&isEmpty=1&delayTime=7032",
+      "error": "No response body for https://edge.venatusmedia.com/events?tenantId=2&accountId=458&siteId=14283&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=e3eae3d5-bb5c-43fb-855d-2a823bf8d623&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=9318&configId=8085&instanceId=0&executionCount=2&renderCount=2&renderer=none&eventName=iab_viewable&isEmpty=1&delayTime=7032",
+      "status": 0
+    },
+    {
+      "url": "https://edge.venatusmedia.com/events?tenantId=2&accountId=458&siteId=14283&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=e3eae3d5-bb5c-43fb-855d-2a823bf8d623&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=9319&configId=8086&instanceId=1&executionCount=2&renderCount=2&renderer=none&eventName=iab_viewable&isEmpty=1&delayTime=7031",
+      "error": "No response body for https://edge.venatusmedia.com/events?tenantId=2&accountId=458&siteId=14283&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=e3eae3d5-bb5c-43fb-855d-2a823bf8d623&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=9319&configId=8086&instanceId=1&executionCount=2&renderCount=2&renderer=none&eventName=iab_viewable&isEmpty=1&delayTime=7031",
+      "status": 0
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/user.data",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/user.data",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/===o.data?o.data=f.K2:o.data&&",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/===o.data?o.data=f.K2:o.data&&",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/nativeOrtbRequest.assets",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/nativeOrtbRequest.assets",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array.iterator.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array.iterator.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.slice.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.slice.js",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/Prebid.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/Prebid.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint8-array.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint8-array.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.set.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.set.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.sort.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.sort.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.at.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.at.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.to-locale-string.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.to-locale-string.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint16-array.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint16-array.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.constructor.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.constructor.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.test.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.test.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.exec.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.exec.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.to-string.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.to-string.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.split.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.split.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.replace.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.replace.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.json.stringify.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.json.stringify.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.includes.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.includes.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.match.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.match.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/.min.css",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.symbol.description.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.symbol.description.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.error.cause.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.error.cause.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.promise.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.promise.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/web.dom-collections.iterator.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/web.dom-collections.iterator.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/externals/omweb-v1.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/externals/omweb-v1.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.dot-all.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.dot-all.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.constructor.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.constructor.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,n.map?",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,n.map?",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/hls/.mp3",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/hls/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,pi.encodings_pars_fragment,n.map?us(",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,pi.encodings_pars_fragment,n.map?us(",
+      "status": 404
+    },
+    {
+      "url": "https://www.gstatic.com/cast_sender.js",
+      "error": "HTTP 404 for https://www.gstatic.com/cast_sender.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp-vast/js/src/index.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp-vast/js/src/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.streamroot.io/hlsjs-dna-wrapper/1/stable/hlsjs-dna-wrapper.js",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://cdn.streamroot.io/shakaplayer-dna-wrapper/1/stable/shakaplayer-dna-wrapper.js",
+      "error": "fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:04:22.231Z",
+  "verifiedAt": "2026-11-17T22:04:32.390Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 293,
+    "title": "Soccer Bros | Official Site",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0075,
+    "rendered": true
+  }
+}

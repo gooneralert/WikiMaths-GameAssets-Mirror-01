@@ -1,0 +1,228 @@
+{
+  "slug": "the-legend-of-zelda-the-minish-cap",
+  "title": "The Legend of Zelda: The Minish Cap",
+  "type": "Emulation",
+  "developer": "Nintendo",
+  "description": "When the sorcerer Vaati turns Princess Zelda to stone the King of Hyrule sends Link on a quest that will take him to places he's never imagined. Using the power of a mystical hat called the Minish Cap, the Hylian hero will shrink down for a massive quest... on a microscopic scale!",
+  "tags": [
+    "Action-Adventure",
+    "Adventure",
+    "Fantasy",
+    "Pixel Graphics",
+    "Indie",
+    "Retro"
+  ],
+  "controls": [
+    {
+      "action": "Up",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        }
+      ]
+    },
+    {
+      "action": "Down",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        }
+      ]
+    },
+    {
+      "action": "Left",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        }
+      ]
+    },
+    {
+      "action": "Right",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        }
+      ]
+    },
+    {
+      "action": "A",
+      "keys": [
+        {
+          "key": "KeyZ",
+          "keyCode": 90
+        }
+      ]
+    },
+    {
+      "action": "B",
+      "keys": [
+        {
+          "key": "KeyX",
+          "keyCode": 88
+        }
+      ]
+    },
+    {
+      "action": "L",
+      "keys": [
+        {
+          "key": "KeyQ",
+          "keyCode": 81
+        }
+      ]
+    },
+    {
+      "action": "R",
+      "keys": [
+        {
+          "key": "KeyE",
+          "keyCode": 69
+        }
+      ]
+    },
+    {
+      "action": "Select",
+      "keys": [
+        {
+          "key": "KeyV",
+          "keyCode": 86
+        }
+      ]
+    },
+    {
+      "action": "Enter",
+      "keys": [
+        {
+          "key": "Enter",
+          "keyCode": 13
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Up",
+      "buttons": [
+        12
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Down",
+      "buttons": [
+        13
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Left",
+      "buttons": [
+        14
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Right",
+      "buttons": [
+        15
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "A",
+      "buttons": [
+        0
+      ]
+    },
+    {
+      "action": "B",
+      "buttons": [
+        1,
+        2
+      ]
+    },
+    {
+      "action": "L",
+      "buttons": [
+        4
+      ]
+    },
+    {
+      "action": "R",
+      "buttons": [
+        5
+      ]
+    },
+    {
+      "action": "Select",
+      "buttons": [
+        8
+      ]
+    },
+    {
+      "action": "Enter",
+      "buttons": [
+        9
+      ]
+    }
+  ],
+  "controllerSupport": false,
+  "sourceId": "18f75fb2-6614-4ee9-88b5-a32c8f36b9ee",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/emulation/18f75fb2-6614-4ee9-88b5-a32c8f36b9ee/1/18f75fb2-6614-4ee9-88b5-a32c8f36b9ee.gba",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 16777216,
+  "files": [
+    "rom.gba",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local EmulatorJS runtime.",
+  "mirroredAt": "2026-10-26T09:29:49.726Z",
+  "verifiedAt": "2026-11-16T16:13:17.916Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "The Legend of Zelda: The Minish Cap",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.7431,
+    "rendered": true
+  },
+  "assetCount": 0
+}

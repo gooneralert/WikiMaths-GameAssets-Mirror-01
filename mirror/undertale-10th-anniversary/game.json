@@ -1,0 +1,64 @@
+{
+  "slug": "undertale-10th-anniversary",
+  "title": "Undertale 10th Anniversary",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/10th/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/10th/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/undertale10.webp",
+  "baseUrl": "https://truffled.lol/games/10th/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/10th/index.html",
+  "status": "done",
+  "sizeBytes": 12336214,
+  "assetCount": 26,
+  "known404": [
+    "https://truffled.lol/games/10th/audio-worklet.js",
+    "https://truffled.lol/games/10th/datafile_runner.data",
+    "https://truffled.lol/images/AvatarPlaceholder.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/10th/audio-worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/10th/audio-worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/10th/datafile_runner.data",
+      "error": "HTTP 404 for https://truffled.lol/games/10th/datafile_runner.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/images/AvatarPlaceholder.png",
+      "error": "HTTP 404 for https://truffled.lol/images/AvatarPlaceholder.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T03:03:42.919Z",
+  "verifiedAt": "2026-11-18T03:04:49.363Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "UNDERTALE 10th Anniversary",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 640,
+      "height": 480
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.1132,
+    "rendered": true
+  }
+}

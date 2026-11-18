@@ -1,0 +1,124 @@
+{
+  "slug": "volley-random",
+  "title": "Volley Random",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/volley-random/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/volley-random/index.html",
+  "sourceThumbnail": "https://truffled.lol/games/volley-random/splash.png",
+  "baseUrl": "https://truffled.lol/games/volley-random/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/volley-random/index.html",
+  "status": "done",
+  "sizeBytes": 2440832,
+  "assetCount": 144,
+  "known404": [
+    "https://truffled.lol/workermain.js",
+    "https://truffled.lol/games/volley-random/scripts/workermain.js",
+    "https://truffled.lol/games/volley-random/scripts/scripts/c3runtime.js",
+    "https://truffled.lol/games/volley-random/Box2D_v2.3.1_min.wasm.wasm",
+    "https://truffled.lol/games/volley-random/scripts/sw.js",
+    "https://truffled.lol/games/volley-random/Box2D_v2.3.1_min.wasm.temp.asm.js",
+    "https://truffled.lol/games/volley-random/scripts/opus.wasm.temp.asm.js",
+    "https://truffled.lol/games/volley-random/scripts/opus.wasm.js.mem",
+    "https://truffled.lol/games/volley-random/Box2D_v2.3.1_min.wasm.js.mem",
+    "https://truffled.lol/games/volley-random/scripts/splash-images/splash-poweredby-512.png",
+    "https://truffled.lol/games/volley-random/scripts/splash-images/splash-website-512.png",
+    "https://truffled.lol/games/volley-random/scripts/splash-images/splash-logo.svg",
+    "https://truffled.lol/games/volley-random/scripts/box2d.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/workermain.js",
+      "error": "HTTP 404 for https://truffled.lol/workermain.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/volley-random/scripts/workermain.js",
+      "error": "HTTP 404 for https://truffled.lol/games/volley-random/scripts/workermain.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/volley-random/scripts/scripts/c3runtime.js",
+      "error": "HTTP 404 for https://truffled.lol/games/volley-random/scripts/scripts/c3runtime.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/volley-random/Box2D_v2.3.1_min.wasm.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/volley-random/Box2D_v2.3.1_min.wasm.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/volley-random/scripts/sw.js",
+      "error": "HTTP 404 for https://truffled.lol/games/volley-random/scripts/sw.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/volley-random/Box2D_v2.3.1_min.wasm.temp.asm.js",
+      "error": "HTTP 404 for https://truffled.lol/games/volley-random/Box2D_v2.3.1_min.wasm.temp.asm.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/volley-random/scripts/opus.wasm.temp.asm.js",
+      "error": "HTTP 404 for https://truffled.lol/games/volley-random/scripts/opus.wasm.temp.asm.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/volley-random/scripts/opus.wasm.js.mem",
+      "error": "HTTP 404 for https://truffled.lol/games/volley-random/scripts/opus.wasm.js.mem",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/volley-random/Box2D_v2.3.1_min.wasm.js.mem",
+      "error": "HTTP 404 for https://truffled.lol/games/volley-random/Box2D_v2.3.1_min.wasm.js.mem",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/volley-random/scripts/splash-images/splash-poweredby-512.png",
+      "error": "HTTP 404 for https://truffled.lol/games/volley-random/scripts/splash-images/splash-poweredby-512.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/volley-random/scripts/splash-images/splash-website-512.png",
+      "error": "HTTP 404 for https://truffled.lol/games/volley-random/scripts/splash-images/splash-website-512.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/volley-random/scripts/splash-images/splash-logo.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/volley-random/scripts/splash-images/splash-logo.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/volley-random/scripts/box2d.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/volley-random/scripts/box2d.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T03:18:05.703Z",
+  "verifiedAt": "2026-11-18T03:19:11.921Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Volley Random",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9889,
+    "rendered": true
+  }
+}

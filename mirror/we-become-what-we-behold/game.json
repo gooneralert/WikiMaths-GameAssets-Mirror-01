@@ -1,0 +1,455 @@
+{
+  "slug": "we-become-what-we-behold",
+  "title": "We Become What We behold",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/wbwwb.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/wbwwb.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/wbwwb.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/wbwwb.html",
+  "entryUrl": "https://truffled.lol/gamefile/wbwwb.html",
+  "status": "done",
+  "sizeBytes": 1059144,
+  "assetCount": 104,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/core/.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/core/.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/core/.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/core/.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/bg.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/bg.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/cam/cam-instructions.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/cam/cam-instructions.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/bg_dark.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/bg_dark.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/cam/cam.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/cam/cam.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sounds/cam_snap.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sounds/cam_snap.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/cam/cam-flash.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/cam/cam-flash.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sounds/crickets.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sounds/crickets.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sounds/breaking_news.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sounds/breaking_news.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/chyron.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/chyron.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/snow.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/snow.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/tv.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/tv.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/chyron2.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/chyron2.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/chyron3.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/chyron3.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/peeps/gore.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/peeps/gore.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/body.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/body.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/laptop.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/laptop.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/peeps/blood.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/peeps/blood.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/peeps/gore_bodies.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/game/sprites/peeps/gore_bodies.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/peep_hngh.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/peep_hngh.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/face.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/face.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/peep_gasp.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/peep_gasp.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/squeak.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/squeak.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/hat.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/hat.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/face_nervous.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/face_nervous.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/scream.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/scream.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/hangry.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/hangry.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/peep_huh.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/peep_huh.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/face_snobby_hmph.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/face_snobby_hmph.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/peep_hmph.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/peep_hmph.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/face_snobby.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/face_snobby.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/lovehat.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/lovehat.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/body_red.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/body_red.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/peace.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/peace.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/lover_shirt.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/lover_shirt.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/shout.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/shout.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/face_angry.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/face_angry.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/helping.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/helping.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/lover_panic.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/lover_panic.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/gun_cock.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/gun_cock.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/hatguy.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/hatguy.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/happy_weirdo.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/happy_weirdo.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/gun.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/gun.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/face_murder.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/face_murder.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/weapon_gun.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/weapon_gun.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/weapon_bat.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/weapon_bat.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/weapon_shotgun.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/weapon_shotgun.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/gunshot.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/gunshot.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/weapon_axe.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sprites/peeps/weapon_axe.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/misc/sprites/misc/cursor.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/misc/sprites/misc/cursor.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/misc/sprites/misc/candlelight.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/misc/sprites/misc/candlelight.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/shotgun.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/shotgun.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/misc/sprites/misc/lovers_watching.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/misc/sprites/misc/lovers_watching.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/impact.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/peeps/sounds/impact.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/misc/sprites/misc/cricket.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/misc/sprites/misc/cricket.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/bg_preload.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/bg_preload.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/bg_preload_2.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/bg_preload_2.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/quote/quote0001.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/quote/quote0001.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/quote/quote0003.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/quote/quote0003.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/quote/quote0002.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/quote/quote0002.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/misc/preload_play.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/misc/preload_play.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sounds/bg_park.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sounds/bg_park.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0001.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0001.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0002.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0002.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0003.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0003.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0004.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0004.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/quote/quote0004.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/quote/quote0004.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0005.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0005.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0007.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0007.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0008.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0008.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sounds/bg_nighttime.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sounds/bg_nighttime.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0006.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/credits/credits0006.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/bg_shade.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/bg_shade.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/postcredits/logo.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/postcredits/logo.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/postcredits/facebook.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/postcredits/facebook.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sounds/bg_panic.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sounds/bg_panic.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/postcredits/twitter.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/postcredits/twitter.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/postcredits/end_button.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/postcredits/end_button.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sounds/bg_creepy.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sounds/bg_creepy.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/quote/end_prototype.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sprites/quote/end_prototype.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sounds/gunshot.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/wbwwb@main/js/scenes/sounds/gunshot.mp3",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-18T03:24:40.907Z",
+  "verifiedAt": "2026-11-18T03:24:50.329Z",
+  "verification": {
+    "external": 4,
+    "blocking": 0,
+    "ignoredExternal": 4,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 960,
+      "height": 540
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0074,
+    "rendered": true
+  }
+}

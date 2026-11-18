@@ -1,0 +1,48 @@
+{
+  "slug": "the-worlda-s-hardest-game-2",
+  "title": "The Worldâs Hardest Game 2",
+  "type": "Flash",
+  "developer": "Stephen Critoph",
+  "description": "World's Hardest Game 2 is the second episode of the self-proclaimed world's hardest game series! Hone your reflexes and accuracy as you try to move your little block to the end of each stage without touching the obstacles. Doing so will bring you back to the start so you can try again. The difficulty goes up after every stage, so keep your focus and see how far you can get in the World's Hardest Game 2.",
+  "tags": [
+    "2D",
+    "Arcade",
+    "Difficult",
+    "Minimalist",
+    "Puzzle",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "1d44d099-582a-4287-a88c-750ca9305f02",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/1d44d099-582a-4287-a88c-750ca9305f02/1/1d44d099-582a-4287-a88c-750ca9305f02.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 2377358,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:54:27.468Z",
+  "verifiedAt": "2026-11-16T16:13:38.508Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "The Worldâs Hardest Game 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.6161,
+    "rendered": true
+  },
+  "assetCount": 0
+}

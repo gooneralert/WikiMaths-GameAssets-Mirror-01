@@ -1,0 +1,109 @@
+{
+  "slug": "new-super-mario-bros",
+  "title": "New Super Mario Bros",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/nsmb/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/nsmb/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/nsmb.webp",
+  "baseUrl": "https://truffled.lol/games/nsmb/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/nsmb/index.html",
+  "status": "done",
+  "sizeBytes": 528435,
+  "assetCount": 18,
+  "known404": [
+    "https://truffled.lol/games/nsmb/storage.js",
+    "https://truffled.lol/games/nsmb/nipplejs.js",
+    "https://truffled.lol/games/nsmb/emulator.js",
+    "https://truffled.lol/games/nsmb/shaders.js",
+    "https://truffled.lol/games/nsmb/gamepad.js",
+    "https://truffled.lol/games/nsmb/GameManager.js",
+    "https://truffled.lol/games/nsmb/socket.io.min.js",
+    "https://truffled.lol/games/nsmb/emulator.min.js",
+    "https://truffled.lol/games/nsmb/emulator.css",
+    "https://truffled.lol/games/nsmb/compression.js",
+    "https://truffled.lol/games/nsmb/emulator.min.css"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/nsmb/storage.js",
+      "error": "HTTP 404 for https://truffled.lol/games/nsmb/storage.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/nsmb/nipplejs.js",
+      "error": "HTTP 404 for https://truffled.lol/games/nsmb/nipplejs.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/nsmb/emulator.js",
+      "error": "HTTP 404 for https://truffled.lol/games/nsmb/emulator.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/nsmb/shaders.js",
+      "error": "HTTP 404 for https://truffled.lol/games/nsmb/shaders.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/nsmb/gamepad.js",
+      "error": "HTTP 404 for https://truffled.lol/games/nsmb/gamepad.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/nsmb/GameManager.js",
+      "error": "HTTP 404 for https://truffled.lol/games/nsmb/GameManager.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/nsmb/socket.io.min.js",
+      "error": "HTTP 404 for https://truffled.lol/games/nsmb/socket.io.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/nsmb/emulator.min.js",
+      "error": "HTTP 404 for https://truffled.lol/games/nsmb/emulator.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/nsmb/emulator.css",
+      "error": "HTTP 404 for https://truffled.lol/games/nsmb/emulator.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/nsmb/compression.js",
+      "error": "HTTP 404 for https://truffled.lol/games/nsmb/compression.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/nsmb/emulator.min.css",
+      "error": "HTTP 404 for https://truffled.lol/games/nsmb/emulator.min.css",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T14:41:56.282Z",
+  "verifiedAt": "2026-11-17T14:42:05.937Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

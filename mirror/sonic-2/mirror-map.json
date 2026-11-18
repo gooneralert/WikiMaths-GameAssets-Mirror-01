@@ -1,0 +1,9 @@
+{
+  "/games/sonic2/index.html": "/index.html",
+  "https://cdn.emulatorjs.org/stable/data/emulator.css": "/__external__/cdn.emulatorjs.org/stable/data/emulator.css",
+  "https://cdn.emulatorjs.org/stable/data/emulator.min.css": "/__external__/cdn.emulatorjs.org/stable/data/emulator.min.css",
+  "https://cdn.emulatorjs.org/stable/data/emulator.min.js": "/__external__/cdn.emulatorjs.org/stable/data/emulator.min.js",
+  "https://cdn.emulatorjs.org/stable/data/loader.js": "/__external__/cdn.emulatorjs.org/stable/data/loader.js",
+  "https://cdn.emulatorjs.org/stable/data/localization/en-US.json": "/__external__/cdn.emulatorjs.org/stable/data/localization/en-US.json",
+  "https://truffled.lol/games/sonic2/index.html": "/index.html"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "ten-basket",
+  "title": "Ten Basket",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/ten-basket/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/ten-basket/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/ten.webp",
+  "baseUrl": "https://truffled.lol/games/ten-basket/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/ten-basket/index.html",
+  "status": "done",
+  "sizeBytes": 2061441,
+  "assetCount": 63,
+  "known404": [
+    "https://truffled.lol/games/ten-basket/aW/p2.js",
+    "https://truffled.lol/games/ten-basket/p2.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/ten-basket/aW/p2.js",
+      "error": "HTTP 404 for https://truffled.lol/games/ten-basket/aW/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ten-basket/p2.js",
+      "error": "HTTP 404 for https://truffled.lol/games/ten-basket/p2.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T00:22:13.805Z",
+  "verifiedAt": "2026-11-18T00:22:24.595Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Ten Basket - Silvergames",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 800,
+      "height": 480
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9674,
+    "rendered": true
+  }
+}

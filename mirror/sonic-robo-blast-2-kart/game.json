@@ -1,0 +1,124 @@
+{
+  "slug": "sonic-robo-blast-2-kart",
+  "title": "Sonic Robo Blast 2 KART",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/kart/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/kart/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/kart.webp",
+  "baseUrl": "https://truffled.lol/games/kart/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/kart/index.html",
+  "status": "done",
+  "sizeBytes": 5057976,
+  "assetCount": 8,
+  "known404": [
+    "https://truffled.lol/games/kart/js/kart.js",
+    "https://truffled.lol/games/kart/js/index.js",
+    "https://truffled.lol/games/kart/js/polyfillReadableStreamAsyncIterator.js",
+    "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/css-loader/dist/runtime/api.js",
+    "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/css-loader/dist/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/postcss-loader/dist/cjs.js!./style.css",
+    "https://truffled.lol/games/kart/style.css",
+    "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/css-loader/dist/runtime/noSourceMaps.js",
+    "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/insertStyleElement.js",
+    "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+    "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/insertBySelector.js",
+    "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+    "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/styleDomAPI.js",
+    "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/styleTagTransform.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/kart/js/kart.js",
+      "error": "HTTP 404 for https://truffled.lol/games/kart/js/kart.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kart/js/index.js",
+      "error": "HTTP 404 for https://truffled.lol/games/kart/js/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kart/js/polyfillReadableStreamAsyncIterator.js",
+      "error": "HTTP 404 for https://truffled.lol/games/kart/js/polyfillReadableStreamAsyncIterator.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/css-loader/dist/runtime/api.js",
+      "error": "HTTP 404 for https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/css-loader/dist/runtime/api.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/css-loader/dist/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/postcss-loader/dist/cjs.js!./style.css",
+      "error": "HTTP 404 for https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/css-loader/dist/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/postcss-loader/dist/cjs.js!./style.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kart/style.css",
+      "error": "HTTP 404 for https://truffled.lol/games/kart/style.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/css-loader/dist/runtime/noSourceMaps.js",
+      "error": "HTTP 404 for https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/css-loader/dist/runtime/noSourceMaps.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/insertStyleElement.js",
+      "error": "HTTP 404 for https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/insertStyleElement.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+      "error": "HTTP 404 for https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/insertBySelector.js",
+      "error": "HTTP 404 for https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/insertBySelector.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+      "error": "HTTP 404 for https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/styleDomAPI.js",
+      "error": "HTTP 404 for https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/styleDomAPI.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/styleTagTransform.js",
+      "error": "HTTP 404 for https://truffled.lol/nix/store/xwmpwpp3pw1cq8k1vrvrlmpg8mcb42px-srb2kart-node-modules/libexec/srb2kart-web/node_modules/style-loader/dist/runtime/styleTagTransform.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:43:44.522Z",
+  "verifiedAt": "2026-11-17T22:43:54.163Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "SRB2Kart v1.6",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 500,
+      "height": 500
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

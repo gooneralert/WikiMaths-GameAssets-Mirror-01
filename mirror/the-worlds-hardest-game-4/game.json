@@ -1,0 +1,47 @@
+{
+  "slug": "the-worlds-hardest-game-4",
+  "title": "The World's Hardest Game 4",
+  "type": "Flash",
+  "developer": "Stephen Critoph",
+  "description": "__ref_a__",
+  "tags": [
+    "Arcade",
+    "Puzzle",
+    "Platformer",
+    "Difficult",
+    "Indie"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "35d45605-a4c7-4a50-bbe9-d6fc77944f96",
+  "sourceVersion": "1.1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/35d45605-a4c7-4a50-bbe9-d6fc77944f96/1.1/35d45605-a4c7-4a50-bbe9-d6fc77944f96.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 5442951,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:57:16.953Z",
+  "verifiedAt": "2026-11-16T16:13:59.481Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "The World's Hardest Game 4",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.0407,
+    "rendered": true
+  },
+  "assetCount": 0
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "vex",
+  "title": "Vex",
+  "type": "Flash",
+  "developer": "Amazing Adam",
+  "description": "Test your survival skills in the ever-changing world of VEX! Survive spikes, traps, moving platforms and battle levels that become more and more complex as you advance.",
+  "tags": [
+    "2D Platformer",
+    "Action",
+    "Arcade",
+    "Difficult",
+    "Minimalist",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "af544f53-16b3-4b4a-b92b-5caaae08a9ef",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/af544f53-16b3-4b4a-b92b-5caaae08a9ef/1/af544f53-16b3-4b4a-b92b-5caaae08a9ef.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 4033506,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:53:41.946Z",
+  "verifiedAt": "2026-11-16T16:18:29.946Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Vex",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.8114,
+    "rendered": true
+  },
+  "assetCount": 0
+}

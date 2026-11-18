@@ -1,0 +1,59 @@
+{
+	"data" : 
+	{
+		"approved" : 1,
+		"approved_date" : 1191663991,
+		"artist" : "Kenji Ninuma",
+		"artistU" : "",
+		"bid_data" : 
+		[
+			{
+				"AR" : 6.0,
+				"CS" : 4.0,
+				"HP" : 6.0,
+				"OD" : 6.0,
+				"aim" : 1.332,
+				"audio" : "20.mp3",
+				"bg" : "katamari2.jpg",
+				"bid" : 75,
+				"circles" : 160,
+				"hit300window" : 0,
+				"img" : "0",
+				"length" : 142,
+				"maxcombo" : 314,
+				"mode" : 0,
+				"passcount" : 97601,
+				"playcount" : 767786,
+				"pp" : 33.48,
+				"pp_acc" : 20.27,
+				"pp_aim" : 6.01,
+				"pp_speed" : 6.01,
+				"sliders" : 0,
+				"speed" : 0.9313,
+				"spinners" : 0,
+				"star" : 2.414,
+				"strain_aim" : "002211110010021333111343102003031243442332333434300",
+				"strain_speed" : "000220000000000223330343102313120133442222334433100",
+				"version" : "Normal"
+			}
+		],
+		"bids_amount" : 1,
+		"bpm" : 120.0,
+		"creator" : "peppy",
+		"creator_id" : 2,
+		"favourite_count" : 1776,
+		"genre" : 2,
+		"language" : 3,
+		"last_update" : 1191663991,
+		"local_update" : 1793308217,
+		"preview" : 1,
+		"sid" : 1,
+		"source" : "",
+		"storyboard" : 0,
+		"tags" : "katamari",
+		"title" : "DISCO PRINCE",
+		"titleU" : "",
+		"video" : 0
+	},
+	"status" : 0
+}

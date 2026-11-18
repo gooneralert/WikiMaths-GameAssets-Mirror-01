@@ -1,0 +1,50 @@
+body {}
+
+
+.pw-precontent-ad-video {
+  z-index: 9999 !important;
+}
+
+
+#ramp_rewarded_loader {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+#ramp_rewarded_container {
+    max-width: unset !important;
+    max-height: unset !important;
+}
+
+
+#tyche_cmp_modal {
+    overflow: scroll;
+}
+
+#tyche_cmp_modal div[class^=banner_consentContainer] div[class^=banner_consent]+div[class^=banner_consent] a[class^=banner_continue] {
+    background: #1B88F0 !important;
+}
+
+#tyche_cmp_modal div[class^=banner_consentContainer] div[class^=banner_consent]+div[class^=banner_consent] a[class^=banner_continue]:hover {
+    color: #999 !important;
+}
+
+.button_button--lgX0P.details_save--1ja7w {
+    background: #1B88F0 !important;
+}
+
+button.button_button--lgX0P:hover {
+    color: #999 !important;
+}
+
+/*
+#pw-oop-right_rail {
+    right: 10px !important;
+    transform: translateY(50%) !important;
+}
+
+
+#ramp_rewarded_loader {
+    background-color: #2f88f0 !important;
+}
+*/

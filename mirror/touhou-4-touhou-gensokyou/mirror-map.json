@@ -1,0 +1,9 @@
+{
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/gamefile/touhou4.html": "/touhou4.html",
+  "https://cdn.jsdelivr.net/gh/yksoft1/yksoft1.github.io@master/dosboxxem-demo/th4e.data": "/__external__/cdn.jsdelivr.net/gh/yksoft1/yksoft1.github.io@master/dosboxxem-demo/th4e.data",
+  "https://cdn.jsdelivr.net/gh/yksoft1/yksoft1.github.io@master/dosboxxem-demo/th4e.js": "/__external__/cdn.jsdelivr.net/gh/yksoft1/yksoft1.github.io@master/dosboxxem-demo/th4e.js",
+  "https://cdn.jsdelivr.net/gh/yksoft1/yksoft1.github.io@master/dosboxxem-demo/th4e.wasm": "/__external__/cdn.jsdelivr.net/gh/yksoft1/yksoft1.github.io@master/dosboxxem-demo/th4e.wasm",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/gamefile/touhou4.html": "/touhou4.html"
+}

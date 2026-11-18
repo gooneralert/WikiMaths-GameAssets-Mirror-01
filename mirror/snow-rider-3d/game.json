@@ -1,0 +1,394 @@
+{
+  "slug": "snow-rider-3d",
+  "title": "Snow Rider 3D",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/snowrider3D-main/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/snowrider3D-main/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/snow.webp",
+  "baseUrl": "https://truffled.lol/games/snowrider3D-main/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/snowrider3D-main/index.html",
+  "status": "done",
+  "sizeBytes": 16096729,
+  "assetCount": 71,
+  "known404": [
+    "https://truffled.lol/games/snowrider3D-main/TemplateData/progressEmpty.Light.png",
+    "https://truffled.lol/games/snowrider3D-main/TemplateData/progressFull.Light.png",
+    "https://truffled.lol/games/snowrider3D-main/TemplateData/tunnelRush.jpg",
+    "https://truffled.lol/games/snowrider3D-main/TemplateData/webgl-logo.png",
+    "https://truffled.lol/games/snowrider3D-main/Build/inflate.js",
+    "https://truffled.lol/games/snowrider3D-main/TemplateData/fullscreen.png",
+    "https://truffled.lol/games/snowrider3D-main/Build/utils/strings.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/zlib/inflate.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/zlib/constants.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/zlib/zstream.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/zlib/messages.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/dec/decode.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/zlib/inftrees.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/dec/dictionary.bin.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/dec/dictionary.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/dictionary.bin.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/dec/huffman.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/dec/prefix.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/dec/dictionary-browser.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/dec/streams.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/dec/transform.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/build.wasm",
+    "https://truffled.lol/games/snowrider3D-main/Build/json/null.json?",
+    "https://truffled.lol/games/snowrider3D-main/Build/build.temp.asm.js",
+    "https://truffled.lol/games/snowrider3D-main/Build/js/main.min.js?//html5.api.gamedistribution.com/main.min.js",
+    "https://truffled.lol/games/snowrider3D-main/js/json/ping.json?https://msgrt.gamedistribution.com/collect",
+    "https://truffled.lol/games/snowrider3D-main/js/json/null.json?https://pub.headerlift.com/opphb?",
+    "https://truffled.lol/games/snowrider3D-main/js/js/gameDistributionV1.3.min.js",
+    "https://truffled.lol/games/snowrider3D-main/js/js/null.js",
+    "https://truffled.lol/iife/index.js",
+    "https://truffled.lol/games/snowrider3D-main/js/json/null.json?https://tracker.gamedock.io/v1/events-tracker/track/product/",
+    "https://truffled.lol/games/snowrider3D-main/js/json/null.json?https://tracker-v4.gamedock.io/v1/events-tracker/track/product/",
+    "https://truffled.lol/games/snowrider3D-main/js/json/null.json?https://ana.headerlift.com/event?",
+    "https://truffled.lol/games/snowrider3D-main/js/js/null.js?https://cdn.gamedock.io/gamedock-web-tracker/4.3.0/script/gamedock-sdk.min.js",
+    "https://truffled.lol/games/snowrider3D-main/js/json/config.json?https://game.api.gamedistribution.com/game/v4/get/",
+    "https://truffled.lol/games/snowrider3D-main/js/js/null.js?/__offline__/disabled-telemetry",
+    "https://truffled.lol/games/snowrider3D-main/js/logo.svg",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "http://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://ext.minijuegosgratis.com/external-host/.js?",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+    "https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+    "http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+    "http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+    "http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+    "http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+    "http://lechuck.minijuegosgratis.com/js/head_96x96.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/TemplateData/progressEmpty.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/TemplateData/progressEmpty.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/TemplateData/progressFull.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/TemplateData/progressFull.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/TemplateData/tunnelRush.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/TemplateData/tunnelRush.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/TemplateData/webgl-logo.png",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/TemplateData/webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/inflate.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/TemplateData/fullscreen.png",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/TemplateData/fullscreen.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/utils/strings.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/zlib/inflate.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/zlib/constants.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/zlib/zstream.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/zlib/messages.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/dec/decode.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/zlib/inftrees.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/zlib/inftrees.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/dec/dictionary.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/dictionary.bin.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/dec/huffman.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/dec/huffman.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/dec/prefix.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/dec/dictionary-browser.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/dec/dictionary-browser.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/dec/streams.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/dec/streams.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/dec/transform.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/dec/transform.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/build.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/build.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/json/null.json?",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/json/null.json?",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/build.temp.asm.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/build.temp.asm.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/Build/js/main.min.js?//html5.api.gamedistribution.com/main.min.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/Build/js/main.min.js?//html5.api.gamedistribution.com/main.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/js/json/ping.json?https://msgrt.gamedistribution.com/collect",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/js/json/ping.json?https://msgrt.gamedistribution.com/collect",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/js/json/null.json?https://pub.headerlift.com/opphb?",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/js/json/null.json?https://pub.headerlift.com/opphb?",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/js/js/gameDistributionV1.3.min.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/js/js/gameDistributionV1.3.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/js/js/null.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/js/js/null.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/iife/index.js",
+      "error": "HTTP 404 for https://truffled.lol/iife/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/js/json/null.json?https://tracker.gamedock.io/v1/events-tracker/track/product/",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/js/json/null.json?https://tracker.gamedock.io/v1/events-tracker/track/product/",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/js/json/null.json?https://tracker-v4.gamedock.io/v1/events-tracker/track/product/",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/js/json/null.json?https://tracker-v4.gamedock.io/v1/events-tracker/track/product/",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/js/json/null.json?https://ana.headerlift.com/event?",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/js/json/null.json?https://ana.headerlift.com/event?",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/js/js/null.js?https://cdn.gamedock.io/gamedock-web-tracker/4.3.0/script/gamedock-sdk.min.js",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/js/js/null.js?https://cdn.gamedock.io/gamedock-web-tracker/4.3.0/script/gamedock-sdk.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/js/json/config.json?https://game.api.gamedistribution.com/game/v4/get/",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/js/json/config.json?https://game.api.gamedistribution.com/game/v4/get/",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/js/js/null.js?/__offline__/disabled-telemetry",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/js/js/null.js?/__offline__/disabled-telemetry",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/snowrider3D-main/js/logo.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/snowrider3D-main/js/logo.svg",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://ext.minijuegosgratis.com/external-host/.js?",
+      "error": "HTTP 404 for https://ext.minijuegosgratis.com/external-host/.js?",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:01:32.267Z",
+  "verifiedAt": "2026-11-17T22:02:38.819Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Snow Rider 3D",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9996,
+    "rendered": true
+  }
+}

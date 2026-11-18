@@ -1,0 +1,151 @@
+{
+  "slug": "pokemon-red",
+  "title": "Pokemon Red",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/red.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/red.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/pokemonfirered.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/red.html",
+  "entryUrl": "https://truffled.lol/gamefile/red.html",
+  "status": "done",
+  "sizeBytes": 1920716,
+  "assetCount": 26,
+  "known404": [
+    "https://cdn.jsdelivr.net/images/icons/google.ico",
+    "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/.json",
+    "https://cdn.jsdelivr.net/images/icons/bing.ico",
+    "https://cdn.jsdelivr.net/images/icons/desmos.ico",
+    "https://cdn.jsdelivr.net/images/icons/gmail.ico",
+    "https://cdn.jsdelivr.net/images/icons/chromenewtab.ico",
+    "https://cdn.jsdelivr.net/images/icons/wikipedia.ico",
+    "https://cdn.jsdelivr.net/images/icons/googleclassroom.ico",
+    "https://cdn.jsdelivr.net/images/icons/googledrive.ico",
+    "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/screenshot.png",
+    "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/cores/ppsspp-assets.zip",
+    "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/.worker.js",
+    "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/.wasm",
+    "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/.js",
+    "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/-wasm.data",
+    "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/compression/1.7z",
+    "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/compression/1.zip",
+    "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/compression/arc_name.txt"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/google.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/google.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/bing.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/bing.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/desmos.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/desmos.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/gmail.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/gmail.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/chromenewtab.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/chromenewtab.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/wikipedia.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/wikipedia.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/googleclassroom.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/googleclassroom.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/googledrive.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/googledrive.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/screenshot.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/screenshot.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/cores/ppsspp-assets.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/cores/ppsspp-assets.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/.worker.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/.worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/-wasm.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/-wasm.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/compression/1.7z",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/compression/1.7z",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/compression/1.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/compression/1.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/compression/arc_name.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/compression/arc_name.txt",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T18:10:24.508Z",
+  "verifiedAt": "2026-11-17T18:10:34.152Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.008,
+    "rendered": true
+  }
+}

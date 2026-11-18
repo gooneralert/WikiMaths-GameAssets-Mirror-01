@@ -1,0 +1,695 @@
+{
+  "slug": "smash-karts",
+  "title": "Smash Karts",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/smashkarts/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/smashkarts/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/smashkarts.webp",
+  "baseUrl": "https://truffled.lol/games/smashkarts/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/smashkarts/index.html",
+  "status": "done",
+  "sizeBytes": 10283628,
+  "assetCount": 167,
+  "known404": [
+    "https://truffled.lol/games/smashkarts/images/favicon.png",
+    "https://truffled.lol/games/smashkarts/xmlhttprequest-length-computable.js",
+    "https://truffled.lol/games/smashkarts/images/icon-144.png",
+    "https://truffled.lol/games/smashkarts/images/SmashKartsPoster.jpg",
+    "https://truffled.lol/games/smashkarts/images/SmashKartsBackground.jpg",
+    "https://truffled.lol/f800a46e6dd608e4a2b3059ba4707938.data.br",
+    "https://truffled.lol/76f034cff49013ce85bd6945ebf32347.loader.js",
+    "https://truffled.lol/580c03bbee85a0fbd586162febb28b01.data.br",
+    "https://truffled.lol/1c904c1d8e7110fc7d2c33884479c8d0.framework.js.br",
+    "https://truffled.lol/games/smashkarts/scripts/scripts/ads-pw-common.js",
+    "https://truffled.lol/games/smashkarts/scripts/scripts/ads-pw-display.js",
+    "https://truffled.lol/490eef7eb6d3ba0376a5851f590ad3c0.wasm.br",
+    "https://truffled.lol/games/smashkarts/scripts/scripts/ads-pw-video.js",
+    "https://truffled.lol/games/smashkarts/scripts/scripts/ads-adinplay-video.js",
+    "https://truffled.lol/games/smashkarts/scripts/scripts/ads-adinplay-display.js",
+    "https://truffled.lol/games/smashkarts/scripts/scripts/ccWorker.js",
+    "https://truffled.lol/games/smashkarts/scripts/scripts/banger.js",
+    "https://truffled.lol/games/smashkarts/scripts/scripts/ads-google-h5-games-video.js",
+    "https://www.gstatic.com/firebasejs/9.9.3/.json",
+    "https://cdn.intergient.com/prebid/events.js",
+    "https://cdn.intergient.com/prebid/ext.data",
+    "https://cdn.intergient.com/prebid/user.data",
+    "https://cdn.intergient.com/prebid/.rubiconproject.com/a/api/fastlane.json",
+    "https://cdn.intergient.com/prebid/nativeOrtbRequest.assets",
+    "https://cdn.intergient.com/prebid/ortb2Imp.ext.data",
+    "https://cdn.intergient.com/prebid/ortb2.user.data",
+    "https://cdn.intergient.com/prebid/device.geo.zip",
+    "https://cdn.intergient.com/prebid/.js",
+    "https://cdn.intergient.com/edgekit.min.js",
+    "https://acdn.adnxs.com/video/outstream/omweb-v1.js",
+    "https://acdn.adnxs.com/video/outstream/omid-session-client-v1.js",
+    "https://acdn.adnxs.com/video/outstream/+n.pubEntityId+'/skeleton.js?iasProxyPartnerId=2",
+    "https://cdn.jsdelivr.net/npm/prebid.js@9.51.0/dist/events.js",
+    "https://cdn.jsdelivr.net/npm/prebid.js@9.51.0/dist/ext.data",
+    "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://assets.msn.com/staticsb/statics/latest/js/thirdparty/ias/skeleton.js?videoId=",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array.iterator.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.slice.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint8-array.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.at.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.sort.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.set.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.constructor.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.to-locale-string.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint16-array.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.to-string.js",
+    "https://assets.msn.com/skeleton.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.exec.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.test.js",
+    "https://assets.msn.com/fw.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.split.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.json.stringify.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.replace.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.includes.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.match.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/.min.css",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.symbol.description.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.promise.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.error.cause.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/web.dom-collections.iterator.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.constructor.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/externals/omweb-v1.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.dot-all.js",
+    "https://cdn.radiantmediatechs.com/rmp-vast/js/src/index.js",
+    "https://www.gstatic.com/cast_sender.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,n.map?",
+    "https://cdn.jwplayer.com/libraries/jwplayer.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/hls/.mp3",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,pi.encodings_pars_fragment,n.map?us(",
+    "https://edge.atmtd.com/pub/vntsm/afihbs.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/smashkarts/images/favicon.png",
+      "error": "HTTP 404 for https://truffled.lol/games/smashkarts/images/favicon.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/smashkarts/xmlhttprequest-length-computable.js",
+      "error": "HTTP 404 for https://truffled.lol/games/smashkarts/xmlhttprequest-length-computable.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/smashkarts/images/icon-144.png",
+      "error": "HTTP 404 for https://truffled.lol/games/smashkarts/images/icon-144.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/smashkarts/images/SmashKartsPoster.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/smashkarts/images/SmashKartsPoster.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/smashkarts/images/SmashKartsBackground.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/smashkarts/images/SmashKartsBackground.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/f800a46e6dd608e4a2b3059ba4707938.data.br",
+      "error": "HTTP 404 for https://truffled.lol/f800a46e6dd608e4a2b3059ba4707938.data.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/76f034cff49013ce85bd6945ebf32347.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/76f034cff49013ce85bd6945ebf32347.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/580c03bbee85a0fbd586162febb28b01.data.br",
+      "error": "HTTP 404 for https://truffled.lol/580c03bbee85a0fbd586162febb28b01.data.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/1c904c1d8e7110fc7d2c33884479c8d0.framework.js.br",
+      "error": "HTTP 404 for https://truffled.lol/1c904c1d8e7110fc7d2c33884479c8d0.framework.js.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/smashkarts/scripts/scripts/ads-pw-common.js",
+      "error": "HTTP 404 for https://truffled.lol/games/smashkarts/scripts/scripts/ads-pw-common.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/smashkarts/scripts/scripts/ads-pw-display.js",
+      "error": "HTTP 404 for https://truffled.lol/games/smashkarts/scripts/scripts/ads-pw-display.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/490eef7eb6d3ba0376a5851f590ad3c0.wasm.br",
+      "error": "HTTP 404 for https://truffled.lol/490eef7eb6d3ba0376a5851f590ad3c0.wasm.br",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/smashkarts/scripts/scripts/ads-pw-video.js",
+      "error": "HTTP 404 for https://truffled.lol/games/smashkarts/scripts/scripts/ads-pw-video.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/smashkarts/scripts/scripts/ads-adinplay-video.js",
+      "error": "HTTP 404 for https://truffled.lol/games/smashkarts/scripts/scripts/ads-adinplay-video.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/smashkarts/scripts/scripts/ads-adinplay-display.js",
+      "error": "HTTP 404 for https://truffled.lol/games/smashkarts/scripts/scripts/ads-adinplay-display.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/smashkarts/scripts/scripts/ccWorker.js",
+      "error": "HTTP 404 for https://truffled.lol/games/smashkarts/scripts/scripts/ccWorker.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/smashkarts/scripts/scripts/banger.js",
+      "error": "HTTP 404 for https://truffled.lol/games/smashkarts/scripts/scripts/banger.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/smashkarts/scripts/scripts/ads-google-h5-games-video.js",
+      "error": "HTTP 404 for https://truffled.lol/games/smashkarts/scripts/scripts/ads-google-h5-games-video.js",
+      "status": 404
+    },
+    {
+      "url": "https://www.gstatic.com/firebasejs/9.9.3/.json",
+      "error": "HTTP 404 for https://www.gstatic.com/firebasejs/9.9.3/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.intergient.com/prebid/events.js",
+      "error": "HTTP 404 for https://cdn.intergient.com/prebid/events.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.intergient.com/prebid/ext.data",
+      "error": "HTTP 404 for https://cdn.intergient.com/prebid/ext.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.intergient.com/prebid/user.data",
+      "error": "HTTP 404 for https://cdn.intergient.com/prebid/user.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.intergient.com/prebid/.rubiconproject.com/a/api/fastlane.json",
+      "error": "HTTP 404 for https://cdn.intergient.com/prebid/.rubiconproject.com/a/api/fastlane.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.intergient.com/prebid/nativeOrtbRequest.assets",
+      "error": "HTTP 404 for https://cdn.intergient.com/prebid/nativeOrtbRequest.assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.intergient.com/prebid/ortb2Imp.ext.data",
+      "error": "HTTP 404 for https://cdn.intergient.com/prebid/ortb2Imp.ext.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.intergient.com/prebid/ortb2.user.data",
+      "error": "HTTP 404 for https://cdn.intergient.com/prebid/ortb2.user.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.intergient.com/prebid/device.geo.zip",
+      "error": "HTTP 404 for https://cdn.intergient.com/prebid/device.geo.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.intergient.com/prebid/.js",
+      "error": "HTTP 404 for https://cdn.intergient.com/prebid/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.intergient.com/edgekit.min.js",
+      "error": "HTTP 404 for https://cdn.intergient.com/edgekit.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/SHK/smashkarts.io/AdInPlay/a9_display_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/SHK/smashkarts.io/AdInPlay/a9_display_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/SHK/smashkarts.io/AdInPlay/a9_video_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/SHK/smashkarts.io/AdInPlay/a9_video_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://px.moatads.com/pixel.gif",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/SHK/smashkarts.io/cdn-ihb.33across.com/ihbloader.js",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/SHK/smashkarts.io/cdn-ihb.33across.com/ihbloader.js",
+      "status": 403
+    },
+    {
+      "url": "https://acdn.adnxs.com/video/outstream/omweb-v1.js",
+      "error": "HTTP 404 for https://acdn.adnxs.com/video/outstream/omweb-v1.js",
+      "status": 404
+    },
+    {
+      "url": "https://acdn.adnxs.com/video/outstream/omid-session-client-v1.js",
+      "error": "HTTP 404 for https://acdn.adnxs.com/video/outstream/omid-session-client-v1.js",
+      "status": 404
+    },
+    {
+      "url": "https://acdn.adnxs.com/video/outstream/+n.pubEntityId+'/skeleton.js?iasProxyPartnerId=2",
+      "error": "HTTP 404 for https://acdn.adnxs.com/video/outstream/+n.pubEntityId+'/skeleton.js?iasProxyPartnerId=2",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/prebid.js@9.51.0/dist/events.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/prebid.js@9.51.0/dist/events.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/prebid.js@9.51.0/dist/ext.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/prebid.js@9.51.0/dist/ext.data",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/===e.data?.type&&this.#au.postMessage(e.data.msg,",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/===e.data?.type&&this.#au.postMessage(e.data.msg,",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/ext.data",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/ext.data",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/events.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/events.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/Node.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/Node.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/debugging-standalone.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/debugging-standalone.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/prebid.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/prebid.js",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/.js",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/staticsb/statics/latest/js/thirdparty/ias/skeleton.js?videoId=",
+      "error": "HTTP 404 for https://assets.msn.com/staticsb/statics/latest/js/thirdparty/ias/skeleton.js?videoId=",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array.iterator.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array.iterator.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.slice.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.slice.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint8-array.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint8-array.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.at.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.at.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.sort.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.sort.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.set.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.set.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.constructor.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.constructor.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.to-locale-string.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.to-locale-string.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint16-array.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint16-array.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.to-string.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.to-string.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/skeleton.js",
+      "error": "HTTP 404 for https://assets.msn.com/skeleton.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.exec.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.exec.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.test.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.test.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/fw.js",
+      "error": "HTTP 404 for https://assets.msn.com/fw.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.split.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.split.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.json.stringify.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.json.stringify.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.replace.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.replace.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.includes.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.includes.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.match.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.match.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/.min.css",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.symbol.description.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.symbol.description.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.promise.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.promise.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.error.cause.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.error.cause.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/web.dom-collections.iterator.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/web.dom-collections.iterator.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.constructor.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.constructor.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/externals/omweb-v1.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/externals/omweb-v1.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.dot-all.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.dot-all.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp-vast/js/src/index.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp-vast/js/src/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://www.gstatic.com/cast_sender.js",
+      "error": "HTTP 404 for https://www.gstatic.com/cast_sender.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,n.map?",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,n.map?",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jwplayer.com/libraries/jwplayer.js",
+      "error": "HTTP 404 for https://cdn.jwplayer.com/libraries/jwplayer.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/hls/.mp3",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/hls/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,pi.encodings_pars_fragment,n.map?us(",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,pi.encodings_pars_fragment,n.map?us(",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.streamroot.io/hlsjs-dna-wrapper/1/stable/hlsjs-dna-wrapper.js",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://cdn.streamroot.io/shakaplayer-dna-wrapper/1/stable/shakaplayer-dna-wrapper.js",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://edge.venatusmedia.com/events?tenantId=2&accountId=518&siteId=2576&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=62c1fa02-b6d3-41f6-a062-8264141321b6&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&eventName=page_load_detailed&delayTime=696",
+      "error": "No response body for https://edge.venatusmedia.com/events?tenantId=2&accountId=518&siteId=2576&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=62c1fa02-b6d3-41f6-a062-8264141321b6&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&eventName=page_load_detailed&delayTime=696",
+      "status": 0
+    },
+    {
+      "url": "https://edge.venatusmedia.com/events?tenantId=2&accountId=518&siteId=2576&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=62c1fa02-b6d3-41f6-a062-8264141321b6&geo=&device=desktop&isBot=0&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&eventName=page_load&delayTime=663",
+      "error": "No response body for https://edge.venatusmedia.com/events?tenantId=2&accountId=518&siteId=2576&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=62c1fa02-b6d3-41f6-a062-8264141321b6&geo=&device=desktop&isBot=0&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&eventName=page_load&delayTime=663",
+      "status": 0
+    },
+    {
+      "url": "https://rp.liadm.com/p?dtstmp=1794952393467&did=did-006r&se=e30&duid=c6f1e2b657fd--01m7nqzts10t0ad0z456byap1w&tv=11.50.0&pu=https%3A%2F%2Ftruffled.lol%2Fgames%2Fsmashkarts%2Findex.html&wpn=prebid&cd=.truffled.lol",
+      "error": "No response body for https://rp.liadm.com/p?dtstmp=1794952393467&did=did-006r&se=e30&duid=c6f1e2b657fd--01m7nqzts10t0ad0z456byap1w&tv=11.50.0&pu=https%3A%2F%2Ftruffled.lol%2Fgames%2Fsmashkarts%2Findex.html&wpn=prebid&cd=.truffled.lol",
+      "status": 0
+    },
+    {
+      "url": "https://rp.liadm.com/p?dtstmp=1794952393467&did=did-006r&se=e30&duid=c6f1e2b657fd--01m7nqzts10t0ad0z456byap1w&tv=11.50.0&pu=https%3A%2F%2Ftruffled.lol%2Fgames%2Fsmashkarts%2Findex.html&ae=eyJtZXNzYWdlIjoiIiwibmFtZSI6IkFqYXhGYWlsZWQiLCJzdGFja1RyYWNlIjoiQWpheEZhaWxlZFxuICAgIGF0IHYgKGh0dHBzOi8vYXBpLmFkaW5wbGF5LmNvbS92NC9saXZlL2FpcC8yMjI1OS5qczoxOjgxMTkpXG4gICAgYXQgeC5lbWl0RXJyb3IgKGh0dHBzOi8vYXBpLmFkaW5wbGF5LmNvbS8uLi4iLCJmaWxlTmFtZSI6InVuZGVmaW5lZCJ9&wpn=prebid&cd=.truffled.lol",
+      "error": "No response body for https://rp.liadm.com/p?dtstmp=1794952393467&did=did-006r&se=e30&duid=c6f1e2b657fd--01m7nqzts10t0ad0z456byap1w&tv=11.50.0&pu=https%3A%2F%2Ftruffled.lol%2Fgames%2Fsmashkarts%2Findex.html&ae=eyJtZXNzYWdlIjoiIiwibmFtZSI6IkFqYXhGYWlsZWQiLCJzdGFja1RyYWNlIjoiQWpheEZhaWxlZFxuICAgIGF0IHYgKGh0dHBzOi8vYXBpLmFkaW5wbGF5LmNvbS92NC9saXZlL2FpcC8yMjI1OS5qczoxOjgxMTkpXG4gICAgYXQgeC5lbWl0RXJyb3IgKGh0dHBzOi8vYXBpLmFkaW5wbGF5LmNvbS8uLi4iLCJmaWxlTmFtZSI6InVuZGVmaW5lZCJ9&wpn=prebid&cd=.truffled.lol",
+      "status": 0
+    },
+    {
+      "url": "https://edge.venatusmedia.com/events?tenantId=2&accountId=518&siteId=2576&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=62c1fa02-b6d3-41f6-a062-8264141321b6&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=8046&configId=6785&instanceId=0&executionCount=1&renderCount=1&renderer=tag-publisher&eventName=iab_viewable&delayTime=7026",
+      "error": "No response body for https://edge.venatusmedia.com/events?tenantId=2&accountId=518&siteId=2576&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=62c1fa02-b6d3-41f6-a062-8264141321b6&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=8046&configId=6785&instanceId=0&executionCount=1&renderCount=1&renderer=tag-publisher&eventName=iab_viewable&delayTime=7026",
+      "status": 0
+    },
+    {
+      "url": "https://edge.atmtd.com/pub/vntsm/afihbs.js",
+      "error": "HTTP 404 for https://edge.atmtd.com/pub/vntsm/afihbs.js",
+      "status": 404
+    },
+    {
+      "url": "https://edge.venatusmedia.com/events?tenantId=2&accountId=518&siteId=2576&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=62c1fa02-b6d3-41f6-a062-8264141321b6&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=8049&configId=6788&instanceId=1&executionCount=1&renderCount=1&renderer=tag-publisher&eventName=iab_viewable&delayTime=7024",
+      "error": "No response body for https://edge.venatusmedia.com/events?tenantId=2&accountId=518&siteId=2576&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=62c1fa02-b6d3-41f6-a062-8264141321b6&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=8049&configId=6788&instanceId=1&executionCount=1&renderCount=1&renderer=tag-publisher&eventName=iab_viewable&delayTime=7024",
+      "status": 0
+    },
+    {
+      "url": "https://floors.atmtd.com/floors.json?dist=vntsm",
+      "error": "HTTP 400 for https://floors.atmtd.com/floors.json?dist=vntsm",
+      "status": 400
+    },
+    {
+      "url": "https://floors.atmtd.com/adx-floors.js?pubID=vntsm",
+      "error": "HTTP 400 for https://floors.atmtd.com/adx-floors.js?pubID=vntsm",
+      "status": 400
+    },
+    {
+      "url": "https://edge.venatusmedia.com/events?tenantId=2&accountId=518&siteId=2576&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=62c1fa02-b6d3-41f6-a062-8264141321b6&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=8049&configId=6788&instanceId=1&executionCount=2&renderCount=2&renderer=tag-publisher&eventName=iab_viewable&delayTime=7074",
+      "error": "No response body for https://edge.venatusmedia.com/events?tenantId=2&accountId=518&siteId=2576&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=62c1fa02-b6d3-41f6-a062-8264141321b6&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=8049&configId=6788&instanceId=1&executionCount=2&renderCount=2&renderer=tag-publisher&eventName=iab_viewable&delayTime=7074",
+      "status": 0
+    },
+    {
+      "url": "https://edge.venatusmedia.com/events?tenantId=2&accountId=518&siteId=2576&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=62c1fa02-b6d3-41f6-a062-8264141321b6&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=8046&configId=6785&instanceId=0&executionCount=2&renderCount=2&renderer=tag-publisher&eventName=iab_viewable&delayTime=7074",
+      "error": "No response body for https://edge.venatusmedia.com/events?tenantId=2&accountId=518&siteId=2576&pageId=&experimentId=0&experimentTemplateId=0&pageSessionId=62c1fa02-b6d3-41f6-a062-8264141321b6&geo=AU&device=desktop&isBot=1&adblocker=0&adblockProvider=&adblockProviderDetection=0&adblockProviderAcceptance=0&placementId=8046&configId=6785&instanceId=0&executionCount=2&renderCount=2&renderer=tag-publisher&eventName=iab_viewable&delayTime=7074",
+      "status": 0
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/user.data",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/user.data",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/AdInPlay/a9_display_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/AdInPlay/a9_display_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/===o.data?o.data=f.K2:o.data&&",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/===o.data?o.data=f.K2:o.data&&",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/AdInPlay/config.json",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/AdInPlay/config.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/AdInPlay/a9_video_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/AdInPlay/a9_video_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/AdInPlay/defaultCurrencyRates.json",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/AdInPlay/defaultCurrencyRates.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/Azerion/a9_display_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/Azerion/a9_display_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/nativeOrtbRequest.assets",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/nativeOrtbRequest.assets",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/Venatus/a9_display_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/Venatus/a9_display_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/Azerion/a9_video_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/Azerion/a9_video_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/Venatus/a9_video_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/Venatus/a9_video_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/Venatus/config.json",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/Venatus/config.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/Prebid.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/Prebid.js",
+      "status": 403
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aax2/detail.imp[].native.request.assets[].data",
+      "error": "HTTP 403 for https://c.amazon-adsystem.com/aax2/detail.imp[].native.request.assets[].data",
+      "status": 403
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aax2/detail.imp[].native.request.assets",
+      "error": "HTTP 403 for https://c.amazon-adsystem.com/aax2/detail.imp[].native.request.assets",
+      "status": 403
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aax2/detail.map",
+      "error": "HTTP 403 for https://c.amazon-adsystem.com/aax2/detail.map",
+      "status": 403
+    },
+    {
+      "url": "https://config.aps.amazon-adsystem.com/i.js",
+      "error": "HTTP 403 for https://config.aps.amazon-adsystem.com/i.js",
+      "status": 403
+    },
+    {
+      "url": "https://c.toolbox.aps.amazon-adsystem.com/toolbox.js",
+      "error": "fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T21:54:27.980Z",
+  "verifiedAt": "2026-11-17T21:54:37.493Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 3,
+    "title": "Smash Karts",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9652,
+    "rendered": true
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "ragdoll-archers",
+  "title": "Ragdoll Archers",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/ragdoll-archers/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/ragdoll-archers/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/archer.webp",
+  "baseUrl": "https://truffled.lol/games/ragdoll-archers/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/ragdoll-archers/index.html",
+  "status": "done",
+  "sizeBytes": 7838990,
+  "assetCount": 30,
+  "known404": [
+    "https://truffled.lol/vs/gameloader-helper.js",
+    "https://truffled.lol/v111.loader.js",
+    "https://truffled.lol/games/ragdoll-archers/Build/dec/decode.js",
+    "https://truffled.lol/games/ragdoll-archers/Build/dec/dictionary.js",
+    "https://truffled.lol/games/ragdoll-archers/Build/dec/dictionary.bin.js",
+    "https://truffled.lol/games/ragdoll-archers/Build/dec/streams.js",
+    "https://truffled.lol/games/ragdoll-archers/Build/dec/prefix.js",
+    "https://truffled.lol/games/ragdoll-archers/Build/dec/transform.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/vs/gameloader-helper.js",
+      "error": "HTTP 404 for https://truffled.lol/vs/gameloader-helper.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/v111.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/v111.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ragdoll-archers/Build/dec/decode.js",
+      "error": "HTTP 404 for https://truffled.lol/games/ragdoll-archers/Build/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ragdoll-archers/Build/dec/dictionary.js",
+      "error": "HTTP 404 for https://truffled.lol/games/ragdoll-archers/Build/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ragdoll-archers/Build/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://truffled.lol/games/ragdoll-archers/Build/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ragdoll-archers/Build/dec/streams.js",
+      "error": "HTTP 404 for https://truffled.lol/games/ragdoll-archers/Build/dec/streams.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ragdoll-archers/Build/dec/prefix.js",
+      "error": "HTTP 404 for https://truffled.lol/games/ragdoll-archers/Build/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ragdoll-archers/Build/dec/transform.js",
+      "error": "HTTP 404 for https://truffled.lol/games/ragdoll-archers/Build/dec/transform.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T19:08:50.444Z",
+  "verifiedAt": "2026-11-17T19:09:56.863Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Ragdoll Archers",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

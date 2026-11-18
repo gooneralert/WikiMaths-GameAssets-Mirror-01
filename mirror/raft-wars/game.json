@@ -1,0 +1,673 @@
+{
+  "slug": "raft-wars",
+  "title": "Raft Wars",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/raft-wars/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/raft-wars/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/raft1.webp",
+  "baseUrl": "https://truffled.lol/games/raft-wars/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/raft-wars/index.html",
+  "status": "done",
+  "sizeBytes": 8749869,
+  "assetCount": 268,
+  "known404": [
+    "https://truffled.lol/cloak.js",
+    "https://truffled.lol/games/raft-wars/assets/orientation.jpg",
+    "https://truffled.lol/games/raft-wars/js/assets/preloader_bar.png?r=1",
+    "https://truffled.lol/games/raft-wars/js/assets/background/bg_menu.png?r=2",
+    "https://truffled.lol/games/raft-wars/js/assets/preloader_back.png?r=1",
+    "https://truffled.lol/games/raft-wars/js/assets/spine/skeleton.json?r=",
+    "https://truffled.lol/games/raft-wars/js/assets/fonts/riffic50all.png",
+    "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_menu.png?r=",
+    "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_menu.json?r=",
+    "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_main1.png?r=",
+    "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_main2.png?r=",
+    "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_main1.json?r=",
+    "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_main2.json?r=",
+    "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_back.png?r=",
+    "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_back.json?r=",
+    "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_comics.png?r=",
+    "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_comics.json?r=",
+    "https://truffled.lol/games/raft-wars/js/assets/transp.png?r=1",
+    "https://truffled.lol/games/raft-wars/js/assets/background/bg_congratulations.png?r=2",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/m_menu.mp3?r=1",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/m_game1.mp3?r=1",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/m_menu.ogg?r=1",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/m_game1.ogg?r=1",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/boing_hit_hippo_or_bird.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/boing_hit_hippo_or_bird.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/buy_item.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/buy_item.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/draw_large_weapon.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/draw_large_weapon.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/draw_weapon.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/draw_weapon.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/drumroll_new_shot.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/explosion_rocket_hit.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/drumroll_new_shot.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/explosion_rocket_hit.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/grenade_collision.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/grenade_launch.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/grenade_collision.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/grenade_launch.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/grenade_tick_before_explosion.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/grenade_tick_before_explosion.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/launch_multiball_rw2.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/launch_multiball_rw2.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_1.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_1.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_2.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_2.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_3.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_3.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_4.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_4.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_5.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_5.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_6.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_6.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/sealoop_water.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/rocket_launch.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/sealoop_water.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/rocket_launch.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/shoot_bow_launch_arrow.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/splash_ball_hits_water.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/shoot_bow_launch_arrow.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/splash_large_man_hits_water_1.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/splash_ball_hits_water.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/splash_large_man_hits_water_1.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/splash_large_man_hits_water_2.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/splash_large_man_hits_water_2.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/tennisball_hit_ground.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/tennisball_hit_ground.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/vhf_called_rw2_level1.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/vhf_called_rw2_level1.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/victory_celebration_rw1.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/victory_celebration_rw1.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/victory_celebration_rw2.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/victory_celebration_rw2.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/whoosh_level_start.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/whoosh_level_start.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/fire_weapon.ogg",
+    "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/fire_weapon.mp3",
+    "https://truffled.lol/games/raft-wars/js/assets/text/text.json?r=",
+    "https://truffled.lol/games/raft-wars/js/p2.js",
+    "https://truffled.lol/games/raft-wars/js/src/p2.js",
+    "https://truffled.lol/games/raft-wars/package.json",
+    "https://truffled.lol/games/package.json",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://t.poki.io/game-cookies",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://t.poki.io/adserver",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://aax.amazon-adsystem.com/e/dtb/vast?b=",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://api.poki.com/ads/houseads/video/vast",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://onetag-sys.com/invocation/?key=",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://prebid-server.rubiconproject.com/cache?uuid=",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache?uuid=",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://search.spotxchange.com/ad/vast.html?key=",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://devs-api.poki.com/gameinfo/@sdk?href=",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://geo.poki.io/",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://t.poki.io/l",
+    "https://truffled.lol/games/raft-wars/patch/touchControllerConfig.json",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://api.poki.com/ads/settings",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?patch/google/ima3.js?imasdk.googleapis.com/js/sdkloader/ima3.js",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?/__offline__/disabled-telemetry",
+    "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://t.poki.io/ge"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/cloak.js",
+      "error": "HTTP 404 for https://truffled.lol/cloak.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/assets/orientation.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/assets/orientation.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/preloader_bar.png?r=1",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/preloader_bar.png?r=1",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/background/bg_menu.png?r=2",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/background/bg_menu.png?r=2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/preloader_back.png?r=1",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/preloader_back.png?r=1",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/spine/skeleton.json?r=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/spine/skeleton.json?r=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/fonts/riffic50all.png",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/fonts/riffic50all.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_menu.png?r=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_menu.png?r=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_menu.json?r=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_menu.json?r=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_main1.png?r=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_main1.png?r=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_main2.png?r=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_main2.png?r=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_main1.json?r=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_main1.json?r=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_main2.json?r=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_main2.json?r=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_back.png?r=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_back.png?r=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_back.json?r=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_back.json?r=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_comics.png?r=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_comics.png?r=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_comics.json?r=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/spritesheets/ss_comics.json?r=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/transp.png?r=1",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/transp.png?r=1",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/background/bg_congratulations.png?r=2",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/background/bg_congratulations.png?r=2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/m_menu.mp3?r=1",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/m_menu.mp3?r=1",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/m_game1.mp3?r=1",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/m_game1.mp3?r=1",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/m_menu.ogg?r=1",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/m_menu.ogg?r=1",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/m_game1.ogg?r=1",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/m_game1.ogg?r=1",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/boing_hit_hippo_or_bird.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/boing_hit_hippo_or_bird.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/boing_hit_hippo_or_bird.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/boing_hit_hippo_or_bird.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/buy_item.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/buy_item.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/buy_item.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/buy_item.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/draw_large_weapon.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/draw_large_weapon.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/draw_large_weapon.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/draw_large_weapon.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/draw_weapon.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/draw_weapon.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/draw_weapon.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/draw_weapon.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/drumroll_new_shot.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/drumroll_new_shot.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/explosion_rocket_hit.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/explosion_rocket_hit.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/drumroll_new_shot.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/drumroll_new_shot.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/explosion_rocket_hit.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/explosion_rocket_hit.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/grenade_collision.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/grenade_collision.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/grenade_launch.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/grenade_launch.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/grenade_collision.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/grenade_collision.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/grenade_launch.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/grenade_launch.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/grenade_tick_before_explosion.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/grenade_tick_before_explosion.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/grenade_tick_before_explosion.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/grenade_tick_before_explosion.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/launch_multiball_rw2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/launch_multiball_rw2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/launch_multiball_rw2.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/launch_multiball_rw2.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_1.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_1.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_1.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_1.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_2.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_2.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_3.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_3.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_3.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_3.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_4.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_4.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_4.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_4.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_5.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_5.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_5.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_5.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_6.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/random_environment_6.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_6.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/random_environment_6.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/sealoop_water.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/sealoop_water.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/rocket_launch.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/rocket_launch.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/sealoop_water.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/sealoop_water.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/rocket_launch.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/rocket_launch.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/shoot_bow_launch_arrow.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/shoot_bow_launch_arrow.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/splash_ball_hits_water.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/splash_ball_hits_water.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/shoot_bow_launch_arrow.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/shoot_bow_launch_arrow.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/splash_large_man_hits_water_1.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/splash_large_man_hits_water_1.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/splash_ball_hits_water.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/splash_ball_hits_water.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/splash_large_man_hits_water_1.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/splash_large_man_hits_water_1.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/splash_large_man_hits_water_2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/splash_large_man_hits_water_2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/splash_large_man_hits_water_2.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/splash_large_man_hits_water_2.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/tennisball_hit_ground.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/tennisball_hit_ground.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/tennisball_hit_ground.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/tennisball_hit_ground.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/vhf_called_rw2_level1.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/vhf_called_rw2_level1.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/vhf_called_rw2_level1.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/vhf_called_rw2_level1.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/victory_celebration_rw1.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/victory_celebration_rw1.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/victory_celebration_rw1.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/victory_celebration_rw1.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/victory_celebration_rw2.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/victory_celebration_rw2.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/victory_celebration_rw2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/victory_celebration_rw2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/whoosh_level_start.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/whoosh_level_start.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/whoosh_level_start.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/whoosh_level_start.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/fire_weapon.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/ogg/sfx/fire_weapon.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/fire_weapon.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/audio/mp3/sfx/fire_weapon.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/assets/text/text.json?r=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/assets/text/text.json?r=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/p2.js",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/js/src/p2.js",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/js/src/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/package.json",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/package.json",
+      "error": "HTTP 404 for https://truffled.lol/games/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://t.poki.io/game-cookies",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://t.poki.io/game-cookies",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://t.poki.io/adserver",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://t.poki.io/adserver",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://aax.amazon-adsystem.com/e/dtb/vast?b=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://aax.amazon-adsystem.com/e/dtb/vast?b=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://api.poki.com/ads/houseads/video/vast",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://api.poki.com/ads/houseads/video/vast",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://onetag-sys.com/invocation/?key=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://onetag-sys.com/invocation/?key=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://prebid-server.rubiconproject.com/cache?uuid=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://prebid-server.rubiconproject.com/cache?uuid=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache?uuid=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache?uuid=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://search.spotxchange.com/ad/vast.html?key=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://search.spotxchange.com/ad/vast.html?key=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://devs-api.poki.com/gameinfo/@sdk?href=",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://devs-api.poki.com/gameinfo/@sdk?href=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://geo.poki.io/",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://geo.poki.io/",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://t.poki.io/l",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://t.poki.io/l",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/touchControllerConfig.json",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/touchControllerConfig.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://api.poki.com/ads/settings",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://api.poki.com/ads/settings",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?patch/google/ima3.js?imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?patch/google/ima3.js?imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "status": 404
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/_down.png",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/_down.png",
+      "status": 403
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/.png",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/.png",
+      "status": 403
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/dpad.png",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/dpad.png",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?/__offline__/disabled-telemetry",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?/__offline__/disabled-telemetry",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://t.poki.io/ge",
+      "error": "HTTP 404 for https://truffled.lol/games/raft-wars/patch/patch/json/null.json?https://t.poki.io/ge",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T19:05:53.619Z",
+  "verifiedAt": "2026-11-17T19:06:03.925Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Raft Wars Unblocked - ClassRoom6x",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1214,
+      "height": 600
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.301,
+    "rendered": true
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "super-mario-bros",
+  "title": "Super Mario Bros",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/smb.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/smb.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/smb.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/smb.html",
+  "entryUrl": "https://truffled.lol/gamefile/smb.html",
+  "status": "done",
+  "sizeBytes": 2069103,
+  "assetCount": 47,
+  "known404": [
+    "https://57264959-967300405472742195.preview.editmysite.com/uploads/b/11886820-385538800742658772/files/Fonts/pressstart2p-webfont.eot?#iefix",
+    "https://57264959-967300405472742195.preview.editmysite.com/uploads/b/11886820-385538800742658772/files/Fonts/pressstart2p-webfont.ttf",
+    "https://57264959-967300405472742195.preview.editmysite.com/uploads/b/11886820-385538800742658772/files/Fonts/pressstart2p-webfont.svg"
+  ],
+  "failed": [
+    {
+      "url": "https://57264959-967300405472742195.preview.editmysite.com/uploads/b/11886820-385538800742658772/files/Fonts/pressstart2p-webfont.eot?#iefix",
+      "error": "HTTP 404 for https://57264959-967300405472742195.preview.editmysite.com/uploads/b/11886820-385538800742658772/files/Fonts/pressstart2p-webfont.eot?#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://57264959-967300405472742195.preview.editmysite.com/uploads/b/11886820-385538800742658772/files/Fonts/pressstart2p-webfont.ttf",
+      "error": "HTTP 404 for https://57264959-967300405472742195.preview.editmysite.com/uploads/b/11886820-385538800742658772/files/Fonts/pressstart2p-webfont.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://57264959-967300405472742195.preview.editmysite.com/uploads/b/11886820-385538800742658772/files/Fonts/pressstart2p-webfont.svg",
+      "error": "HTTP 404 for https://57264959-967300405472742195.preview.editmysite.com/uploads/b/11886820-385538800742658772/files/Fonts/pressstart2p-webfont.svg",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T23:40:45.002Z",
+  "verifiedAt": "2026-11-17T23:40:54.638Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 4,
+    "title": "Super Mario Bros",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 464
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

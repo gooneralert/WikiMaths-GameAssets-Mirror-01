@@ -1,0 +1,52 @@
+{
+  "slug": "touhou-mother",
+  "title": "Touhou Mother",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/touhoumother/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/touhoumother/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/touhou.webp",
+  "baseUrl": "https://truffled.lol/games/touhoumother/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/touhoumother/index.html",
+  "status": "done",
+  "sizeBytes": 9720045,
+  "assetCount": 34,
+  "known404": [
+    "https://truffled.lol/tmp/message.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/tmp/message.png",
+      "error": "HTTP 404 for https://truffled.lol/tmp/message.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T02:39:46.904Z",
+  "verifiedAt": "2026-11-18T02:39:58.174Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Touhou Seiboroku ~ Touhou Mother - EasyRPG Player",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.094,
+    "rendered": true
+  }
+}

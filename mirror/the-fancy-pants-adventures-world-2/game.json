@@ -1,0 +1,48 @@
+{
+  "slug": "the-fancy-pants-adventures-world-2",
+  "title": "The Fancy Pants Adventures: World 2",
+  "type": "Flash",
+  "developer": "Brad Borne",
+  "description": "Embark on an epic journey to rescue your kidnapped sister in \"Fancy Pants Adventures: World 2,\" a thrilling platformer game created by Brad Borne. Traverse dense forests, underwater caves, and pirate ships as you defeat enemies using 40 different melee weapons. Discover secrets, unlock hidden levels, and earn achievements and costumes as you explore beautifully hand-drawn landscapes. With its impressive artwork, smooth animations, and humorous touches, \"Fancy Pants Adventures\" is sure to impress. Don your fancy pants and begin your adventure now!",
+  "tags": [
+    "2D Platformer",
+    "Action",
+    "Arcade",
+    "Casual",
+    "Physics",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "ed7738ae-0796-4c4e-92c3-8371a5ad15c1",
+  "sourceVersion": "1.4",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/ed7738ae-0796-4c4e-92c3-8371a5ad15c1/1.4/ed7738ae-0796-4c4e-92c3-8371a5ad15c1.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 10993653,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:54:52.681Z",
+  "verifiedAt": "2026-11-16T16:09:02.305Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "The Fancy Pants Adventures: World 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.7431,
+    "rendered": true
+  },
+  "assetCount": 0
+}

@@ -1,0 +1,736 @@
+{
+  "slug": "slowroads",
+  "title": "Slowroads",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/slowroads/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/slowroads/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/slow.webp",
+  "baseUrl": "https://truffled.lol/games/slowroads/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/slowroads/index.html",
+  "status": "done",
+  "sizeBytes": 3181697,
+  "assetCount": 88,
+  "known404": [
+    "https://truffled.lol/games/slowroads/static/media/Dosis.3e75d17d.ttf",
+    "https://truffled.lol/games/slowroads/static/media/topo-square-50.f77c3cfe.png",
+    "https://truffled.lol/games/slowroads/static/js/,n.map?",
+    "https://truffled.lol/games/slowroads/static/js/static/media/rolling_06.ca3a3b85.mp3",
+    "https://truffled.lol/games/slowroads/static/js/static/media/veh_accel_06.9e103abb.mp3",
+    "https://truffled.lol/games/slowroads/static/js/static/media/veh_bus.9b1fce50.svg",
+    "https://truffled.lol/games/slowroads/static/js/static/media/veh_car.9991c48a.svg",
+    "https://truffled.lol/games/slowroads/static/js/static/media/veh_bike.af1bd6f4.svg",
+    "https://truffled.lol/games/slowroads/static/js/static/media/roadster-07b_map.9b87de0b.jpg",
+    "https://truffled.lol/games/slowroads/static/js/static/media/grass_summer_01.bb65c929.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/rock_06.7e502144.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/forest_summer_01.629b3e11.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/gravel_01.72d5f86f.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/heather_01.3b4049ea.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/sand_01.8bf3d9a0.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/road_03.29415d96.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/road_03_base.2e84c9f2.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/foliage_grass_summer.2ca20eaf.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/foliage_bush_summer.7d19f331.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_summer_far_04.9b418c41.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_summer_near_04.0b483335.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_summer_far_04b.71d33b5e.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_autumn_near_01.e4b1c1b7.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_autumn_far_01.476e1169.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_autumn_near_01b.784c372a.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_summer_near_04b.c599bf59.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_autumn_far_01b.b7bc28be.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/grass_autumn_01.c593833e.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/foliage_grass_autumn.f92557d8.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/forest_autumn_01.cd958a6a.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/foliage_bush_autumn.f642e219.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_spring_far_01.e5b43ddb.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_spring_near_01.2740d9e4.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_spring_far_01b.77e3faf6.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/heather_spring_01.73869f54.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/grass_spring_01.768b870f.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_spring_near_01b.dc9a1b07.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/foliage_bush_spring.53436f47.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/foliage_grass_spring.2de5b784.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/snow_01.5d24a4d9.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/road_04.c4c154ee.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/forest_winter.d339edd9.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_winter_near_01.bc2b0a44.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/road_04_base.2ca13356.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_winter_far_01.22579e5a.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_winter_near_01b.6c45b1e5.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/rock_06_winter.1a82fc8c.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/trees_winter_far_01b.d995fc50.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/concrete_01.467e237b.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/drystone_04.c9668f42.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/drystone_04_snow.aee09a95.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/foliage_brush_winter.3157e6a1.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/clouds_01b.d86e8361.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_wood_snow.5df52f00.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_wood.06bbc7c3.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/clouds_02.d765d208.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/clouds_03.0544ea9f.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/clouds_04.bdcd8039.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/clouds_winter_sunrise.10f858c5.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/ambiance_summer_low.0e101ef7.mp3",
+    "https://truffled.lol/games/slowroads/static/js/static/media/clouds_sunrise_b.76566df4.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/ambiance_spring.791a03fe.mp3",
+    "https://truffled.lol/games/slowroads/static/js/static/media/ambiance_cloudy.4d5b0a33.mp3",
+    "https://truffled.lol/games/slowroads/static/js/static/media/clouds_autumn_sunset.97e16563.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/rock_06_bump.12f4b9f0.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/wind_02.deef0e2d.mp3",
+    "https://truffled.lol/games/slowroads/static/js/static/media/crossfade_finest.3013f964.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/crossfade_fine.0d1ec73b.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/sea_waves.fba92bab.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_02.44c5c0ea.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/flake.d6a06041.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/road_offworld.235fa320.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_wood_n.f554ec90.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/mars_surface.4083a724.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_02_n.0c79c69f.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/mars_road_base.4b28c294.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/mars_cliff_bump.8e6fa674.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/mars_subsurface.d95fa5d1.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/mars_surface_bump.65340168.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/mars_shale.9fd99ef9.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/mars_shale_bump.c92f843f.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/mars_rubble.c8241124.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/mars_rock_bump.15322551.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/mars_cliff.3ae2933c.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/mars_barrier_wide.d7dc8819.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/mars_rubble_bump.80ebc535.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/venus_road_base.20746f01.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/mars_rock.75c6c859.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/venus_shale.bafde95f.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/venus_rubble.1f56f6fb.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/venus_surface.38f0fb31.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/venus_rock.c3115f27.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/venus_cliff.fbb8e3df.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/road_venus.61168361.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/moon_surface.f0a08f87.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/moon_shale.07a93da8.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/moon_rock.47e45865.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/moon_gravel.b53b019d.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/moon_cliff.4bb9ff9d.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/venus_barrier_wide.1b943c45.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/road_moon.c594cb0f.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/clouds_02.840643a8.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/ambiance_offworld.41a010f6.mp3",
+    "https://truffled.lol/games/slowroads/static/js/static/media/clouds_01.e03e365b.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/wind_offworld_02.64ee03d4.mp3",
+    "https://truffled.lol/games/slowroads/static/js/static/media/crossfade_finest.da758a11.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/achievement.97104f4a.mp3",
+    "https://truffled.lol/games/slowroads/static/js/static/media/road-despawns.677d3840.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/u_turn.38a08a9e.svg",
+    "https://truffled.lol/games/slowroads/static/js/static/media/arrow_up.fdd3dd06.svg",
+    "https://truffled.lol/games/slowroads/static/js/static/media/earthrise.c3eff6a4.webp",
+    "https://truffled.lol/games/slowroads/static/js/static/media/warning.2f7f711f.svg",
+    "https://truffled.lol/games/slowroads/static/js/static/media/anslo_ico.77ddc9f9.svg",
+    "https://truffled.lol/games/slowroads/static/js/static/media/no_mobile_1.959d982f.svg",
+    "https://truffled.lol/games/slowroads/static/js/static/media/splash-logo-placeholder-7b.2d60164d.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/slowroads/static/media/Dosis.3e75d17d.ttf",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/media/Dosis.3e75d17d.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/media/topo-square-50.f77c3cfe.png",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/media/topo-square-50.f77c3cfe.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/,n.map?",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/,n.map?",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/rolling_06.ca3a3b85.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/rolling_06.ca3a3b85.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/veh_accel_06.9e103abb.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/veh_accel_06.9e103abb.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/veh_bus.9b1fce50.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/veh_bus.9b1fce50.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/veh_car.9991c48a.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/veh_car.9991c48a.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/veh_bike.af1bd6f4.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/veh_bike.af1bd6f4.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/roadster-07b_map.9b87de0b.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/roadster-07b_map.9b87de0b.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/grass_summer_01.bb65c929.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/grass_summer_01.bb65c929.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/rock_06.7e502144.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/rock_06.7e502144.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/forest_summer_01.629b3e11.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/forest_summer_01.629b3e11.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/gravel_01.72d5f86f.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/gravel_01.72d5f86f.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/heather_01.3b4049ea.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/heather_01.3b4049ea.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/sand_01.8bf3d9a0.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/sand_01.8bf3d9a0.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/road_03.29415d96.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/road_03.29415d96.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/road_03_base.2e84c9f2.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/road_03_base.2e84c9f2.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/foliage_grass_summer.2ca20eaf.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/foliage_grass_summer.2ca20eaf.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/foliage_bush_summer.7d19f331.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/foliage_bush_summer.7d19f331.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_summer_far_04.9b418c41.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_summer_far_04.9b418c41.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_summer_near_04.0b483335.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_summer_near_04.0b483335.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_summer_far_04b.71d33b5e.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_summer_far_04b.71d33b5e.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_autumn_near_01.e4b1c1b7.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_autumn_near_01.e4b1c1b7.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_autumn_far_01.476e1169.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_autumn_far_01.476e1169.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_autumn_near_01b.784c372a.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_autumn_near_01b.784c372a.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_summer_near_04b.c599bf59.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_summer_near_04b.c599bf59.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_autumn_far_01b.b7bc28be.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_autumn_far_01b.b7bc28be.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/grass_autumn_01.c593833e.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/grass_autumn_01.c593833e.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/foliage_grass_autumn.f92557d8.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/foliage_grass_autumn.f92557d8.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/forest_autumn_01.cd958a6a.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/forest_autumn_01.cd958a6a.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/foliage_bush_autumn.f642e219.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/foliage_bush_autumn.f642e219.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_spring_far_01.e5b43ddb.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_spring_far_01.e5b43ddb.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_spring_near_01.2740d9e4.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_spring_near_01.2740d9e4.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_spring_far_01b.77e3faf6.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_spring_far_01b.77e3faf6.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/heather_spring_01.73869f54.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/heather_spring_01.73869f54.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/grass_spring_01.768b870f.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/grass_spring_01.768b870f.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_spring_near_01b.dc9a1b07.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_spring_near_01b.dc9a1b07.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/foliage_bush_spring.53436f47.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/foliage_bush_spring.53436f47.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/foliage_grass_spring.2de5b784.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/foliage_grass_spring.2de5b784.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/snow_01.5d24a4d9.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/snow_01.5d24a4d9.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/road_04.c4c154ee.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/road_04.c4c154ee.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/forest_winter.d339edd9.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/forest_winter.d339edd9.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_winter_near_01.bc2b0a44.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_winter_near_01.bc2b0a44.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/road_04_base.2ca13356.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/road_04_base.2ca13356.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_winter_far_01.22579e5a.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_winter_far_01.22579e5a.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_winter_near_01b.6c45b1e5.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_winter_near_01b.6c45b1e5.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/rock_06_winter.1a82fc8c.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/rock_06_winter.1a82fc8c.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/trees_winter_far_01b.d995fc50.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/trees_winter_far_01b.d995fc50.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/concrete_01.467e237b.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/concrete_01.467e237b.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/drystone_04.c9668f42.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/drystone_04.c9668f42.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/drystone_04_snow.aee09a95.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/drystone_04_snow.aee09a95.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/foliage_brush_winter.3157e6a1.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/foliage_brush_winter.3157e6a1.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/clouds_01b.d86e8361.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/clouds_01b.d86e8361.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_wood_snow.5df52f00.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_wood_snow.5df52f00.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_wood.06bbc7c3.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_wood.06bbc7c3.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/clouds_02.d765d208.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/clouds_02.d765d208.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/clouds_03.0544ea9f.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/clouds_03.0544ea9f.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/clouds_04.bdcd8039.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/clouds_04.bdcd8039.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/clouds_winter_sunrise.10f858c5.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/clouds_winter_sunrise.10f858c5.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/ambiance_summer_low.0e101ef7.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/ambiance_summer_low.0e101ef7.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/clouds_sunrise_b.76566df4.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/clouds_sunrise_b.76566df4.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/ambiance_spring.791a03fe.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/ambiance_spring.791a03fe.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/ambiance_cloudy.4d5b0a33.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/ambiance_cloudy.4d5b0a33.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/clouds_autumn_sunset.97e16563.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/clouds_autumn_sunset.97e16563.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/rock_06_bump.12f4b9f0.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/rock_06_bump.12f4b9f0.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/wind_02.deef0e2d.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/wind_02.deef0e2d.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/crossfade_finest.3013f964.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/crossfade_finest.3013f964.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/crossfade_fine.0d1ec73b.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/crossfade_fine.0d1ec73b.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/sea_waves.fba92bab.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/sea_waves.fba92bab.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_02.44c5c0ea.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_02.44c5c0ea.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/flake.d6a06041.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/flake.d6a06041.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/road_offworld.235fa320.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/road_offworld.235fa320.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_wood_n.f554ec90.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_wood_n.f554ec90.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/mars_surface.4083a724.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/mars_surface.4083a724.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_02_n.0c79c69f.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/wall_barrier_02_n.0c79c69f.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/mars_road_base.4b28c294.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/mars_road_base.4b28c294.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/mars_cliff_bump.8e6fa674.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/mars_cliff_bump.8e6fa674.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/mars_subsurface.d95fa5d1.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/mars_subsurface.d95fa5d1.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/mars_surface_bump.65340168.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/mars_surface_bump.65340168.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/mars_shale.9fd99ef9.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/mars_shale.9fd99ef9.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/mars_shale_bump.c92f843f.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/mars_shale_bump.c92f843f.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/mars_rubble.c8241124.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/mars_rubble.c8241124.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/mars_rock_bump.15322551.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/mars_rock_bump.15322551.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/mars_cliff.3ae2933c.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/mars_cliff.3ae2933c.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/mars_barrier_wide.d7dc8819.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/mars_barrier_wide.d7dc8819.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/mars_rubble_bump.80ebc535.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/mars_rubble_bump.80ebc535.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/venus_road_base.20746f01.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/venus_road_base.20746f01.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/mars_rock.75c6c859.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/mars_rock.75c6c859.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/venus_shale.bafde95f.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/venus_shale.bafde95f.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/venus_rubble.1f56f6fb.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/venus_rubble.1f56f6fb.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/venus_surface.38f0fb31.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/venus_surface.38f0fb31.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/venus_rock.c3115f27.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/venus_rock.c3115f27.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/venus_cliff.fbb8e3df.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/venus_cliff.fbb8e3df.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/road_venus.61168361.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/road_venus.61168361.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/moon_surface.f0a08f87.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/moon_surface.f0a08f87.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/moon_shale.07a93da8.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/moon_shale.07a93da8.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/moon_rock.47e45865.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/moon_rock.47e45865.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/moon_gravel.b53b019d.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/moon_gravel.b53b019d.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/moon_cliff.4bb9ff9d.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/moon_cliff.4bb9ff9d.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/venus_barrier_wide.1b943c45.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/venus_barrier_wide.1b943c45.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/road_moon.c594cb0f.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/road_moon.c594cb0f.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/clouds_02.840643a8.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/clouds_02.840643a8.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/ambiance_offworld.41a010f6.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/ambiance_offworld.41a010f6.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/clouds_01.e03e365b.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/clouds_01.e03e365b.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/wind_offworld_02.64ee03d4.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/wind_offworld_02.64ee03d4.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/crossfade_finest.da758a11.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/crossfade_finest.da758a11.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/achievement.97104f4a.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/achievement.97104f4a.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/road-despawns.677d3840.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/road-despawns.677d3840.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/u_turn.38a08a9e.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/u_turn.38a08a9e.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/arrow_up.fdd3dd06.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/arrow_up.fdd3dd06.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/earthrise.c3eff6a4.webp",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/earthrise.c3eff6a4.webp",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/warning.2f7f711f.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/warning.2f7f711f.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/anslo_ico.77ddc9f9.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/anslo_ico.77ddc9f9.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/no_mobile_1.959d982f.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/no_mobile_1.959d982f.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slowroads/static/js/static/media/splash-logo-placeholder-7b.2d60164d.png",
+      "error": "HTTP 404 for https://truffled.lol/games/slowroads/static/js/static/media/splash-logo-placeholder-7b.2d60164d.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T21:52:30.931Z",
+  "verifiedAt": "2026-11-17T21:52:56.767Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "s l o w  r o a d s",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9501,
+    "rendered": true
+  }
+}

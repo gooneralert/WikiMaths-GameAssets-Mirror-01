@@ -1,0 +1,1042 @@
+{
+  "slug": "spelunky-classic-hd",
+  "title": "Spelunky Classic HD",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/spelunky.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/spelunky.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/spelunkyclassic.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/spelunky.html",
+  "entryUrl": "https://truffled.lol/gamefile/spelunky.html",
+  "status": "done",
+  "sizeBytes": 16820873,
+  "assetCount": 10,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/serviceWorker.js",
+    "https://cdn.jsdelivr.net/assets/locale/locales.json",
+    "https://cdn.jsdelivr.net/assets/locale/fonts.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales_tr.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/text.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/text.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/text.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/datafile_runner.data",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/text.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/text.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/font.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/text.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/text.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/text.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/text.json",
+    "https://cdn.jsdelivr.net/assets/locale/fonts/7x7-monopixel/font.json",
+    "https://cdn.jsdelivr.net/assets/locale/fonts/fs-monopixel-regular/font.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/yell_help.png",
+    "https://cdn.jsdelivr.net/assets/locale/fonts/7-12-serif/font.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/tutorial_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/start_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/small_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/quit_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/reset_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/new.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/scores_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/level9_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/money_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/big_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/level13_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/level5_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/yell_help.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/charset/charset.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/start_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/small_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/uk/charset/charset_small.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/scores_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/reset_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/tutorial_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/money_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/new.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/quit_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/level5_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/big_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/level9_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/charset/charset_small.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/level13_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/yell_help.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ru/charset/charset.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/start_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/tutorial_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/scores_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/reset_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/small_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/quit_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/money_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/new.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/level5_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/level13_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/big_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/charset/font.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/charset/charset.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/level9_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/yell_help.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/tutorial_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/start_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/charset/charset_small.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/small_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/scores_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/money_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/new.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/quit_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/level9_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/reset_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/level5_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/charset/font.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/level13_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/big_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/charset/charset.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/images/tutorial_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/fr/charset/charset_small.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/images/start_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/images/small_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/images/yell_help.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/images/scores_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/images/new.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/images/reset_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/images/money_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/images/quit_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/images/level9_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/images/level5_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/images/big_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/charset/font.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/images/level13_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/charset/charset_small.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/tutorial_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/es/charset/charset.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/scores_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/reset_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/yell_help.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/start_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/small_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/quit_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/new.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/level5_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/money_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/level9_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/level13_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/charset/charset_small.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/images/yell_help.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/images/tutorial_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/big_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/eo/charset/charset.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/images/small_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/images/start_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/images/new.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/images/reset_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/images/scores_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/images/quit_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/images/money_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/images/level13_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/images/level5_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/images/big_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/images/level9_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/charset/charset.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/en/charset/charset_small.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/images/small_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/images/start_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/images/tutorial_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/images/yell_help.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/images/reset_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/images/new.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/images/money_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/images/level9_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/images/scores_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/images/level5_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/images/quit_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/charset/font.json",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/images/level13_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/charset/charset_small.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/yell_help.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/charset/charset.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/de/images/big_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/start_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/scores_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/tutorial_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/small_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/money_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/reset_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/quit_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/new.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/level9_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/level13_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/fonts/fs-monopixel-regular/font/readme.txt",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/big_collect.png",
+    "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/level5_sign.png",
+    "https://cdn.jsdelivr.net/assets/locale/fonts/7x7-monopixel/font/readme.txt",
+    "https://cdn.jsdelivr.net/assets/locale/fonts/fs-monopixel-regular/font/license.txt",
+    "https://cdn.jsdelivr.net/assets/locale/fonts/7-12-serif/font/readme.txt",
+    "https://cdn.jsdelivr.net/assets/locale/fonts/7x7-monopixel/font/license.txt",
+    "https://cdn.jsdelivr.net/images/AvatarPlaceholder.png",
+    "https://cdn.jsdelivr.net/assets/locale/fonts/7-12-serif/font/license.txt",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/audio-worklet.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/.wav"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/serviceWorker.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/serviceWorker.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/fonts.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/fonts.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales_tr.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales_tr.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/text.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/text.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/text.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/text.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/text.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/text.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/datafile_runner.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/datafile_runner.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/text.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/text.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/text.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/text.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/font.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/font.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/text.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/text.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/text.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/text.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/text.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/text.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/text.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/text.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/fonts/7x7-monopixel/font.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/fonts/7x7-monopixel/font.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/fonts/fs-monopixel-regular/font.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/fonts/fs-monopixel-regular/font.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/yell_help.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/images/yell_help.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/fonts/7-12-serif/font.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/fonts/7-12-serif/font.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/tutorial_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/images/tutorial_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/start_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/images/start_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/small_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/images/small_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/quit_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/images/quit_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/reset_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/images/reset_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/new.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/images/new.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/scores_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/images/scores_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/level9_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/images/level9_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/money_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/images/money_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/big_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/images/big_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/level13_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/images/level13_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/images/level5_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/images/level5_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/yell_help.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/images/yell_help.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/charset/charset.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/charset/charset.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/start_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/images/start_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/small_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/images/small_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/uk/charset/charset_small.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/uk/charset/charset_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/scores_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/images/scores_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/reset_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/images/reset_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/tutorial_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/images/tutorial_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/money_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/images/money_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/new.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/images/new.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/quit_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/images/quit_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/level5_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/images/level5_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/big_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/images/big_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/level9_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/images/level9_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/charset/charset_small.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/charset/charset_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/images/level13_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/images/level13_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/yell_help.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/yell_help.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ru/charset/charset.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ru/charset/charset.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/start_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/start_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/tutorial_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/tutorial_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/scores_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/scores_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/reset_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/reset_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/small_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/small_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/quit_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/quit_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/money_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/money_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/new.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/new.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/level5_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/level5_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/level13_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/level13_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/big_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/big_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/charset/font.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/charset/font.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/charset/charset.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/charset/charset.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/level9_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/images/level9_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/yell_help.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/images/yell_help.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/tutorial_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/images/tutorial_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/start_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/images/start_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/pt_br/charset/charset_small.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/pt_br/charset/charset_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/small_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/images/small_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/scores_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/images/scores_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/money_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/images/money_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/new.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/images/new.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/quit_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/images/quit_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/level9_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/images/level9_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/reset_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/images/reset_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/level5_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/images/level5_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/charset/font.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/charset/font.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/level13_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/images/level13_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/images/big_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/images/big_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/charset/charset.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/charset/charset.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/images/tutorial_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/images/tutorial_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/fr/charset/charset_small.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/fr/charset/charset_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/images/start_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/images/start_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/images/small_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/images/small_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/images/yell_help.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/images/yell_help.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/images/scores_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/images/scores_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/images/new.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/images/new.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/images/reset_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/images/reset_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/images/money_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/images/money_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/images/quit_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/images/quit_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/images/level9_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/images/level9_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/images/level5_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/images/level5_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/images/big_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/images/big_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/charset/font.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/charset/font.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/images/level13_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/images/level13_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/charset/charset_small.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/charset/charset_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/tutorial_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/images/tutorial_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/es/charset/charset.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/es/charset/charset.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/scores_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/images/scores_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/reset_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/images/reset_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/yell_help.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/images/yell_help.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/start_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/images/start_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/small_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/images/small_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/quit_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/images/quit_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/new.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/images/new.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/level5_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/images/level5_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/money_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/images/money_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/level9_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/images/level9_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/level13_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/images/level13_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/charset/charset_small.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/charset/charset_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/images/yell_help.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/images/yell_help.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/images/tutorial_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/images/tutorial_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/images/big_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/images/big_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/eo/charset/charset.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/eo/charset/charset.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/images/small_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/images/small_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/images/start_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/images/start_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/images/new.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/images/new.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/images/reset_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/images/reset_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/images/scores_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/images/scores_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/images/quit_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/images/quit_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/images/money_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/images/money_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/images/level13_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/images/level13_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/images/level5_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/images/level5_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/images/big_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/images/big_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/images/level9_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/images/level9_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/charset/charset.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/charset/charset.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/en/charset/charset_small.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/en/charset/charset_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/images/small_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/images/small_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/images/start_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/images/start_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/images/tutorial_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/images/tutorial_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/images/yell_help.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/images/yell_help.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/images/reset_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/images/reset_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/images/new.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/images/new.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/images/money_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/images/money_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/images/level9_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/images/level9_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/images/scores_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/images/scores_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/images/level5_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/images/level5_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/images/quit_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/images/quit_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/charset/font.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/charset/font.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/images/level13_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/images/level13_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/charset/charset_small.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/charset/charset_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/yell_help.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/images/yell_help.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/charset/charset.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/charset/charset.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/de/images/big_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/de/images/big_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/start_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/images/start_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/scores_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/images/scores_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/tutorial_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/images/tutorial_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/small_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/images/small_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/money_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/images/money_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/reset_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/images/reset_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/quit_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/images/quit_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/new.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/images/new.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/level9_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/images/level9_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/level13_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/images/level13_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/fonts/fs-monopixel-regular/font/readme.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/fonts/fs-monopixel-regular/font/readme.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/big_collect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/images/big_collect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/locales/ar/images/level5_sign.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/locales/ar/images/level5_sign.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/fonts/7x7-monopixel/font/readme.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/fonts/7x7-monopixel/font/readme.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/fonts/fs-monopixel-regular/font/license.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/fonts/fs-monopixel-regular/font/license.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/fonts/7-12-serif/font/readme.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/fonts/7-12-serif/font/readme.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/fonts/7x7-monopixel/font/license.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/fonts/7x7-monopixel/font/license.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/AvatarPlaceholder.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/AvatarPlaceholder.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/assets/locale/fonts/7-12-serif/font/license.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/assets/locale/fonts/7-12-serif/font/license.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/audio-worklet.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/audio-worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/.wav",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:56:18.030Z",
+  "verifiedAt": "2026-11-17T22:56:27.764Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "SpelunkyClassicHD",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 800,
+      "height": 600
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.7407,
+    "rendered": true
+  }
+}

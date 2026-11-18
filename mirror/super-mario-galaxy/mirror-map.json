@@ -1,0 +1,18 @@
+{
+  "/games/smg/audio-worklet.js": "/audio-worklet.js",
+  "/games/smg/coi-serviceworker.js": "/coi-serviceworker.js",
+  "/games/smg/game.index": "/game.index",
+  "/games/smg/index.html": "/index.html",
+  "/games/smg/petari.js": "/petari.js",
+  "/games/smg/petari.wasm": "/petari.wasm",
+  "/games/smg/shader-seed.bin": "/shader-seed.bin",
+  "/games/smg/shell.js": "/shell.js",
+  "https://truffled.lol/games/smg/audio-worklet.js": "/audio-worklet.js",
+  "https://truffled.lol/games/smg/coi-serviceworker.js": "/coi-serviceworker.js",
+  "https://truffled.lol/games/smg/game.index": "/game.index",
+  "https://truffled.lol/games/smg/index.html": "/index.html",
+  "https://truffled.lol/games/smg/petari.js": "/petari.js",
+  "https://truffled.lol/games/smg/petari.wasm": "/petari.wasm",
+  "https://truffled.lol/games/smg/shader-seed.bin": "/shader-seed.bin",
+  "https://truffled.lol/games/smg/shell.js": "/shell.js"
+}

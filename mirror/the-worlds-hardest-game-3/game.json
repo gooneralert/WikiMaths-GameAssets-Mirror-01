@@ -1,0 +1,47 @@
+{
+  "slug": "the-worlds-hardest-game-3",
+  "title": "The World's Hardest Game 3",
+  "type": "Flash",
+  "developer": "Stephen Critoph",
+  "description": "__ref_a__",
+  "tags": [
+    "Arcade",
+    "Puzzle",
+    "Platformer",
+    "Difficult",
+    "Indie"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "92495c19-b923-4dfa-a77c-4498172f4f4e",
+  "sourceVersion": "1.1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/92495c19-b923-4dfa-a77c-4498172f4f4e/1.1/92495c19-b923-4dfa-a77c-4498172f4f4e.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 4180058,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:57:05.697Z",
+  "verifiedAt": "2026-11-16T16:13:49.179Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "The World's Hardest Game 3",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.6129,
+    "rendered": true
+  },
+  "assetCount": 0
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "solitaire",
+  "title": "Solitaire",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/solitaire/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/solitaire/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/soli.webp",
+  "baseUrl": "https://truffled.lol/games/solitaire/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/solitaire/index.html",
+  "status": "done",
+  "sizeBytes": 337617,
+  "assetCount": 28,
+  "known404": [
+    "https://truffled.lol/games/solitaire/lib/os-gui/images/titlebar-buttons.png",
+    "https://truffled.lol/projects/solitaire/audio/CHORD.WAV",
+    "https://truffled.lol/games/solitaire/src/src/spritesheet.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/solitaire/lib/os-gui/images/titlebar-buttons.png",
+      "error": "HTTP 404 for https://truffled.lol/games/solitaire/lib/os-gui/images/titlebar-buttons.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/projects/solitaire/audio/CHORD.WAV",
+      "error": "HTTP 404 for https://truffled.lol/projects/solitaire/audio/CHORD.WAV",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/solitaire/src/src/spritesheet.png",
+      "error": "HTTP 404 for https://truffled.lol/games/solitaire/src/src/spritesheet.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:08:13.177Z",
+  "verifiedAt": "2026-11-17T22:08:22.823Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Solitaire",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.9683,
+    "rendered": true
+  }
+}

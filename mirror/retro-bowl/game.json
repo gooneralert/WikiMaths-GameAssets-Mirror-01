@@ -1,0 +1,142 @@
+{
+  "slug": "retro-bowl",
+  "title": "Retro Bowl",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/retro-bowl/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/retro-bowl/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/retro.webp",
+  "baseUrl": "https://truffled.lol/games/retro-bowl/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/retro-bowl/index.html",
+  "status": "done",
+  "sizeBytes": 8658909,
+  "assetCount": 103,
+  "known404": [
+    "https://truffled.lol/games/retro-bowl/html5game/TT_DotGothic16-M.TTF",
+    "https://truffled.lol/games/retro-bowl/html5game/ProTeams_CO.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/Teams_CO.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/uniforms_default_CO.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/uniforms_custom_2.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/uniforms_custom_3.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/uniforms_custom_4.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/uniforms_custom_5.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/Hobbies_CO.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/MajorMinor_CO.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/Cities_CO.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/Traits_CO.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/EpilogueValues_CO.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/RetroBowl_History.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/Schedule_CO.txt",
+    "https://truffled.lol/games/retro-bowl/html5game/download.gif"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/TT_DotGothic16-M.TTF",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/TT_DotGothic16-M.TTF",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/ProTeams_CO.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/ProTeams_CO.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/Teams_CO.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/Teams_CO.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/uniforms_default_CO.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/uniforms_default_CO.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/uniforms_custom_2.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/uniforms_custom_2.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/uniforms_custom_3.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/uniforms_custom_3.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/uniforms_custom_4.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/uniforms_custom_4.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/uniforms_custom_5.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/uniforms_custom_5.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/Hobbies_CO.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/Hobbies_CO.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/MajorMinor_CO.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/MajorMinor_CO.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/Cities_CO.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/Cities_CO.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/Traits_CO.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/Traits_CO.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/EpilogueValues_CO.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/EpilogueValues_CO.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/RetroBowl_History.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/RetroBowl_History.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/Schedule_CO.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/Schedule_CO.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/retro-bowl/html5game/download.gif",
+      "error": "HTTP 404 for https://truffled.lol/games/retro-bowl/html5game/download.gif",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T19:42:26.348Z",
+  "verifiedAt": "2026-11-17T19:42:36.344Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Retro Bowl",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1112,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.6198,
+    "rendered": true
+  }
+}

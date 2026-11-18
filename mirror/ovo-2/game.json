@@ -1,0 +1,88 @@
+{
+  "slug": "ovo-2",
+  "title": "OvO 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/OvO2/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/OvO2/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/ovo2.webp",
+  "baseUrl": "https://truffled.lol/games/OvO2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/OvO2/index.html",
+  "status": "done",
+  "sizeBytes": 2091488,
+  "assetCount": 68,
+  "known404": [
+    "https://truffled.lol/games/OvO2/icons/icon-128.png",
+    "https://truffled.lol/games/OvO2/scripts/sw.js",
+    "https://truffled.lol/games/OvO2/scripts/opus.wasm.wasm",
+    "https://truffled.lol/games/OvO2/scripts/workermain.js",
+    "https://truffled.lol/games/OvO2/scripts/scripts/c3runtime.js",
+    "https://truffled.lol/games/OvO2/scripts/plugins.json.debugger.data",
+    "https://truffled.lol/games/OvO2/scripts/Courses.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/OvO2/icons/icon-128.png",
+      "error": "HTTP 404 for https://truffled.lol/games/OvO2/icons/icon-128.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/OvO2/scripts/sw.js",
+      "error": "HTTP 404 for https://truffled.lol/games/OvO2/scripts/sw.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/OvO2/scripts/opus.wasm.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/OvO2/scripts/opus.wasm.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/OvO2/scripts/workermain.js",
+      "error": "HTTP 404 for https://truffled.lol/games/OvO2/scripts/workermain.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/OvO2/scripts/scripts/c3runtime.js",
+      "error": "HTTP 404 for https://truffled.lol/games/OvO2/scripts/scripts/c3runtime.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/OvO2/scripts/plugins.json.debugger.data",
+      "error": "HTTP 404 for https://truffled.lol/games/OvO2/scripts/plugins.json.debugger.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/OvO2/scripts/Courses.json",
+      "error": "HTTP 404 for https://truffled.lol/games/OvO2/scripts/Courses.json",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T15:19:30.644Z",
+  "verifiedAt": "2026-11-17T15:20:37.055Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "OvO 2 Unblocked - ubg235 GC",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8463,
+    "rendered": true
+  }
+}

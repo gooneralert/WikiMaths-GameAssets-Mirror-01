@@ -1,0 +1,64 @@
+{
+  "slug": "there-is-no-game",
+  "title": "There Is No Game",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/there-is-no-game/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/there-is-no-game/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/ting.webp",
+  "baseUrl": "https://truffled.lol/games/there-is-no-game/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/there-is-no-game/index.html",
+  "status": "done",
+  "sizeBytes": 5471270,
+  "assetCount": 550,
+  "known404": [
+    "https://truffled.lol/cloak.js",
+    "https://truffled.lol/games/there-is-no-game/icon-256.png",
+    "https://truffled.lol/games/there-is-no-game/data.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/cloak.js",
+      "error": "HTTP 404 for https://truffled.lol/cloak.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/there-is-no-game/icon-256.png",
+      "error": "HTTP 404 for https://truffled.lol/games/there-is-no-game/icon-256.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/there-is-no-game/data.json",
+      "error": "HTTP 404 for https://truffled.lol/games/there-is-no-game/data.json",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T01:00:55.391Z",
+  "verifiedAt": "2026-11-18T01:01:05.328Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 26,
+    "title": "ThereIsNoGame Unblocked - ClassRoom6x",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1111,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0137,
+    "rendered": true
+  }
+}

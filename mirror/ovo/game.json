@@ -1,0 +1,630 @@
+{
+  "slug": "ovo",
+  "title": "OvO",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/ovo/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/ovo/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/ovo.webp",
+  "baseUrl": "https://truffled.lol/games/ovo/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/ovo/index.html",
+  "status": "done",
+  "sizeBytes": 12384423,
+  "assetCount": 603,
+  "known404": [
+    "https://truffled.lol/games/ovo/media/click.ogg",
+    "https://truffled.lol/games/ovo/media/hover.ogg",
+    "https://truffled.lol/games/ovo/media/return.ogg",
+    "https://truffled.lol/games/ovo/media/step.ogg",
+    "https://truffled.lol/games/ovo/media/step2.ogg",
+    "https://truffled.lol/games/ovo/media/step3.ogg",
+    "https://truffled.lol/games/ovo/media/footstep.ogg",
+    "https://truffled.lol/games/ovo/media/pound.ogg",
+    "https://truffled.lol/games/ovo/media/prepound.ogg",
+    "https://truffled.lol/games/ovo/media/jump.ogg",
+    "https://truffled.lol/games/ovo/media/stun.ogg",
+    "https://truffled.lol/games/ovo/media/jumpboost.ogg",
+    "https://truffled.lol/games/ovo/media/hurt.ogg",
+    "https://truffled.lol/games/ovo/media/plunge.ogg",
+    "https://truffled.lol/games/ovo/media/jumpstrong.ogg",
+    "https://truffled.lol/games/ovo/media/walljump.ogg",
+    "https://truffled.lol/games/ovo/media/superjump.ogg",
+    "https://truffled.lol/games/ovo/media/sfx_transition-01.ogg",
+    "https://truffled.lol/games/ovo/media/sfx_transition-02.ogg",
+    "https://truffled.lol/games/ovo/media/sfx_transition-03.ogg",
+    "https://truffled.lol/games/ovo/media/sfx_transition-04.ogg",
+    "https://truffled.lol/games/ovo/media/sfx_transition-05.ogg",
+    "https://truffled.lol/games/ovo/media/sfx_transition-06.ogg",
+    "https://truffled.lol/games/ovo/media/sfx_transition-07.ogg",
+    "https://truffled.lol/games/ovo/media/sfx_transition-08.ogg",
+    "https://truffled.lol/games/ovo/media/slide.ogg",
+    "https://truffled.lol/games/ovo/media/slide_recover.ogg",
+    "https://truffled.lol/games/ovo/media/button.ogg",
+    "https://truffled.lol/games/ovo/media/rocket-2.ogg",
+    "https://truffled.lol/games/ovo/media/coin1.ogg",
+    "https://truffled.lol/games/ovo/media/death-2.ogg",
+    "https://truffled.lol/games/ovo/media/transition.ogg",
+    "https://truffled.lol/games/ovo/media/death.ogg",
+    "https://truffled.lol/games/ovo/media/menutrack.ogg",
+    "https://truffled.lol/games/ovo/media/idontevenknow.ogg",
+    "https://truffled.lol/games/ovo/media/mechanical.ogg",
+    "https://truffled.lol/games/ovo/media/soulmates.ogg",
+    "https://truffled.lol/games/ovo/media/track2.ogg",
+    "https://truffled.lol/games/ovo/media/track3.ogg",
+    "https://truffled.lol/games/ovo/media/track4.ogg",
+    "https://truffled.lol/games/ovo/media/track1.ogg",
+    "https://truffled.lol/games/ovo/data.json",
+    "https://truffled.lol/games/ovo/click.ogg",
+    "https://truffled.lol/games/ovo/hover.ogg",
+    "https://truffled.lol/games/ovo/return.ogg",
+    "https://truffled.lol/games/ovo/step.ogg",
+    "https://truffled.lol/games/ovo/step2.ogg",
+    "https://truffled.lol/games/ovo/step3.ogg",
+    "https://truffled.lol/games/ovo/footstep.ogg",
+    "https://truffled.lol/games/ovo/pound.ogg",
+    "https://truffled.lol/games/ovo/prepound.ogg",
+    "https://truffled.lol/games/ovo/stun.ogg",
+    "https://truffled.lol/games/ovo/jump.ogg",
+    "https://truffled.lol/games/ovo/jumpboost.ogg",
+    "https://truffled.lol/games/ovo/hurt.ogg",
+    "https://truffled.lol/games/ovo/plunge.ogg",
+    "https://truffled.lol/games/ovo/jumpstrong.ogg",
+    "https://truffled.lol/games/ovo/superjump.ogg",
+    "https://truffled.lol/games/ovo/sfx_transition-01.ogg",
+    "https://truffled.lol/games/ovo/walljump.ogg",
+    "https://truffled.lol/games/ovo/sfx_transition-02.ogg",
+    "https://truffled.lol/games/ovo/sfx_transition-03.ogg",
+    "https://truffled.lol/games/ovo/sfx_transition-05.ogg",
+    "https://truffled.lol/games/ovo/sfx_transition-04.ogg",
+    "https://truffled.lol/games/ovo/sfx_transition-06.ogg",
+    "https://truffled.lol/games/ovo/sfx_transition-07.ogg",
+    "https://truffled.lol/games/ovo/slide.ogg",
+    "https://truffled.lol/games/ovo/sfx_transition-08.ogg",
+    "https://truffled.lol/games/ovo/slide_recover.ogg",
+    "https://truffled.lol/games/ovo/button.ogg",
+    "https://truffled.lol/games/ovo/rocket-2.ogg",
+    "https://truffled.lol/games/ovo/coin1.ogg",
+    "https://truffled.lol/games/ovo/death-2.ogg",
+    "https://truffled.lol/games/ovo/transition.ogg",
+    "https://truffled.lol/games/ovo/death.ogg",
+    "https://truffled.lol/games/ovo/menutrack.ogg",
+    "https://truffled.lol/games/ovo/lzma_worker.js",
+    "https://truffled.lol/games/ovo/lzma_worker-min.js",
+    "https://truffled.lol/solid.png",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "http://imasdk.googleapis.com/js/sdkloader/.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/ovo/media/click.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/click.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/hover.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/hover.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/return.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/return.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/step.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/step.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/step2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/step2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/step3.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/step3.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/footstep.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/footstep.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/pound.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/pound.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/prepound.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/prepound.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/jump.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/jump.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/stun.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/stun.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/jumpboost.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/jumpboost.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/hurt.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/hurt.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/plunge.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/plunge.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/jumpstrong.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/jumpstrong.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/walljump.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/walljump.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/superjump.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/superjump.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/sfx_transition-01.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/sfx_transition-01.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/sfx_transition-02.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/sfx_transition-02.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/sfx_transition-03.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/sfx_transition-03.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/sfx_transition-04.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/sfx_transition-04.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/sfx_transition-05.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/sfx_transition-05.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/sfx_transition-06.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/sfx_transition-06.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/sfx_transition-07.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/sfx_transition-07.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/sfx_transition-08.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/sfx_transition-08.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/slide.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/slide.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/slide_recover.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/slide_recover.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/button.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/button.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/rocket-2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/rocket-2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/coin1.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/coin1.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/death-2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/death-2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/transition.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/transition.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/death.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/death.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/menutrack.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/menutrack.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/idontevenknow.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/idontevenknow.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/mechanical.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/mechanical.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/soulmates.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/soulmates.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/track2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/track2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/track3.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/track3.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/track4.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/track4.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/media/track1.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/media/track1.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/data.json",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/data.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/click.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/click.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/hover.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/hover.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/return.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/return.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/step.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/step.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/step2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/step2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/step3.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/step3.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/footstep.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/footstep.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/pound.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/pound.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/prepound.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/prepound.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/stun.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/stun.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/jump.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/jump.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/jumpboost.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/jumpboost.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/hurt.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/hurt.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/plunge.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/plunge.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/jumpstrong.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/jumpstrong.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/superjump.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/superjump.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/sfx_transition-01.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/sfx_transition-01.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/walljump.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/walljump.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/sfx_transition-02.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/sfx_transition-02.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/sfx_transition-03.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/sfx_transition-03.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/sfx_transition-05.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/sfx_transition-05.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/sfx_transition-04.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/sfx_transition-04.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/sfx_transition-06.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/sfx_transition-06.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/sfx_transition-07.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/sfx_transition-07.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/slide.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/slide.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/sfx_transition-08.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/sfx_transition-08.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/slide_recover.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/slide_recover.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/button.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/button.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/rocket-2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/rocket-2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/coin1.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/coin1.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/death-2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/death-2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/transition.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/transition.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/death.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/death.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/menutrack.ogg",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/menutrack.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/lzma_worker.js",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/lzma_worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ovo/lzma_worker-min.js",
+      "error": "HTTP 404 for https://truffled.lol/games/ovo/lzma_worker-min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/solid.png",
+      "error": "HTTP 404 for https://truffled.lol/solid.png",
+      "status": 404
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/outlook.com.br",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/outlook.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/hotmail.com.br",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/hotmail.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/index.js",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/index.js",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/soecket.io.js",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/soecket.io.js",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/logo.svg",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/logo.svg",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/Prebid.js",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/Prebid.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/ojogos.com.br",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/ojogos.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/wrap.js",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/wrap.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/gecal.com.br",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/gecal.com.br",
+      "status": 403
+    },
+    {
+      "url": "http://hb.improvedigital.com/pbw/prebid-idhb-v11.13b.min.js",
+      "error": "HTTP 403 for http://hb.improvedigital.com/pbw/prebid-idhb-v11.13b.min.js",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T15:17:59.736Z",
+  "verifiedAt": "2026-11-17T15:18:12.156Z",
+  "verification": {
+    "external": 4,
+    "blocking": 0,
+    "ignoredExternal": 4,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 36,
+    "title": "OvO",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

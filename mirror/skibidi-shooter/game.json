@@ -1,0 +1,319 @@
+{
+  "slug": "skibidi-shooter",
+  "title": "Skibidi Shooter",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/skibidi-shooter/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/skibidi-shooter/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/ski.webp",
+  "baseUrl": "https://truffled.lol/games/skibidi-shooter/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/skibidi-shooter/index.html",
+  "status": "done",
+  "sizeBytes": 5300851,
+  "assetCount": 200,
+  "known404": [
+    "https://truffled.lol/games/skibidi-shooter/icons/icon-128.png",
+    "https://truffled.lol/games/skibidi-shooter/icons/icon-512.png",
+    "https://truffled.lol/games/skibidi-shooter/icons/icon-256.png",
+    "https://truffled.lol/games/skibidi-shooter/gltfWorker.js",
+    "https://truffled.lol/games/skibidi-shooter/scripts/sw.js",
+    "https://truffled.lol/games/skibidi-shooter/scripts/workermain.js",
+    "https://truffled.lol/workermain.js",
+    "https://truffled.lol/games/skibidi-shooter/scripts/opus.wasm.js",
+    "https://truffled.lol/games/skibidi-shooter/scripts/previewworker.js",
+    "https://truffled.lol/games/skibidi-shooter/scripts/opus.wasm.wasm",
+    "https://truffled.lol/games/skibidi-shooter/scripts/scriptsInEvents.js",
+    "https://truffled.lol/scriptsInEvents.js",
+    "https://truffled.lol/games/skibidi-shooter/scripts/scripts/c3runtime.js",
+    "https://truffled.lol/games/skibidi-shooter/scripts/scripts/project/main.js",
+    "https://truffled.lol/games/skibidi-shooter/scripts/scripts/project/scriptsInEvents.js",
+    "https://truffled.lol/games/skibidi-shooter/scripts/project/mymodule.js",
+    "https://truffled.lol/games/skibidi-shooter/scripts/project/patch/poki-sdk.js",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://t.poki.io/game-cookies",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://t.poki.io/adserver",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://aax.amazon-adsystem.com/e/dtb/vast?b=",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://onetag-sys.com/invocation/?key=",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://api.poki.com/ads/houseads/video/vast",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://search.spotxchange.com/ad/vast.html?key=",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://prebid-server.rubiconproject.com/cache?uuid=",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache?uuid=",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://devs-api.poki.com/gameinfo/@sdk?href=",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://geo.poki.io/",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://t.poki.io/l",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://api.poki.com/ads/settings",
+    "https://truffled.lol/games/skibidi-shooter/patch/touchControllerConfig.json",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?patch/google/ima3.js?imasdk.googleapis.com/js/sdkloader/ima3.js",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?/__offline__/disabled-telemetry",
+    "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://t.poki.io/ge",
+    "https://truffled.lol/games/skibidi-shooter/scripts/NW.js",
+    "https://truffled.lol/games/skibidi-shooter/scripts/data.json",
+    "https://truffled.lol/games/skibidi-shooter/scripts/splash-images/splash-logo.svg",
+    "https://truffled.lol/games/skibidi-shooter/scripts/splash-images/splash-website-512.png",
+    "https://truffled.lol/games/skibidi-shooter/scripts/splash-images/splash-poweredby-512.png",
+    "https://truffled.lol/games/skibidi-shooter/scripts/loading-logo.png",
+    "https://truffled.lol/games/skibidi-shooter/scripts/redblackset.js",
+    "https://truffled.lol/games/skibidi-shooter/scripts/pathfind.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/icons/icon-128.png",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/icons/icon-128.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/icons/icon-512.png",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/icons/icon-512.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/icons/icon-256.png",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/icons/icon-256.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/gltfWorker.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/gltfWorker.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/sw.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/sw.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/workermain.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/workermain.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/workermain.js",
+      "error": "HTTP 404 for https://truffled.lol/workermain.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/opus.wasm.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/opus.wasm.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/previewworker.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/previewworker.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/opus.wasm.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/opus.wasm.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/scriptsInEvents.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/scriptsInEvents.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/scriptsInEvents.js",
+      "error": "HTTP 404 for https://truffled.lol/scriptsInEvents.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/scripts/c3runtime.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/scripts/c3runtime.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/scripts/project/main.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/scripts/project/main.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/scripts/project/scriptsInEvents.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/scripts/project/scriptsInEvents.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/project/mymodule.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/project/mymodule.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/project/patch/poki-sdk.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/project/patch/poki-sdk.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://t.poki.io/game-cookies",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://t.poki.io/game-cookies",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://t.poki.io/adserver",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://t.poki.io/adserver",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://aax.amazon-adsystem.com/e/dtb/vast?b=",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://aax.amazon-adsystem.com/e/dtb/vast?b=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://onetag-sys.com/invocation/?key=",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://onetag-sys.com/invocation/?key=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://api.poki.com/ads/houseads/video/vast",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://api.poki.com/ads/houseads/video/vast",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://search.spotxchange.com/ad/vast.html?key=",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://search.spotxchange.com/ad/vast.html?key=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://prebid-server.rubiconproject.com/cache?uuid=",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://prebid-server.rubiconproject.com/cache?uuid=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache?uuid=",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://prebid.adnxs.com/pbc/v1/cache?uuid=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://devs-api.poki.com/gameinfo/@sdk?href=",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://devs-api.poki.com/gameinfo/@sdk?href=",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://geo.poki.io/",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://geo.poki.io/",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://t.poki.io/l",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://t.poki.io/l",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://api.poki.com/ads/settings",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://api.poki.com/ads/settings",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/touchControllerConfig.json",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/touchControllerConfig.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?patch/google/ima3.js?imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?patch/google/ima3.js?imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?/__offline__/disabled-telemetry",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?/__offline__/disabled-telemetry",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://t.poki.io/ge",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/patch/patch/json/null.json?https://t.poki.io/ge",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/NW.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/NW.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/data.json",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/data.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/splash-images/splash-logo.svg",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/splash-images/splash-logo.svg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/splash-images/splash-website-512.png",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/splash-images/splash-website-512.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/splash-images/splash-poweredby-512.png",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/splash-images/splash-poweredby-512.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/loading-logo.png",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/loading-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/redblackset.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/redblackset.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/skibidi-shooter/scripts/pathfind.js",
+      "error": "HTTP 404 for https://truffled.lol/games/skibidi-shooter/scripts/pathfind.js",
+      "status": 404
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/.png",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/.png",
+      "status": 403
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/_down.png",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/_down.png",
+      "status": 403
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/dpad.png",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/dpad.png",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T21:14:20.576Z",
+  "verifiedAt": "2026-11-17T21:15:27.608Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Skibidi Shooter Unblocked - ClassRoom6x",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1111,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9805,
+    "rendered": true
+  }
+}

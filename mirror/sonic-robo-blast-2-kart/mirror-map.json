@@ -1,0 +1,10 @@
+{
+  "/games/kart/index.html": "/index.html",
+  "/games/kart/index.js": "/index.js",
+  "/games/kart/srb2kart.js": "/srb2kart.js",
+  "/games/kart/srb2kart.wasm": "/srb2kart.wasm",
+  "https://truffled.lol/games/kart/index.html": "/index.html",
+  "https://truffled.lol/games/kart/index.js": "/index.js",
+  "https://truffled.lol/games/kart/srb2kart.js": "/srb2kart.js",
+  "https://truffled.lol/games/kart/srb2kart.wasm": "/srb2kart.wasm"
+}

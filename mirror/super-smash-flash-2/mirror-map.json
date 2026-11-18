@@ -1,0 +1,10 @@
+{
+  "/gamefile/ssf2.html": "/ssf2.html",
+  "https://cdn.jsdelivr.net/gh/KrMattsson/azurenaming@0d162ac92aa303b9fe7c30988877cb5025c7183a/Pages/ssf2-0.4a.swf": "/__external__/cdn.jsdelivr.net/gh/KrMattsson/azurenaming@0d162ac92aa303b9fe7c30988877cb5025c7183a/Pages/ssf2-0.4a.swf",
+  "https://cdn.jsdelivr.net/gh/KrMattsson/azurenaming@f6f29a0b6197766f84b1784591aaacfdc7de7bca/Pages/ssf2_audio.swf": "/__external__/cdn.jsdelivr.net/gh/KrMattsson/azurenaming@f6f29a0b6197766f84b1784591aaacfdc7de7bca/Pages/ssf2_audio.swf",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/core.ruffle.ae1054522f49580946c0.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/core.ruffle.ae1054522f49580946c0.js",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/f7f28eb60b84863611ca.wasm": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/f7f28eb60b84863611ca.wasm",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.js",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.min.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.min.js",
+  "https://truffled.lol/gamefile/ssf2.html": "/ssf2.html"
+}

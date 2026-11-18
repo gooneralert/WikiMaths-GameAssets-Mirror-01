@@ -1,0 +1,171 @@
+{
+  "slug": "super-oliver-world",
+  "title": "Super Oliver World",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/superoliverworld.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/superoliverworld.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/superoliverworld.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/superoliverworld.html",
+  "entryUrl": "https://truffled.lol/gamefile/superoliverworld.html",
+  "status": "done",
+  "sizeBytes": 6192462,
+  "assetCount": 171,
+  "known404": [
+    "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/workermain.js",
+    "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/sw.js",
+    "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/opus.wasm.js",
+    "https://128573058-271038573160472917.preview.editmysite.com/workermain.js",
+    "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/opus.wasm.wasm",
+    "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/scriptsInEvents.js",
+    "https://128573058-271038573160472917.preview.editmysite.com/scriptsInEvents.js",
+    "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/previewworker.js",
+    "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/NW.js",
+    "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/splash-images/splash-poweredby-512.png",
+    "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/loading-logo.png",
+    "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/splash-images/splash-logo.svg",
+    "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/splash-images/splash-website-512.png",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://cdn.jsdelivr.net/gh/st39/sdk@main/lib/main.js",
+    "https://www.googletagservices.com/pubads_impl.js",
+    "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css"
+  ],
+  "failed": [
+    {
+      "url": "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/workermain.js",
+      "error": "HTTP 404 for https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/workermain.js",
+      "status": 404
+    },
+    {
+      "url": "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/sw.js",
+      "error": "HTTP 404 for https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/sw.js",
+      "status": 404
+    },
+    {
+      "url": "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/opus.wasm.js",
+      "error": "HTTP 404 for https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/opus.wasm.js",
+      "status": 404
+    },
+    {
+      "url": "https://128573058-271038573160472917.preview.editmysite.com/workermain.js",
+      "error": "HTTP 404 for https://128573058-271038573160472917.preview.editmysite.com/workermain.js",
+      "status": 404
+    },
+    {
+      "url": "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/opus.wasm.wasm",
+      "error": "HTTP 404 for https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/opus.wasm.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/scriptsInEvents.js",
+      "error": "HTTP 404 for https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/scriptsInEvents.js",
+      "status": 404
+    },
+    {
+      "url": "https://128573058-271038573160472917.preview.editmysite.com/scriptsInEvents.js",
+      "error": "HTTP 404 for https://128573058-271038573160472917.preview.editmysite.com/scriptsInEvents.js",
+      "status": 404
+    },
+    {
+      "url": "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/previewworker.js",
+      "error": "HTTP 404 for https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/previewworker.js",
+      "status": 404
+    },
+    {
+      "url": "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/NW.js",
+      "error": "HTTP 404 for https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/NW.js",
+      "status": 404
+    },
+    {
+      "url": "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/splash-images/splash-poweredby-512.png",
+      "error": "HTTP 404 for https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/splash-images/splash-poweredby-512.png",
+      "status": 404
+    },
+    {
+      "url": "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/loading-logo.png",
+      "error": "HTTP 404 for https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/loading-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/splash-images/splash-logo.svg",
+      "error": "HTTP 404 for https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/splash-images/splash-logo.svg",
+      "status": 404
+    },
+    {
+      "url": "https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/splash-images/splash-website-512.png",
+      "error": "HTTP 404 for https://128573058-271038573160472917.preview.editmysite.com/uploads/b/146211889-311090386349094309/files/scripts/splash-images/splash-website-512.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/st39/package.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/gh/st39/package.json",
+      "status": 400
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/st39/sdk@main/lib/main.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/st39/sdk@main/lib/main.js",
+      "status": 404
+    },
+    {
+      "url": "https://www.googletagservices.com/pubads_impl.js",
+      "error": "HTTP 404 for https://www.googletagservices.com/pubads_impl.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T23:53:44.084Z",
+  "verifiedAt": "2026-11-17T23:54:50.593Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Super Oliver World",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1111,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8932,
+    "rendered": true
+  }
+}

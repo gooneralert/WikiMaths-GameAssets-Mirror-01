@@ -1,0 +1,70 @@
+{
+  "slug": "space-waves",
+  "title": "Space Waves",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/spacewaves.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/spacewaves.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/space.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/spacewaves.html",
+  "entryUrl": "https://truffled.lol/gamefile/spacewaves.html",
+  "status": "done",
+  "sizeBytes": 10870744,
+  "assetCount": 19,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/dae5c7bd2b15915f51ae4e56b8f5367d.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/dae5c7bd2b15915f51ae4e56b8f5367d.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/117/ServiceWorker.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/117/ServiceWorker.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/568ea6b3af616bd57f419c508c933303.data.unityweb",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/568ea6b3af616bd57f419c508c933303.data.unityweb",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/c699bc4c24abfbdb4c8b3e15b0af7d3f.framework.js.unityweb",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/c699bc4c24abfbdb4c8b3e15b0af7d3f.framework.js.unityweb",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/7fb5141de5923189bc1dc5f94eb619f2.wasm.unityweb",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/7fb5141de5923189bc1dc5f94eb619f2.wasm.unityweb",
+      "status": 400
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:47:43.185Z",
+  "verifiedAt": "2026-11-17T22:48:49.637Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Space Waves",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

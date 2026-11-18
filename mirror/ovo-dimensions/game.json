@@ -1,0 +1,198 @@
+{
+  "slug": "ovo-dimensions",
+  "title": "OvO Dimensions",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/OvoDimensions/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/OvoDimensions/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/ovodi.webp",
+  "baseUrl": "https://truffled.lol/games/OvoDimensions/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/OvoDimensions/index.html",
+  "status": "done",
+  "sizeBytes": 15901162,
+  "assetCount": 465,
+  "known404": [
+    "https://truffled.lol/games/OvoDimensions/data.json",
+    "https://truffled.lol/games/OvoDimensions/generateheightmap.js;unlockalllevels.js;websdkwrapper.js;ovo-level-editor.js",
+    "https://truffled.lol/games/OvoDimensions/silver.ttf",
+    "https://truffled.lol/games/OvoDimensions/retron2000.ttf",
+    "https://truffled.lol/solid.png",
+    "https://truffled.lol/solidwhite.png",
+    "https://truffled.lol/solidmove.png",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "http://imasdk.googleapis.com/js/sdkloader/.js",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/OvoDimensions/data.json",
+      "error": "HTTP 404 for https://truffled.lol/games/OvoDimensions/data.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/OvoDimensions/generateheightmap.js;unlockalllevels.js;websdkwrapper.js;ovo-level-editor.js",
+      "error": "HTTP 404 for https://truffled.lol/games/OvoDimensions/generateheightmap.js;unlockalllevels.js;websdkwrapper.js;ovo-level-editor.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/OvoDimensions/silver.ttf",
+      "error": "HTTP 404 for https://truffled.lol/games/OvoDimensions/silver.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/OvoDimensions/retron2000.ttf",
+      "error": "HTTP 404 for https://truffled.lol/games/OvoDimensions/retron2000.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/solid.png",
+      "error": "HTTP 404 for https://truffled.lol/solid.png",
+      "status": 404
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/hotmail.com.br",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/hotmail.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/solidwhite.png",
+      "error": "HTTP 404 for https://truffled.lol/solidwhite.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/solidmove.png",
+      "error": "HTTP 404 for https://truffled.lol/solidmove.png",
+      "status": 404
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/index.js",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/index.js",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/outlook.com.br",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/outlook.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/soecket.io.js",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/soecket.io.js",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/logo.svg",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/logo.svg",
+      "status": 403
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/Prebid.js",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/Prebid.js",
+      "status": 403
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/ojogos.com.br",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/ojogos.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/gecal.com.br",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/gecal.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/wrap.js",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/wrap.js",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://hb.improvedigital.com/pbw/prebid-idhb-v11.13b.min.js",
+      "error": "HTTP 403 for http://hb.improvedigital.com/pbw/prebid-idhb-v11.13b.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T15:22:29.036Z",
+  "verifiedAt": "2026-11-18T06:59:19.347Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "OvO Dimensions",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1268,
+      "height": 713
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.03,
+    "rendered": true
+  }
+}

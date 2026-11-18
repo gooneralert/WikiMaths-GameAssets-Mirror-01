@@ -1,0 +1,347 @@
+{
+  "slug": "super-mario-64",
+  "title": "Super Mario 64",
+  "type": "Emulation",
+  "developer": "Nintendo",
+  "description": "Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis - Bowser, King of the Koopas!",
+  "tags": [
+    "3D",
+    "3D Platformer",
+    "Action",
+    "Adventure",
+    "Old School",
+    "Retro"
+  ],
+  "controls": [
+    {
+      "action": "A",
+      "keys": [
+        {
+          "key": "KeyX",
+          "keyCode": 88
+        }
+      ]
+    },
+    {
+      "action": "B",
+      "keys": [
+        {
+          "key": "KeyS",
+          "keyCode": 83
+        }
+      ]
+    },
+    {
+      "action": "Start",
+      "keys": [
+        {
+          "key": "Enter",
+          "keyCode": 13
+        }
+      ]
+    },
+    {
+      "action": "D-Pad Up",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        }
+      ]
+    },
+    {
+      "action": "D-Pad Down",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        }
+      ]
+    },
+    {
+      "action": "D-Pad Left",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        }
+      ]
+    },
+    {
+      "action": "D-Pad Right",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        }
+      ]
+    },
+    {
+      "action": "L",
+      "keys": [
+        {
+          "key": "KeyQ",
+          "keyCode": 81
+        }
+      ]
+    },
+    {
+      "action": "R",
+      "keys": [
+        {
+          "key": "KeyE",
+          "keyCode": 69
+        }
+      ]
+    },
+    {
+      "action": "Z",
+      "keys": [
+        {
+          "key": "Tab",
+          "keyCode": 9
+        }
+      ]
+    },
+    {
+      "action": "Stick Up",
+      "keys": [
+        {
+          "key": "KeyT",
+          "keyCode": 84
+        }
+      ]
+    },
+    {
+      "action": "Stick Down",
+      "keys": [
+        {
+          "key": "KeyG",
+          "keyCode": 71
+        }
+      ]
+    },
+    {
+      "action": "Stick Left",
+      "keys": [
+        {
+          "key": "KeyF",
+          "keyCode": 70
+        }
+      ]
+    },
+    {
+      "action": "Stick Right",
+      "keys": [
+        {
+          "key": "KeyH",
+          "keyCode": 72
+        }
+      ]
+    },
+    {
+      "action": "C-Pad Up",
+      "keys": [
+        {
+          "key": "KeyI",
+          "keyCode": 73
+        }
+      ]
+    },
+    {
+      "action": "C-Pad Down",
+      "keys": [
+        {
+          "key": "KeyK",
+          "keyCode": 75
+        }
+      ]
+    },
+    {
+      "action": "C-Pad Left",
+      "keys": [
+        {
+          "key": "KeyJ",
+          "keyCode": 74
+        }
+      ]
+    },
+    {
+      "action": "C-Pad Right",
+      "keys": [
+        {
+          "key": "KeyL",
+          "keyCode": 76
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "A",
+      "buttons": [
+        0
+      ]
+    },
+    {
+      "action": "B",
+      "buttons": [
+        1
+      ]
+    },
+    {
+      "action": "Start",
+      "buttons": [
+        9
+      ]
+    },
+    {
+      "action": "D-Pad Up",
+      "buttons": [
+        12
+      ]
+    },
+    {
+      "action": "D-Pad Down",
+      "buttons": [
+        13
+      ]
+    },
+    {
+      "action": "D-Pad Left",
+      "buttons": [
+        14
+      ]
+    },
+    {
+      "action": "D-Pad Right",
+      "buttons": [
+        15
+      ]
+    },
+    {
+      "action": "L",
+      "buttons": [
+        4
+      ]
+    },
+    {
+      "action": "R",
+      "buttons": [
+        5
+      ]
+    },
+    {
+      "action": "Z",
+      "buttons": [
+        6
+      ]
+    },
+    {
+      "action": "Stick Up",
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Stick Down",
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Stick Left",
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Stick Right",
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "C-Pad Up",
+      "axes": [
+        {
+          "index": 3,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "C-Pad Down",
+      "axes": [
+        {
+          "index": 3,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "C-Pad Left",
+      "axes": [
+        {
+          "index": 2,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "C-Pad Right",
+      "axes": [
+        {
+          "index": 2,
+          "direction": 1
+        }
+      ]
+    }
+  ],
+  "controllerSupport": false,
+  "sourceId": "6e51972f-b052-4d37-b4e7-6cc477eae9bd",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/emulation/6e51972f-b052-4d37-b4e7-6cc477eae9bd/1/6e51972f-b052-4d37-b4e7-6cc477eae9bd.z64",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 8388608,
+  "files": [
+    "rom.z64",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local EmulatorJS runtime.",
+  "mirroredAt": "2026-10-26T11:47:38.150Z",
+  "verifiedAt": "2026-11-16T16:05:16.685Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Super Mario 64",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.5819,
+    "rendered": true
+  },
+  "assetCount": 0
+}

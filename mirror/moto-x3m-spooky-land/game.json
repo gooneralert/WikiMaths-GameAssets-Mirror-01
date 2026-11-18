@@ -1,0 +1,367 @@
+{
+  "slug": "moto-x3m-spooky-land",
+  "title": "Moto X3M Spooky Land",
+  "type": "HTML",
+  "developer": "Madpuffers",
+  "description": "Moto X3M Spooky Land is a racing game that takes dirt bike stunts into a haunted wasteland. Flip through eerie levels filled with slimy hazards, breaking bones, and sudden traps. Control your speed to cross the finish line.",
+  "tags": [
+    "Action",
+    "2D",
+    "Driving",
+    "Physics",
+    "Sports"
+  ],
+  "controls": [
+    {
+      "action": "Pause",
+      "keys": [
+        {
+          "key": "KeyP",
+          "keyCode": 80
+        }
+      ]
+    },
+    {
+      "action": "Reset",
+      "keys": [
+        {
+          "key": "KeyR",
+          "keyCode": 82
+        }
+      ]
+    },
+    {
+      "action": "Retry",
+      "keys": [
+        {
+          "key": "Space",
+          "keyCode": 32
+        }
+      ]
+    },
+    {
+      "action": "Forward",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        },
+        {
+          "key": "KeyW",
+          "keyCode": 87
+        }
+      ]
+    },
+    {
+      "action": "Backward",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        },
+        {
+          "key": "KeyS",
+          "keyCode": 83
+        }
+      ]
+    },
+    {
+      "action": "Rotate Forward",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        },
+        {
+          "key": "KeyD",
+          "keyCode": 68
+        }
+      ]
+    },
+    {
+      "action": "Rotate Backward",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        },
+        {
+          "key": "KeyA",
+          "keyCode": 65
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Pause",
+      "buttons": [
+        9
+      ]
+    },
+    {
+      "action": "Reset",
+      "buttons": [
+        1
+      ]
+    },
+    {
+      "action": "Retry",
+      "buttons": [
+        0
+      ]
+    },
+    {
+      "action": "Forward",
+      "buttons": [
+        15,
+        7
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Backward",
+      "buttons": [
+        14,
+        6
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Rotate Forward",
+      "buttons": [
+        3
+      ]
+    },
+    {
+      "action": "Rotate Backward",
+      "buttons": [
+        2
+      ]
+    }
+  ],
+  "controllerSupport": false,
+  "sourceId": "b5263e62-10d2-4e6c-aac0-4732f59f6a14",
+  "sourceVersion": "6.0.6g",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/index.html",
+  "status": "done",
+  "sizeBytes": 9984061,
+  "assetCount": 255,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/images/rotate.png",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/p2.js",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/package.json",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/src/p2.js",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/package.json",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/.xml",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/.json",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/.png",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.json",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.png",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.m4a",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.mp3",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.ogg",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/p2.js",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/src/p2.js",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/package.json",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.js",
+    "https://playobsidian.com/cdn/assets/html/package.json",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.xml",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.txt",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.bin",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/AllerDisplay/AllerDisplay.eot?",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/AllerDisplay/AllerDisplay.ttf",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/AllerDisplay/AllerDisplay.svg#AllerDisplay",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/CfCrackBold/cfcrackandbold.eot?",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/CfCrackBold/cfcrackandbold.ttf",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/Impact/impact.eot?",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/CfCrackBold/cfcrackandbold.svg#cfcrackandbold",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/Impact/impact.ttf",
+    "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/Impact/impact.svg#impact"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/images/rotate.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/images/rotate.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/p2.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/package.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/src/p2.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/src/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/package.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/.xml",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/lib/.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/p2.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/src/p2.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/src/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/package.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/package.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.xml",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.txt",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.bin",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/.bin",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/AllerDisplay/AllerDisplay.eot?",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/AllerDisplay/AllerDisplay.eot?",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/AllerDisplay/AllerDisplay.ttf",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/AllerDisplay/AllerDisplay.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/AllerDisplay/AllerDisplay.svg#AllerDisplay",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/AllerDisplay/AllerDisplay.svg#AllerDisplay",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/CfCrackBold/cfcrackandbold.eot?",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/CfCrackBold/cfcrackandbold.eot?",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/CfCrackBold/cfcrackandbold.ttf",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/CfCrackBold/cfcrackandbold.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/Impact/impact.eot?",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/Impact/impact.eot?",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/CfCrackBold/cfcrackandbold.svg#cfcrackandbold",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/CfCrackBold/cfcrackandbold.svg#cfcrackandbold",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/Impact/impact.ttf",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/Impact/impact.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/Impact/impact.svg#impact",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b5263e62-10d2-4e6c-aac0-4732f59f6a14/6.0.6g/assets/fonts/Impact/impact.svg#impact",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:19:54.120Z",
+  "verifiedAt": "2026-11-16T15:50:01.675Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Moto X3M Spooky Land",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 720,
+      "height": 480
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8588,
+    "rendered": true
+  }
+}

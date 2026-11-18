@@ -1,0 +1,48 @@
+{
+  "slug": "vex-2",
+  "title": "Vex 2",
+  "type": "Flash",
+  "developer": "Amazing Adam",
+  "description": "In the second Vex game you will jump in the same style. There will be many levels which you try to go through as quickly as possible. There will also be many obstacles which could stop you or make you start from the beginning.",
+  "tags": [
+    "2D Platformer",
+    "Action",
+    "Arcade",
+    "Difficult",
+    "Minimalist",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "f94174a4-4ddc-4811-8352-73a7a5031cc1",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/f94174a4-4ddc-4811-8352-73a7a5031cc1/1/f94174a4-4ddc-4811-8352-73a7a5031cc1.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 4360745,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:54:00.733Z",
+  "verifiedAt": "2026-11-16T16:18:45.015Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Vex 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.5715,
+    "rendered": true
+  },
+  "assetCount": 0
+}

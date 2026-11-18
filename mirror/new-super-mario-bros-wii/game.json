@@ -1,0 +1,63 @@
+{
+  "slug": "new-super-mario-bros-wii",
+  "title": "New Super Mario Bros. Wii",
+  "type": "HTML",
+  "developer": "Nintendo",
+  "description": "New Super Mario Bros. Wii is a side-scrolling platformer that joins Mario, Luigi, and two Toad friends. Guide the brothers through eight worlds of classic Mario action with power-ups like the Propeller Mushroom and Super Suit, and team up for cooperative play with up to four players as you race through levels, find Star Coins, and take on Bowser's forces.",
+  "tags": [
+    "2D Platformer",
+    "Platformer",
+    "Action",
+    "Multiplayer",
+    "Co-Op",
+    "Family Friendly"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "46975ef1-a576-49c2-b0ae-b740301204d2",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/46975ef1-a576-49c2-b0ae-b740301204d2/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/46975ef1-a576-49c2-b0ae-b740301204d2/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/46975ef1-a576-49c2-b0ae-b740301204d2/1/index.html",
+  "status": "done",
+  "sizeBytes": 9730907,
+  "assetCount": 40,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/46975ef1-a576-49c2-b0ae-b740301204d2/",
+    "https://playobsidian.com/cdn/assets/html/46975ef1-a576-49c2-b0ae-b740301204d2/1/sys/boot.bin"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/46975ef1-a576-49c2-b0ae-b740301204d2/",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/46975ef1-a576-49c2-b0ae-b740301204d2/",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/46975ef1-a576-49c2-b0ae-b740301204d2/1/sys/boot.bin",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/46975ef1-a576-49c2-b0ae-b740301204d2/1/sys/boot.bin",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:14:47.596Z",
+  "verifiedAt": "2026-11-16T15:51:33.998Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "New Super Mario Bros. Wii",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1706,
+      "height": 960
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

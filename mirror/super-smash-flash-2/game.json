@@ -1,0 +1,49 @@
+{
+  "slug": "super-smash-flash-2",
+  "title": "Super Smash Flash 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/ssf2.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/ssf2.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/ssf2.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/ssf2.html",
+  "entryUrl": "https://truffled.lol/gamefile/ssf2.html",
+  "status": "done",
+  "sizeBytes": 19415511,
+  "assetCount": 8,
+  "known404": [
+    "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T23:58:17.644Z",
+  "verifiedAt": "2026-11-17T23:58:28.428Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "really cool flash game",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.6624,
+    "rendered": true
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "this-is-the-only-level",
+  "title": "This Is The Only Level",
+  "type": "Flash",
+  "developer": "jmtb02",
+  "description": "The elephant forgot the rest of the levels, but luckily he still has one left! Help him beat it in all his metagaming glory. Use your keen knowledge of gaming and dexterity to manhandle your way through a variety of challenges.",
+  "tags": [
+    "2D Platformer",
+    "Indie",
+    "Puzzle",
+    "Retro",
+    "Stylized",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "197dbd26-226f-4e26-b5cb-54959ea73753",
+  "sourceVersion": "1.0",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/197dbd26-226f-4e26-b5cb-54959ea73753/1.0/197dbd26-226f-4e26-b5cb-54959ea73753.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 1317894,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:49:00.266Z",
+  "verifiedAt": "2026-11-16T16:14:19.758Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "This Is The Only Level",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.0514,
+    "rendered": true
+  },
+  "assetCount": 0
+}

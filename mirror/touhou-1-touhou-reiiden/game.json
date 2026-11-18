@@ -1,0 +1,87 @@
+{
+  "slug": "touhou-1-touhou-reiiden",
+  "title": "Touhou 1 Touhou-Reiiden",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/touhou.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/touhou.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/touhou1.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/touhou.html",
+  "entryUrl": "https://truffled.lol/gamefile/touhou.html",
+  "status": "done",
+  "sizeBytes": 7098172,
+  "assetCount": 7,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/yksoft1/yksoft1.github.io@master/dosboxxem-demo/th1e.temp.asm.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/2608_hh.wav",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/2608_hh.wav",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/2608_top.wav",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/2608_top.wav",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/2608_sd.wav",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/2608_sd.wav",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Reiiden.TXT",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Reiiden.TXT",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/2608_rim.wav",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/2608_rim.wav",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/2608_tom.wav",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/2608_tom.wav",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/2608_bd.wav",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/2608_bd.wav",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/yksoft1/yksoft1.github.io@master/dosboxxem-demo/th1e.temp.asm.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/yksoft1/yksoft1.github.io@master/dosboxxem-demo/th1e.temp.asm.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T02:36:41.031Z",
+  "verifiedAt": "2026-11-18T02:36:53.792Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "DOSBox-X 0.82.7, 11000 cyc/ms, OP",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 640,
+      "height": 400
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0526,
+    "rendered": true
+  }
+}

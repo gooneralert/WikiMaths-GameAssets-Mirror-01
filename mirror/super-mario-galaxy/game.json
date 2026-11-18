@@ -1,0 +1,64 @@
+{
+  "slug": "super-mario-galaxy",
+  "title": "Super Mario Galaxy",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/smg/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/smg/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/smg.webp",
+  "baseUrl": "https://truffled.lol/games/smg/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/smg/index.html",
+  "status": "done",
+  "sizeBytes": 6251919,
+  "assetCount": 16,
+  "known404": [
+    "https://truffled.lol/games/smg/movies.data",
+    "https://truffled.lol/games/smg/game.data",
+    "https://truffled.lol/save/shaders.bin"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/smg/movies.data",
+      "error": "HTTP 404 for https://truffled.lol/games/smg/movies.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/smg/game.data",
+      "error": "HTTP 404 for https://truffled.lol/games/smg/game.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/save/shaders.bin",
+      "error": "HTTP 404 for https://truffled.lol/save/shaders.bin",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T23:41:36.906Z",
+  "verifiedAt": "2026-11-17T23:41:46.617Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Super Mario Galaxy",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.221,
+    "rendered": true
+  }
+}
